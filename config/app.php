@@ -41,7 +41,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost/projects/cis/',
+    'url' => 'http://cis-web-site.localhost/',
 
     /*
     |--------------------------------------------------------------------------
@@ -107,7 +107,7 @@ return [
     |
     */
 
-    'key' => 'Qf4LMqTQm6DxaTNtuJVJjvKn61QlJZHN',
+    'key' => '8OnqbIdLilU3xSXt2MtLmYy3gDMcBwyn',
 
     'cipher' => 'AES-256-CBC',
 

@@ -1,4 +1,3 @@
-.DS_Store
-*.log
+# Created by .ignore support plugin (hsz.mobi)
 vendor/
 .idea/
