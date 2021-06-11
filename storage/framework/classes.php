@@ -125,4 +125,5 @@
   'Backend\\FormWidgets\\CodeEditor' => 'modules/backend/formwidgets/CodeEditor.php',
   'Cms\\FormWidgets\\Components' => 'modules/cms/formwidgets/Components.php',
   'System\\Classes\\ErrorHandler' => 'modules/system/classes/ErrorHandler.php',
+  'System\\Helpers\\Cache' => 'modules/system/helpers/Cache.php',
 );

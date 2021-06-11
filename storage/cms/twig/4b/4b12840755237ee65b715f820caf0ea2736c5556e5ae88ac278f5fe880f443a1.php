@@ -87,7 +87,7 @@ class __TwigTemplate_0aba7fb0ac5f7bea022faa439a7e4a4d9ba56e9e04ad4610aa2e5526ec1
             <div class=\"row\">
                 <div class=\"col-lg-12\">
                     <div class=\"footer-copyright\">
-                        <p>Copyright By@ <span>WebTend</span> - 2021</p>
+                        <p>Copyright By@ <span>CIS</span> - 2021</p>
                     </div> <!-- footer copyright -->
                 </div>
             </div> <!-- row -->
@@ -164,7 +164,7 @@ class __TwigTemplate_0aba7fb0ac5f7bea022faa439a7e4a4d9ba56e9e04ad4610aa2e5526ec1
             <div class=\"row\">
                 <div class=\"col-lg-12\">
                     <div class=\"footer-copyright\">
-                        <p>Copyright By@ <span>WebTend</span> - 2021</p>
+                        <p>Copyright By@ <span>CIS</span> - 2021</p>
                     </div> <!-- footer copyright -->
                 </div>
             </div> <!-- row -->

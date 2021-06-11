@@ -36,14 +36,37 @@ class __TwigTemplate_fd3115fccac4ddac001bc9ad84e496c7f9cff54db05b8fe11ec5d3f4f43
     {
         $macros = $this->macros;
         // line 1
-        echo "<header class=\"header-area-2 header-area-3\">
+        echo "<header class=\"header-area header-area-2 header-area-4\">
+    <div class=\"header-top pl-30 pr-30 white-bg\">
+        <div class=\"row align-items-center\">
+            <div class=\"col-md-6 col-sm-7\">
+                <div class=\"header-left-side text-center text-sm-left\">
+                    <ul>
+                        <li><strong><a href=\"#\"><i class=\"fal fa-envelope\"></i> info@webmail.com</a></strong></li>
+                        <li><strong><a href=\"#\"><i class=\"fal fa-phone\"></i> +225 xx xx xx xx xx</a></strong></li>
+                    </ul>
+                </div>
+            </div>
+            <div class=\"col-md-6 col-sm-5\">
+                <div class=\"header-right-social text-center text-sm-right\">
+                    <ul>
+                        <li><a href=\"#\"><i class=\"fab fa-facebook-f\"></i></a></li>
+                        <li><a href=\"#\"><i class=\"fab fa-linkedin-in\"></i></a></li>
+                        <li><a href=\"#\"><i class=\"fab fa-youtube\"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class=\"header-nav\">
         <div class=\"navigation\">
             <nav class=\"navbar navbar-expand-lg navbar-light \">
-                <a class=\"navbar-brand\" ><img src=\"";
-        // line 5
+                <a class=\"navbar-brand\" href=\"#\">
+                    <img src=\"";
+        // line 27
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/logo/cis.png");
-        echo "\"> </a> <!-- logo -->
+        echo "\" width=\"73\" height=\"65\" alt=\"\">
+                </a> <!-- logo -->
                 <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
                     <span class=\"toggler-icon\"></span>
                     <span class=\"toggler-icon\"></span>
@@ -51,34 +74,70 @@ class __TwigTemplate_fd3115fccac4ddac001bc9ad84e496c7f9cff54db05b8fe11ec5d3f4f43
                 </button> <!-- navbar toggler -->
 
                 <div class=\"collapse navbar-collapse sub-menu-bar\" id=\"navbarSupportedContent\">
-                    <ul class=\"navbar-nav m-auto\">
-                        <li class=\"nav-item active\">
-                            <a class=\"nav-link\" href=\"#\">Accueil</a>
+                    <ul class=\"navbar-nav offset-4\">
+                        <li class=\"nav-item ";
+        // line 37
+        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 37), "id", [], "any", false, false, true, 37) == "accueil")) {
+            echo "active";
+        }
+        echo "\">
+                            <a class=\"nav-link\" href=\"";
+        // line 38
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("");
+        echo "\">Accueil</a>
                         </li>
-
-                        <li class=\"nav-item\">
-                            <a class=\"nav-link\" href=\"#\">Présentation</a>
+                        <li class=\"nav-item ";
+        // line 40
+        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 40), "id", [], "any", false, false, true, 40) == "presentation")) {
+            echo "active";
+        }
+        echo "\">
+                            <a class=\"nav-link\" href=\"";
+        // line 41
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
+        echo "\">Présentation</a>
                         </li>
-
-                        <li class=\"nav-item\">
-                            <a class=\"nav-link\" href=\"#\">Nos Services</a>
+                        <li class=\"nav-item ";
+        // line 43
+        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 43), "id", [], "any", false, false, true, 43) == "nos-services")) {
+            echo "active";
+        }
+        echo "\">
+                            <a class=\"nav-link\" href=\"";
+        // line 44
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-services");
+        echo "\">Nos Services</a>
                             <ul class=\"sub-menu\">
-                                <li><a href=\"#\">Services</a></li>
-                                <li><a href=\"#\">Services Details</a></li>
+                                <li><a href=\"#\">En attente 1</a></li>
+                                <li><a href=\"#\">En attente 2</a></li>
                             </ul> <!-- sub menu -->
                         </li>
-
-                        <li class=\"nav-item\">
-                            <a class=\"nav-link\" href=\"#\">Blog</a>
+                        <li class=\"nav-item ";
+        // line 50
+        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 50), "id", [], "any", false, false, true, 50) == "blog")) {
+            echo "active";
+        }
+        echo "\">
+                            <a class=\"nav-link\" href=\"";
+        // line 51
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("blog");
+        echo "\">Blog</a>
                             <ul class=\"sub-menu\">
                                 <li><a href=\"#\">Blog Standard</a></li>
                                 <li><a href=\"#\">Blog Grid</a></li>
                                 <li><a href=\"#\">Blog Details</a></li>
                             </ul> <!-- sub menu -->
                         </li>
-
-                        <li class=\"nav-item\">
-                            <a class=\"nav-link\" href=\"#l\">Nos Contacts</a>
+                        <li class=\"nav-item ";
+        // line 58
+        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 58), "id", [], "any", false, false, true, 58) == "nos-contacts")) {
+            echo "active";
+        }
+        echo "\">
+                            <a class=\"nav-link\" href=\"";
+        // line 59
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-contacts");
+        echo "\">Nos Contacts</a>
                         </li>
                     </ul>
                 </div> <!-- navbar collapse -->
@@ -100,16 +159,39 @@ class __TwigTemplate_fd3115fccac4ddac001bc9ad84e496c7f9cff54db05b8fe11ec5d3f4f43
 
     public function getDebugInfo()
     {
-        return array (  45 => 5,  39 => 1,);
+        return array (  139 => 59,  133 => 58,  123 => 51,  117 => 50,  108 => 44,  102 => 43,  97 => 41,  91 => 40,  86 => 38,  80 => 37,  67 => 27,  39 => 1,);
     }
 
     public function getSourceContext()
     {
-        return new Source("<header class=\"header-area-2 header-area-3\">
+        return new Source("<header class=\"header-area header-area-2 header-area-4\">
+    <div class=\"header-top pl-30 pr-30 white-bg\">
+        <div class=\"row align-items-center\">
+            <div class=\"col-md-6 col-sm-7\">
+                <div class=\"header-left-side text-center text-sm-left\">
+                    <ul>
+                        <li><strong><a href=\"#\"><i class=\"fal fa-envelope\"></i> info@webmail.com</a></strong></li>
+                        <li><strong><a href=\"#\"><i class=\"fal fa-phone\"></i> +225 xx xx xx xx xx</a></strong></li>
+                    </ul>
+                </div>
+            </div>
+            <div class=\"col-md-6 col-sm-5\">
+                <div class=\"header-right-social text-center text-sm-right\">
+                    <ul>
+                        <li><a href=\"#\"><i class=\"fab fa-facebook-f\"></i></a></li>
+                        <li><a href=\"#\"><i class=\"fab fa-linkedin-in\"></i></a></li>
+                        <li><a href=\"#\"><i class=\"fab fa-youtube\"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class=\"header-nav\">
         <div class=\"navigation\">
             <nav class=\"navbar navbar-expand-lg navbar-light \">
-                <a class=\"navbar-brand\" ><img src=\"{{ 'assets/logo/cis.png' |theme }}\"> </a> <!-- logo -->
+                <a class=\"navbar-brand\" href=\"#\">
+                    <img src=\"{{ 'assets/logo/cis.png'| theme}}\" width=\"73\" height=\"65\" alt=\"\">
+                </a> <!-- logo -->
                 <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
                     <span class=\"toggler-icon\"></span>
                     <span class=\"toggler-icon\"></span>
@@ -117,34 +199,30 @@ class __TwigTemplate_fd3115fccac4ddac001bc9ad84e496c7f9cff54db05b8fe11ec5d3f4f43
                 </button> <!-- navbar toggler -->
 
                 <div class=\"collapse navbar-collapse sub-menu-bar\" id=\"navbarSupportedContent\">
-                    <ul class=\"navbar-nav m-auto\">
-                        <li class=\"nav-item active\">
-                            <a class=\"nav-link\" href=\"#\">Accueil</a>
+                    <ul class=\"navbar-nav offset-4\">
+                        <li class=\"nav-item {% if this.page.id == 'accueil' %}active{% endif %}\">
+                            <a class=\"nav-link\" href=\"{{ ''|page }}\">Accueil</a>
                         </li>
-
-                        <li class=\"nav-item\">
-                            <a class=\"nav-link\" href=\"#\">Présentation</a>
+                        <li class=\"nav-item {% if this.page.id == 'presentation' %}active{% endif %}\">
+                            <a class=\"nav-link\" href=\"{{ 'presentation'|page }}\">Présentation</a>
                         </li>
-
-                        <li class=\"nav-item\">
-                            <a class=\"nav-link\" href=\"#\">Nos Services</a>
+                        <li class=\"nav-item {% if this.page.id == 'nos-services' %}active{% endif %}\">
+                            <a class=\"nav-link\" href=\"{{ 'nos-services'|page }}\">Nos Services</a>
                             <ul class=\"sub-menu\">
-                                <li><a href=\"#\">Services</a></li>
-                                <li><a href=\"#\">Services Details</a></li>
+                                <li><a href=\"#\">En attente 1</a></li>
+                                <li><a href=\"#\">En attente 2</a></li>
                             </ul> <!-- sub menu -->
                         </li>
-
-                        <li class=\"nav-item\">
-                            <a class=\"nav-link\" href=\"#\">Blog</a>
+                        <li class=\"nav-item {% if this.page.id == 'blog' %}active{% endif %}\">
+                            <a class=\"nav-link\" href=\"{{ 'blog'|page }}\">Blog</a>
                             <ul class=\"sub-menu\">
                                 <li><a href=\"#\">Blog Standard</a></li>
                                 <li><a href=\"#\">Blog Grid</a></li>
                                 <li><a href=\"#\">Blog Details</a></li>
                             </ul> <!-- sub menu -->
                         </li>
-
-                        <li class=\"nav-item\">
-                            <a class=\"nav-link\" href=\"#l\">Nos Contacts</a>
+                        <li class=\"nav-item {% if this.page.id == 'nos-contacts' %}active{% endif %}\">
+                            <a class=\"nav-link\" href=\"{{ 'nos-contacts'|page }}\">Nos Contacts</a>
                         </li>
                     </ul>
                 </div> <!-- navbar collapse -->
@@ -156,14 +234,14 @@ class __TwigTemplate_fd3115fccac4ddac001bc9ad84e496c7f9cff54db05b8fe11ec5d3f4f43
     
     public function checkSecurity()
     {
-        static $tags = array();
-        static $filters = array("theme" => 5);
+        static $tags = array("if" => 37);
+        static $filters = array("theme" => 27, "page" => 38);
         static $functions = array();
 
         try {
             $this->sandbox->checkSecurity(
-                [],
-                ['theme'],
+                ['if'],
+                ['theme', 'page'],
                 []
             );
         } catch (SecurityError $e) {
