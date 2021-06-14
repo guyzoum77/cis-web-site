@@ -1,5 +1,5 @@
-1623713767a:1:{s:11:"acceuil.htm";a:9:{s:8:"fileName";s:11:"acceuil.htm";s:7:"content";s:27741:"title = "accueil"
-url = "/accueil"
+1623713957a:1:{s:11:"accueil.htm";a:9:{s:8:"fileName";s:11:"accueil.htm";s:7:"content";s:27727:"title = "accueil"
+url = "/"
 layout = "layout"
 is_hidden = 0
 ==
@@ -422,8 +422,7 @@ is_hidden = 0
         </div>
         <!--====== GET IN TOUCH PART ENDS ======-->
     </div>
-</section>
-";s:5:"mtime";i:1623713166;s:6:"markup";s:27664:"<section>
+</section>";s:5:"mtime";i:1623713353;s:6:"markup";s:27664:"<section>
     <div class="body">
         <!--====== BANNER PART START ======-->
         <div class="banner-active">
@@ -842,4 +841,4 @@ is_hidden = 0
         </div>
         <!--====== GET IN TOUCH PART ENDS ======-->
     </div>
-</section>";s:4:"code";N;s:5:"title";s:7:"accueil";s:3:"url";s:8:"/accueil";s:6:"layout";s:6:"layout";s:9:"is_hidden";s:1:"0";}}
+</section>";s:4:"code";N;s:5:"title";s:7:"accueil";s:3:"url";s:1:"/";s:6:"layout";s:6:"layout";s:9:"is_hidden";s:1:"0";}}

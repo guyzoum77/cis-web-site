@@ -12,8 +12,8 @@ use Twig\Sandbox\SecurityNotAllowedFunctionError;
 use Twig\Source;
 use Twig\Template;
 
-/* /var/www/cis-web-site.localhost/themes/cis/pages/acceuil.htm */
-class __TwigTemplate_43e2f640ebc44c35ec228970da122fd2e2439c61d98f58271af1e4b8c239ae73 extends \Twig\Template
+/* /var/www/cis-web-site.localhost/themes/cis/pages/accueil.htm */
+class __TwigTemplate_1694cbd60241f0a2914ef38953e3f0c16a7a8243f68af434096d3a7baebd46c5 extends \Twig\Template
 {
     private $source;
     private $macros = [];
@@ -511,7 +511,7 @@ class __TwigTemplate_43e2f640ebc44c35ec228970da122fd2e2439c61d98f58271af1e4b8c23
 
     public function getTemplateName()
     {
-        return "/var/www/cis-web-site.localhost/themes/cis/pages/acceuil.htm";
+        return "/var/www/cis-web-site.localhost/themes/cis/pages/accueil.htm";
     }
 
     public function isTraitable()
@@ -945,7 +945,7 @@ class __TwigTemplate_43e2f640ebc44c35ec228970da122fd2e2439c61d98f58271af1e4b8c23
         </div>
         <!--====== GET IN TOUCH PART ENDS ======-->
     </div>
-</section>", "/var/www/cis-web-site.localhost/themes/cis/pages/acceuil.htm", "");
+</section>", "/var/www/cis-web-site.localhost/themes/cis/pages/accueil.htm", "");
     }
     
     public function checkSecurity()

@@ -469,3 +469,28 @@ Stack trace:
 #54 /var/www/cis-web-site.localhost/index.php(43): Illuminate\Foundation\Http\Kernel->handle()
 #55 /var/www/cis-web-site.localhost/server.php(17): require_once('/var/www/cis-we...')
 #56 {main}  
+[2021-06-14 23:06:07] development.ERROR: Symfony\Component\Console\Exception\CommandNotFoundException: Command "cache:" is ambiguous.
+Did you mean one of these?
+    cache:clear  Flush the application cache
+    cache:forget Remove an item from the cache. in /var/www/cis-web-site.localhost/vendor/symfony/console/Application.php:689
+Stack trace:
+#0 /var/www/cis-web-site.localhost/vendor/symfony/console/Application.php(236): Symfony\Component\Console\Application->find()
+#1 /var/www/cis-web-site.localhost/vendor/symfony/console/Application.php(148): Symfony\Component\Console\Application->doRun()
+#2 /var/www/cis-web-site.localhost/vendor/laravel/framework/src/Illuminate/Console/Application.php(88): Symfony\Component\Console\Application->run()
+#3 /var/www/cis-web-site.localhost/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(121): Illuminate\Console\Application->run()
+#4 /var/www/cis-web-site.localhost/artisan(35): Illuminate\Foundation\Console\Kernel->handle()
+#5 {main}  
+[2021-06-14 23:06:18] development.ERROR: Symfony\Component\Console\Exception\CommandNotFoundException: Command "cache" is not defined.
+
+Did you mean one of these?
+    cache:clear
+    cache:forget
+    config:cache
+    route:cache in /var/www/cis-web-site.localhost/vendor/symfony/console/Application.php:651
+Stack trace:
+#0 /var/www/cis-web-site.localhost/vendor/symfony/console/Application.php(236): Symfony\Component\Console\Application->find()
+#1 /var/www/cis-web-site.localhost/vendor/symfony/console/Application.php(148): Symfony\Component\Console\Application->doRun()
+#2 /var/www/cis-web-site.localhost/vendor/laravel/framework/src/Illuminate/Console/Application.php(88): Symfony\Component\Console\Application->run()
+#3 /var/www/cis-web-site.localhost/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(121): Illuminate\Console\Application->run()
+#4 /var/www/cis-web-site.localhost/artisan(35): Illuminate\Foundation\Console\Kernel->handle()
+#5 {main}  

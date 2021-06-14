@@ -1,4 +1,4 @@
-1623378473a:1:{s:10:"header.htm";a:5:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:3775:"<header class="header-area header-area-2 header-area-4">
+1623713826a:1:{s:10:"header.htm";a:5:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:3023:"<header class="header-area header-area-2 header-area-4">
     <div class="header-top pl-30 pr-30 white-bg">
         <div class="row align-items-center">
             <div class="col-md-6 col-sm-7">
@@ -35,25 +35,13 @@
                 <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                     <ul class="navbar-nav offset-4">
                         <li class="nav-item {% if this.page.id == 'accueil' %}active{% endif %}">
-                            <a class="nav-link" href="{{ ''|page }}">Accueil</a>
+                            <a class="nav-link" href="{{ 'accueil'|page }}">Accueil</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'presentation' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'presentation'|page }}">Présentation</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'nos-services' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'nos-services'|page }}">Nos Services</a>
-                            <ul class="sub-menu">
-                                <li><a href="#">En attente 1</a></li>
-                                <li><a href="#">En attente 2</a></li>
-                            </ul> <!-- sub menu -->
-                        </li>
-                        <li class="nav-item {% if this.page.id == 'blog' %}active{% endif %}">
-                            <a class="nav-link" href="{{ 'blog'|page }}">Blog</a>
-                            <ul class="sub-menu">
-                                <li><a href="#">Blog Standard</a></li>
-                                <li><a href="#">Blog Grid</a></li>
-                                <li><a href="#">Blog Details</a></li>
-                            </ul> <!-- sub menu -->
                         </li>
                         <li class="nav-item {% if this.page.id == 'nos-contacts' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'nos-contacts'|page }}">Nos Contacts</a>
@@ -64,7 +52,7 @@
         </div> <!-- navigation -->
     </div>
 </header>
-";s:5:"mtime";i:1623373350;s:6:"markup";s:3774:"<header class="header-area header-area-2 header-area-4">
+";s:5:"mtime";i:1623713212;s:6:"markup";s:3022:"<header class="header-area header-area-2 header-area-4">
     <div class="header-top pl-30 pr-30 white-bg">
         <div class="row align-items-center">
             <div class="col-md-6 col-sm-7">
@@ -101,25 +89,13 @@
                 <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                     <ul class="navbar-nav offset-4">
                         <li class="nav-item {% if this.page.id == 'accueil' %}active{% endif %}">
-                            <a class="nav-link" href="{{ ''|page }}">Accueil</a>
+                            <a class="nav-link" href="{{ 'accueil'|page }}">Accueil</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'presentation' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'presentation'|page }}">Présentation</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'nos-services' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'nos-services'|page }}">Nos Services</a>
-                            <ul class="sub-menu">
-                                <li><a href="#">En attente 1</a></li>
-                                <li><a href="#">En attente 2</a></li>
-                            </ul> <!-- sub menu -->
-                        </li>
-                        <li class="nav-item {% if this.page.id == 'blog' %}active{% endif %}">
-                            <a class="nav-link" href="{{ 'blog'|page }}">Blog</a>
-                            <ul class="sub-menu">
-                                <li><a href="#">Blog Standard</a></li>
-                                <li><a href="#">Blog Grid</a></li>
-                                <li><a href="#">Blog Details</a></li>
-                            </ul> <!-- sub menu -->
                         </li>
                         <li class="nav-item {% if this.page.id == 'nos-contacts' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'nos-contacts'|page }}">Nos Contacts</a>

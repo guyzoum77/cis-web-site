@@ -35,25 +35,13 @@
                 <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                     <ul class="navbar-nav offset-4">
                         <li class="nav-item {% if this.page.id == 'accueil' %}active{% endif %}">
-                            <a class="nav-link" href="{{ ''|page }}">Accueil</a>
+                            <a class="nav-link" href="{{ 'accueil'|page }}">Accueil</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'presentation' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'presentation'|page }}">Présentation</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'nos-services' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'nos-services'|page }}">Nos Services</a>
-                            <ul class="sub-menu">
-                                <li><a href="#">En attente 1</a></li>
-                                <li><a href="#">En attente 2</a></li>
-                            </ul> <!-- sub menu -->
-                        </li>
-                        <li class="nav-item {% if this.page.id == 'blog' %}active{% endif %}">
-                            <a class="nav-link" href="{{ 'blog'|page }}">Blog</a>
-                            <ul class="sub-menu">
-                                <li><a href="#">Blog Standard</a></li>
-                                <li><a href="#">Blog Grid</a></li>
-                                <li><a href="#">Blog Details</a></li>
-                            </ul> <!-- sub menu -->
                         </li>
                         <li class="nav-item {% if this.page.id == 'nos-contacts' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'nos-contacts'|page }}">Nos Contacts</a>

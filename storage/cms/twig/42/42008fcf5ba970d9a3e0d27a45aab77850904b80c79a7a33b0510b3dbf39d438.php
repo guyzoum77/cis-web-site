@@ -49,7 +49,7 @@ class __TwigTemplate_0b7ee61a2575b3400070053db960bee4887284d2d61e8b774697cbc113a
                                 <ol class=\"breadcrumb\">
                                     <li class=\"breadcrumb-item\"><a href=\"";
         // line 12
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("");
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("accueil");
         echo "\">Accueil </a></li>
                                     <li class=\"breadcrumb-item active\" aria-current=\"";
         // line 13
@@ -360,7 +360,7 @@ class __TwigTemplate_0b7ee61a2575b3400070053db960bee4887284d2d61e8b774697cbc113a
                             <h2 class=\"title\">Présentation</h2>
                             <nav aria-label=\"breadcrumb\">
                                 <ol class=\"breadcrumb\">
-                                    <li class=\"breadcrumb-item\"><a href=\"{{ ''|page }}\">Accueil </a></li>
+                                    <li class=\"breadcrumb-item\"><a href=\"{{ 'accueil'|page }}\">Accueil </a></li>
                                     <li class=\"breadcrumb-item active\" aria-current=\"{{ 'presentation'|page }}\">Présentation</li>
                                 </ol>
                             </nav>

@@ -1,4 +1,4 @@
-1623378473a:1:{s:16:"nos-contacts.htm";a:9:{s:8:"fileName";s:16:"nos-contacts.htm";s:7:"content";s:5774:"title = "nos contacts"
+1623713719a:1:{s:16:"nos-contacts.htm";a:9:{s:8:"fileName";s:16:"nos-contacts.htm";s:7:"content";s:5793:"title = "nos contacts"
 url = "/nos-contacts"
 layout = "layout"
 is_hidden = 0
@@ -14,7 +14,7 @@ is_hidden = 0
                             <h2 class="title">Nos Contacts</h2>
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="#">Accueil </a></li>
+                                    <li class="breadcrumb-item"><a href="{{ 'accueil'|page }}">Accueil </a></li>
                                     <li class="breadcrumb-item active" aria-current="page">Nos Contacts</li>
                                 </ol>
                             </nav>
@@ -113,7 +113,7 @@ is_hidden = 0
         <!--====== GET IN TOUCH PART ENDS ======-->
     </div>
 </section>
-";s:5:"mtime";i:1623377846;s:6:"markup";s:5693:"<section>
+";s:5:"mtime";i:1623713116;s:6:"markup";s:5712:"<section>
     <div class="body">
         <!--====== PAGE TITLE PART START ======-->
         <div class="page-title-area">
@@ -124,7 +124,7 @@ is_hidden = 0
                             <h2 class="title">Nos Contacts</h2>
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="#">Accueil </a></li>
+                                    <li class="breadcrumb-item"><a href="{{ 'accueil'|page }}">Accueil </a></li>
                                     <li class="breadcrumb-item active" aria-current="page">Nos Contacts</li>
                                 </ol>
                             </nav>
