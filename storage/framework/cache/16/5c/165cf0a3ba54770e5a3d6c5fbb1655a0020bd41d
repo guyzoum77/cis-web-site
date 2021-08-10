@@ -1,0 +1,551 @@
+1628559805a:1:{s:16:"presentation.htm";a:9:{s:8:"fileName";s:16:"presentation.htm";s:7:"content";s:16391:"title = "presentation"
+url = "/presentation"
+layout = "layout"
+is_hidden = 0
+==
+<section>
+    <div class="body">
+        <!--====== PAGE TITLE PART START ======-->
+        <div class="page-title-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="page-title-item text-center">
+                            <h2 class="title">Présentation</h2>
+                            <nav aria-label="breadcrumb">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a href="{{ 'accueil'|page }}">Accueil </a></li>
+                                    <li class="breadcrumb-item active" aria-current="{{ 'presentation'|page }}">Présentation</li>
+                                </ol>
+                            </nav>
+                        </div> <!-- page title -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div>
+        <!--====== PAGE TITLE PART ENDS ======-->
+
+        <!--====== ABOUT EXPERIENCE PART START ======-->
+
+        <div class="about-experience-area pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="experience-item">
+                            <span>Une expertise de plus de 30 ans</span>
+                            <h2 class="title">
+                                Distributeur et Intégrateur de solution ...
+                            </h2>
+                        </div> <!-- experience item -->
+                    </div>
+                    <div class="col-lg-6 offset-lg-1">
+                        <div class="experience-item">
+                            <p>
+                                Le Groupe CIS possède une expertise de plus de
+                                30 ans dans la distribution et l’intégration de
+                                solutions, produits et services technologiques.
+                            </p>
+                            <p>
+                                La société est organisée en unités opérationnelles qui sont bien compétentes au sein de leurs segments de
+                                marché respectifs. La compétence commerciale et technique de nos équipes, ainsi que leur faculté d’adaptation
+                                aux besoins et aux attentes des différents marchés ont profondément contribué au développement du Groupe.
+                            </p>
+                            <p>
+                                La croissance récente n’aurait pas été possible sans la confiance des clients, des entreprises technologiques, des
+                                petites, moyennes et grandes entreprises qui font confiance à CIS pour la conception et l’exécution de leurs projets
+                                TIC, et qui ont choisi notre groupe comme leur distributeur/revendeur.
+                            </p>
+                        </div> <!-- experience item -->
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-6 col-sm-8 wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".2s">
+                        <div class="single-experience mt-30">
+                            <img src="{{ 'assets/images/experience-1.jpg'| theme}}" alt="">
+                            <div class="experience-overlay">
+                                <h5 class="title">Design & Development</h5>
+                                <p>The functional goal of technical content is to help people use a product.</p>
+                                <a href="#">Read More</a>
+                                <i class="fal fa-laptop-code"></i>
+
+                            </div>
+                        </div> <!-- single experience -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-8 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
+                        <div class="single-experience mt-30">
+                            <img src="{{ 'assets/images/experience-2.jpg'|theme }}" alt="">
+                            <div class="experience-overlay">
+                                <h5 class="title">Technical Support</h5>
+                                <p>The functional goal of technical content is to help people use a product.</p>
+                                <a href="#">Read More</a>
+                                <i class="fal fa-headphones-alt"></i>
+                            </div>
+                        </div> <!-- single experience -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-8 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".6s">
+                        <div class="single-experience mt-30">
+                            <img src="{{ 'assets/images/experience-3.jpg'|theme}}" alt="">
+                            <div class="experience-overlay">
+                                <h5 class="title">Digital Marketing</h5>
+                                <p>The functional goal of technical content is to help people use a product.</p>
+                                <a href="#">Read More</a>
+                                <i class="fal fa-analytics"></i>
+                            </div>
+                        </div> <!-- single experience -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div>
+
+        <!--====== ABOUT EXPERIENCE PART ENDS ======-->
+
+        <!--====== ABOUT INTRO PART START ======-->
+
+        <div class="about-intro-area pt-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="intro-thumb">
+                            <img src="{{ 'assets/images/about-intro-thumb.jpg'|theme }}" alt="">
+                            <a class="video-popup" href="http://bit.ly/2VuPnrx"><i class="fas fa-play"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="intri-content">
+                            <span>Intro Video</span>
+                            <h2 class="title">How we growth <br> our business.</h2>
+                            <p class="text-1">The introduction of cloud and mobile technologies into enterprise software.</p>
+                            <p class="text-2">hether you are building an enterprise web portal or a state-of-the-art website, you always need the right modern tools. Well-built and maintained PHP frameworks provide those tools in abundance, allowing maintained PHP frameworks provide those tools in abundance, allowing developers to save time, re-use code, and streamline the back end. As software development tools continuously.</p>
+                            <a class="main-btn wow fadeInUp" href="#" data-wow-duration="1s" data-wow-delay=".4s">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--====== ABOUT INTRO PART ENDS ======-->
+
+        <!--====== ABOUT HISTORY PART START ======-->
+
+        <div class="about-history-area">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-8">
+                        <div class="section-title text-center">
+                            <h2 class="title">Our History</h2>
+                            <p>Does any industry face a more complex audience journey and marketing sales process than B2B technology.</p>
+                        </div> <!-- section title -->
+                    </div>
+                </div> <!-- row -->
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="history-item  pt-240">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <img src="{{ 'assets/images/history-1.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>02</span>
+                            </div>
+                        </div> <!-- history item -->
+                        <div class="history-item">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <img src="{{ 'assets/images/history-2.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>04</span>
+                            </div>
+                            <div class="number-box-2">
+                                <i class="fal fa-plus"></i>
+                            </div>
+                        </div> <!-- history item -->
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="history-item history-item-2">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <img src="{{ 'assets/images/history-3.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>01</span>
+                            </div>
+                        </div> <!-- history item -->
+                        <div class="history-item history-item-2">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <img src="{{ 'assets/images/history-4.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>03</span>
+                            </div>
+                        </div> <!-- history item -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div>
+
+        <!--====== ABOUT HISTORY PART ENDS ======-->
+
+        <!--====== ABOT FAQ PART START ======-->
+
+        <div class="about-history-area">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-8">
+                        <div class="section-title text-center">
+                            <h2 class="title">Our History</h2>
+                            <p>Does any industry face a more complex audience journey and marketing sales process than B2B technology.</p>
+                        </div> <!-- section title -->
+                    </div>
+                </div> <!-- row -->
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="history-item  pt-240">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <img src="{{ 'assets/images/history-1.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>02</span>
+                            </div>
+                        </div> <!-- history item -->
+                        <div class="history-item">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <img src="{{ 'assets/images/history-2.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>04</span>
+                            </div>
+                            <div class="number-box-2">
+                                <i class="fal fa-plus"></i>
+                            </div>
+                        </div> <!-- history item -->
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="history-item history-item-2">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <img src="{{ 'assets/images/history-3.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>01</span>
+                            </div>
+                        </div> <!-- history item -->
+                        <div class="history-item history-item-2">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <img src="{{ 'assets/images/history-4.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>03</span>
+                            </div>
+                        </div> <!-- history item -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div>
+
+        <!--====== ABOUT HISTORY PART ENDS ======-->
+
+        <!--====== ABOUT FAQ PART ENDS ======-->
+    </div>
+</section>
+";s:5:"mtime";i:1628559203;s:6:"markup";s:16304:"<section>
+    <div class="body">
+        <!--====== PAGE TITLE PART START ======-->
+        <div class="page-title-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="page-title-item text-center">
+                            <h2 class="title">Présentation</h2>
+                            <nav aria-label="breadcrumb">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a href="{{ 'accueil'|page }}">Accueil </a></li>
+                                    <li class="breadcrumb-item active" aria-current="{{ 'presentation'|page }}">Présentation</li>
+                                </ol>
+                            </nav>
+                        </div> <!-- page title -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div>
+        <!--====== PAGE TITLE PART ENDS ======-->
+
+        <!--====== ABOUT EXPERIENCE PART START ======-->
+
+        <div class="about-experience-area pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="experience-item">
+                            <span>Une expertise de plus de 30 ans</span>
+                            <h2 class="title">
+                                Distributeur et Intégrateur de solution ...
+                            </h2>
+                        </div> <!-- experience item -->
+                    </div>
+                    <div class="col-lg-6 offset-lg-1">
+                        <div class="experience-item">
+                            <p>
+                                Le Groupe CIS possède une expertise de plus de
+                                30 ans dans la distribution et l’intégration de
+                                solutions, produits et services technologiques.
+                            </p>
+                            <p>
+                                La société est organisée en unités opérationnelles qui sont bien compétentes au sein de leurs segments de
+                                marché respectifs. La compétence commerciale et technique de nos équipes, ainsi que leur faculté d’adaptation
+                                aux besoins et aux attentes des différents marchés ont profondément contribué au développement du Groupe.
+                            </p>
+                            <p>
+                                La croissance récente n’aurait pas été possible sans la confiance des clients, des entreprises technologiques, des
+                                petites, moyennes et grandes entreprises qui font confiance à CIS pour la conception et l’exécution de leurs projets
+                                TIC, et qui ont choisi notre groupe comme leur distributeur/revendeur.
+                            </p>
+                        </div> <!-- experience item -->
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-6 col-sm-8 wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".2s">
+                        <div class="single-experience mt-30">
+                            <img src="{{ 'assets/images/experience-1.jpg'| theme}}" alt="">
+                            <div class="experience-overlay">
+                                <h5 class="title">Design & Development</h5>
+                                <p>The functional goal of technical content is to help people use a product.</p>
+                                <a href="#">Read More</a>
+                                <i class="fal fa-laptop-code"></i>
+
+                            </div>
+                        </div> <!-- single experience -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-8 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
+                        <div class="single-experience mt-30">
+                            <img src="{{ 'assets/images/experience-2.jpg'|theme }}" alt="">
+                            <div class="experience-overlay">
+                                <h5 class="title">Technical Support</h5>
+                                <p>The functional goal of technical content is to help people use a product.</p>
+                                <a href="#">Read More</a>
+                                <i class="fal fa-headphones-alt"></i>
+                            </div>
+                        </div> <!-- single experience -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-8 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".6s">
+                        <div class="single-experience mt-30">
+                            <img src="{{ 'assets/images/experience-3.jpg'|theme}}" alt="">
+                            <div class="experience-overlay">
+                                <h5 class="title">Digital Marketing</h5>
+                                <p>The functional goal of technical content is to help people use a product.</p>
+                                <a href="#">Read More</a>
+                                <i class="fal fa-analytics"></i>
+                            </div>
+                        </div> <!-- single experience -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div>
+
+        <!--====== ABOUT EXPERIENCE PART ENDS ======-->
+
+        <!--====== ABOUT INTRO PART START ======-->
+
+        <div class="about-intro-area pt-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="intro-thumb">
+                            <img src="{{ 'assets/images/about-intro-thumb.jpg'|theme }}" alt="">
+                            <a class="video-popup" href="http://bit.ly/2VuPnrx"><i class="fas fa-play"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="intri-content">
+                            <span>Intro Video</span>
+                            <h2 class="title">How we growth <br> our business.</h2>
+                            <p class="text-1">The introduction of cloud and mobile technologies into enterprise software.</p>
+                            <p class="text-2">hether you are building an enterprise web portal or a state-of-the-art website, you always need the right modern tools. Well-built and maintained PHP frameworks provide those tools in abundance, allowing maintained PHP frameworks provide those tools in abundance, allowing developers to save time, re-use code, and streamline the back end. As software development tools continuously.</p>
+                            <a class="main-btn wow fadeInUp" href="#" data-wow-duration="1s" data-wow-delay=".4s">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--====== ABOUT INTRO PART ENDS ======-->
+
+        <!--====== ABOUT HISTORY PART START ======-->
+
+        <div class="about-history-area">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-8">
+                        <div class="section-title text-center">
+                            <h2 class="title">Our History</h2>
+                            <p>Does any industry face a more complex audience journey and marketing sales process than B2B technology.</p>
+                        </div> <!-- section title -->
+                    </div>
+                </div> <!-- row -->
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="history-item  pt-240">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <img src="{{ 'assets/images/history-1.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>02</span>
+                            </div>
+                        </div> <!-- history item -->
+                        <div class="history-item">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <img src="{{ 'assets/images/history-2.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>04</span>
+                            </div>
+                            <div class="number-box-2">
+                                <i class="fal fa-plus"></i>
+                            </div>
+                        </div> <!-- history item -->
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="history-item history-item-2">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <img src="{{ 'assets/images/history-3.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>01</span>
+                            </div>
+                        </div> <!-- history item -->
+                        <div class="history-item history-item-2">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <img src="{{ 'assets/images/history-4.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>03</span>
+                            </div>
+                        </div> <!-- history item -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div>
+
+        <!--====== ABOUT HISTORY PART ENDS ======-->
+
+        <!--====== ABOT FAQ PART START ======-->
+
+        <div class="about-history-area">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-md-8">
+                        <div class="section-title text-center">
+                            <h2 class="title">Our History</h2>
+                            <p>Does any industry face a more complex audience journey and marketing sales process than B2B technology.</p>
+                        </div> <!-- section title -->
+                    </div>
+                </div> <!-- row -->
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="history-item  pt-240">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <img src="{{ 'assets/images/history-1.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>02</span>
+                            </div>
+                        </div> <!-- history item -->
+                        <div class="history-item">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <img src="{{ 'assets/images/history-2.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>04</span>
+                            </div>
+                            <div class="number-box-2">
+                                <i class="fal fa-plus"></i>
+                            </div>
+                        </div> <!-- history item -->
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="history-item history-item-2">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <img src="{{ 'assets/images/history-3.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".1s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>01</span>
+                            </div>
+                        </div> <!-- history item -->
+                        <div class="history-item history-item-2">
+                            <div class="history-thumb wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <img src="{{ 'assets/images/history-4.jpg'|theme }}" alt="history">
+                            </div>
+                            <div class="history-content wow fadeInUp" data-wow-duration=".1s" data-wow-delay=".2s">
+                                <span>1990 - Startup</span>
+                                <h4 class="title">Technical content may have per suasive objectives.</h4>
+                            </div>
+                            <div class="number-box">
+                                <span>03</span>
+                            </div>
+                        </div> <!-- history item -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div>
+
+        <!--====== ABOUT HISTORY PART ENDS ======-->
+
+        <!--====== ABOUT FAQ PART ENDS ======-->
+    </div>
+</section>";s:4:"code";N;s:5:"title";s:12:"presentation";s:3:"url";s:13:"/presentation";s:6:"layout";s:6:"layout";s:9:"is_hidden";s:1:"0";}}

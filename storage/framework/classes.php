@@ -126,4 +126,7 @@
   'Cms\\FormWidgets\\Components' => 'modules/cms/formwidgets/Components.php',
   'System\\Classes\\ErrorHandler' => 'modules/system/classes/ErrorHandler.php',
   'System\\Helpers\\Cache' => 'modules/system/helpers/Cache.php',
+  'backend\\Controllers\\index' => 'modules\\backend\\controllers\\index.php',
+  'backend\\Controllers\\auth' => 'modules\\backend\\controllers\\auth.php',
+  'cms\\Controllers\\index' => 'modules\\cms\\controllers\\index.php',
 );
