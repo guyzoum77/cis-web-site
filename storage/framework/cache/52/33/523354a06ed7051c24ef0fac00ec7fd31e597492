@@ -1,0 +1,108 @@
+1630331153a:1:{s:10:"header.htm";a:5:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:3023:"<header class="header-area header-area-2 header-area-4">
+    <div class="header-top pl-30 pr-30 white-bg">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-7">
+                <div class="header-left-side text-center text-sm-left">
+                    <ul>
+                        <li><strong><a href="#"><i class="fal fa-envelope"></i> info@webmail.com</a></strong></li>
+                        <li><strong><a href="#"><i class="fal fa-phone"></i> +225 xx xx xx xx xx</a></strong></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-5">
+                <div class="header-right-social text-center text-sm-right">
+                    <ul>
+                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-nav">
+        <div class="navigation">
+            <nav class="navbar navbar-expand-lg navbar-light ">
+                <a class="navbar-brand" href="#">
+                    <img src="{{ 'assets/logo/cis.png'| theme}}" width="73" height="65" alt="">
+                </a> <!-- logo -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="toggler-icon"></span>
+                    <span class="toggler-icon"></span>
+                    <span class="toggler-icon"></span>
+                </button> <!-- navbar toggler -->
+
+                <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+                    <ul class="navbar-nav offset-4">
+                        <li class="nav-item {% if this.page.id == 'accueil' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'accueil'|page }}">Accueil</a>
+                        </li>
+                        <li class="nav-item {% if this.page.id == 'presentation' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'presentation'|page }}">Présentation</a>
+                        </li>
+                        <li class="nav-item {% if this.page.id == 'nos-services' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'nos-services'|page }}">Nos Services</a>
+                        </li>
+                        <li class="nav-item {% if this.page.id == 'nos-contacts' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'nos-contacts'|page }}">Nos Contacts</a>
+                        </li>
+                    </ul>
+                </div> <!-- navbar collapse -->
+            </nav>
+        </div> <!-- navigation -->
+    </div>
+</header>
+";s:5:"mtime";i:1629160612;s:6:"markup";s:3022:"<header class="header-area header-area-2 header-area-4">
+    <div class="header-top pl-30 pr-30 white-bg">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-7">
+                <div class="header-left-side text-center text-sm-left">
+                    <ul>
+                        <li><strong><a href="#"><i class="fal fa-envelope"></i> info@webmail.com</a></strong></li>
+                        <li><strong><a href="#"><i class="fal fa-phone"></i> +225 xx xx xx xx xx</a></strong></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-5">
+                <div class="header-right-social text-center text-sm-right">
+                    <ul>
+                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-nav">
+        <div class="navigation">
+            <nav class="navbar navbar-expand-lg navbar-light ">
+                <a class="navbar-brand" href="#">
+                    <img src="{{ 'assets/logo/cis.png'| theme}}" width="73" height="65" alt="">
+                </a> <!-- logo -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="toggler-icon"></span>
+                    <span class="toggler-icon"></span>
+                    <span class="toggler-icon"></span>
+                </button> <!-- navbar toggler -->
+
+                <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+                    <ul class="navbar-nav offset-4">
+                        <li class="nav-item {% if this.page.id == 'accueil' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'accueil'|page }}">Accueil</a>
+                        </li>
+                        <li class="nav-item {% if this.page.id == 'presentation' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'presentation'|page }}">Présentation</a>
+                        </li>
+                        <li class="nav-item {% if this.page.id == 'nos-services' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'nos-services'|page }}">Nos Services</a>
+                        </li>
+                        <li class="nav-item {% if this.page.id == 'nos-contacts' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'nos-contacts'|page }}">Nos Contacts</a>
+                        </li>
+                    </ul>
+                </div> <!-- navbar collapse -->
+            </nav>
+        </div> <!-- navigation -->
+    </div>
+</header>";s:4:"code";N;}}
