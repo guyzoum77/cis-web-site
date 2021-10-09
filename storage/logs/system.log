@@ -494,3 +494,17 @@ Stack trace:
 #3 /var/www/cis-web-site.localhost/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(121): Illuminate\Console\Application->run()
 #4 /var/www/cis-web-site.localhost/artisan(35): Illuminate\Foundation\Console\Kernel->handle()
 #5 {main}  
+[2021-10-06 18:13:13] development.ERROR: Symfony\Component\Console\Exception\RuntimeException: The "--prot" option does not exist. in /var/www/cis-web-site/vendor/symfony/console/Input/ArgvInput.php:221
+Stack trace:
+#0 /var/www/cis-web-site/vendor/symfony/console/Input/ArgvInput.php(155): Symfony\Component\Console\Input\ArgvInput->addLongOption()
+#1 /var/www/cis-web-site/vendor/symfony/console/Input/ArgvInput.php(80): Symfony\Component\Console\Input\ArgvInput->parseLongOption()
+#2 /var/www/cis-web-site/vendor/symfony/console/Input/Input.php(55): Symfony\Component\Console\Input\ArgvInput->parse()
+#3 /var/www/cis-web-site/vendor/symfony/console/Command/Command.php(214): Symfony\Component\Console\Input\Input->bind()
+#4 /var/www/cis-web-site/vendor/laravel/framework/src/Illuminate/Console/Command.php(170): Symfony\Component\Console\Command\Command->run()
+#5 /var/www/cis-web-site/vendor/symfony/console/Application.php(992): Illuminate\Console\Command->run()
+#6 /var/www/cis-web-site/vendor/symfony/console/Application.php(255): Symfony\Component\Console\Application->doRunCommand()
+#7 /var/www/cis-web-site/vendor/symfony/console/Application.php(148): Symfony\Component\Console\Application->doRun()
+#8 /var/www/cis-web-site/vendor/laravel/framework/src/Illuminate/Console/Application.php(88): Symfony\Component\Console\Application->run()
+#9 /var/www/cis-web-site/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(121): Illuminate\Console\Application->run()
+#10 /var/www/cis-web-site/artisan(35): Illuminate\Foundation\Console\Kernel->handle()
+#11 {main}  

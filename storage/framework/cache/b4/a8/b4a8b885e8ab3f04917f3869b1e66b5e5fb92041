@@ -1,39 +1,77 @@
-1630331265a:1:{s:10:"footer.htm";a:6:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:2848:"==
+1633821578a:1:{s:10:"footer.htm";a:6:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:5144:"==
 <footer class="footer-area footer-area-2 footer-area-3">
     <div class="footer-overlay">
         <div class="container position-relative">
             <div class="row">
-                <div class="col-lg-4 col-md-7">
+                <div class="col-lg-2 col-md-7">
                     <div class="widget-item-1 mt-30">
                         <img src="{{ 'assets/logo/cis.png'|theme }}" alt="">
 <!--                        <img src="{{ 'assets/images/logo-1.1.png'|theme }}" alt="">-->
-                        <p>
-                            Le Groupe CIS experte de plus de 30 ans dans la distribution et l’intégration de solutions, produits et services technologiques.
-                        </p>
+<!--                        <p>-->
+<!--                            Le Groupe CIS experte de plus de 30 ans dans la distribution et l’intégration de solutions, produits et services technologiques.-->
+<!--                        </p>-->
                     </div> <!-- widget item 1 -->
                 </div>
-                <div class="col-lg-3 offset-lg-1 col-md-5">
+                <div class="col-lg-3 col-md-5">
                     <div class="widget-item-2 mt-30">
-                        <h4 class="title">Pages</h4>
+                        <h4 class="title">Nos solutions</h4>
+                        <div class="footer-list">
+                            <ul>
+                                <li><a href="#">Infrastructure H & S</a></li>
+                                <li><a href="#">Microsoft Azure</a></li>
+                                <li><a href="#">Microsoft Office 360</a></li>
+                                <li><a href="#">Archivage & BackUp</a></li>
+                                <li><a href="#">Virtualisation</a></li>
+                                <li><a href="#">Sécurité et réseaux</a></li>
+                                <li><a href="#">Managed Print Service</a></li>
+                                <li><a href="#">Infogérence</a></li>
+                            </ul>
+                        </div>
+                    </div> <!-- widget item 2 -->
+                </div>
+                <div class="col-lg-3 col-md-5">
+                    <div class="widget-item-2 mt-30">
+                        <h4 class="title">Plan du site</h4>
                         <div class="footer-list">
                             <ul>
                                 <li><a href="{{ 'accueil'|page }}"><i class="fal fa-angle-right"></i>Accueil</a></li>
-                                <li><a href="{{ 'presentation'|page }}"><i class="fal fa-angle-right"></i>Présentation</a></li>
-                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Nos Services</a></li>
-                                <li><a href="{{ 'nos-contacts'|page }}"><i class="fal fa-angle-right"></i>Nos Contacts</a></li>
+<!--                                <li><a href="{{ 'presentation'|page }}"><i class="fal fa-angle-right"></i>Présentation</a></li>-->
+                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Expertise</a></li>
+                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Succès Story</a></li>
+                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Qui sommes Nous ?</a></li>
+                                <li><a href="{{ 'nos-contacts'|page }}"><i class="fal fa-angle-right"></i>Contactez Nous</a></li>
                             </ul>
                         </div>
                     </div> <!-- widget item 2 -->
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="widget-item-2 widget-item-3 mt-30">
-                        <h4 class="title">Heures d'ouverture</h4>
-                        <ul>
-                            <li>Lundi - Vendredi: 7h:00 - 17h:00</li>
-                            <li>Samedi: 7h:00 - 12:00</li>
-                        </ul>
-                        <p><span>For more then 30 years,</span> IT Service has been a reliable partner in the field of logistics and cargo forwarding.</p>
-                        <a href="{{ 'presentation'|page }}"><i class="fal fa-angle-right"></i>En savoir plus de nous</a>
+                        <h4 class="title">Nos coordonnées</h4>
+                        <p class="mt-n3">Computer Information Systems (CIS)</p>
+
+                        <p class="">Tel: +225 25 21 00 32 58</p>
+                        <p class="">@: support@cis-africa.net</p>
+                        <p>
+                            <span>Rue Washington, Sise à Cocody Centre,</span>
+                            derrière l'ambassade du Niger, CC N° 9614240-W / 01 BP 1942 Abidjan 01
+                        </p>
+                        <div class="offset-xxl-8 offset-xl-8 offset-lg-8 offset-md-8">
+                            <span>
+                                <a href="{{ 'presentation'|page }}">
+                                    <img src="{{ 'assets/images/social/image011.png'|theme }}" alt="" class="img-fluid">
+                                </a>
+                            </span>
+                            <span class="ml-2">
+                                <a href="{{ 'presentation'|page }}">
+                                    <img src="{{ 'assets/images/social/image011.png'|theme }}" alt="" class="img-fluid">
+                                </a>
+                            </span>
+                            <span class="ml-2">
+                                <a href="{{ 'presentation'|page }}">
+                                    <img src="{{ 'assets/images/social/image014.png'|theme }}" alt="" class="img-fluid">
+                                </a>
+                            </span>
+                        </div>
                     </div> <!-- widget item 3 -->
                 </div>
             </div> <!-- row -->
@@ -50,41 +88,79 @@
         </div> <!-- container -->
     </div>
 </footer>
-";s:5:"mtime";i:1630330664;s:6:"markup";s:2844:"<footer class="footer-area footer-area-2 footer-area-3">
+";s:5:"mtime";i:1633817738;s:6:"markup";s:5140:"<footer class="footer-area footer-area-2 footer-area-3">
     <div class="footer-overlay">
         <div class="container position-relative">
             <div class="row">
-                <div class="col-lg-4 col-md-7">
+                <div class="col-lg-2 col-md-7">
                     <div class="widget-item-1 mt-30">
                         <img src="{{ 'assets/logo/cis.png'|theme }}" alt="">
 <!--                        <img src="{{ 'assets/images/logo-1.1.png'|theme }}" alt="">-->
-                        <p>
-                            Le Groupe CIS experte de plus de 30 ans dans la distribution et l’intégration de solutions, produits et services technologiques.
-                        </p>
+<!--                        <p>-->
+<!--                            Le Groupe CIS experte de plus de 30 ans dans la distribution et l’intégration de solutions, produits et services technologiques.-->
+<!--                        </p>-->
                     </div> <!-- widget item 1 -->
                 </div>
-                <div class="col-lg-3 offset-lg-1 col-md-5">
+                <div class="col-lg-3 col-md-5">
                     <div class="widget-item-2 mt-30">
-                        <h4 class="title">Pages</h4>
+                        <h4 class="title">Nos solutions</h4>
+                        <div class="footer-list">
+                            <ul>
+                                <li><a href="#">Infrastructure H & S</a></li>
+                                <li><a href="#">Microsoft Azure</a></li>
+                                <li><a href="#">Microsoft Office 360</a></li>
+                                <li><a href="#">Archivage & BackUp</a></li>
+                                <li><a href="#">Virtualisation</a></li>
+                                <li><a href="#">Sécurité et réseaux</a></li>
+                                <li><a href="#">Managed Print Service</a></li>
+                                <li><a href="#">Infogérence</a></li>
+                            </ul>
+                        </div>
+                    </div> <!-- widget item 2 -->
+                </div>
+                <div class="col-lg-3 col-md-5">
+                    <div class="widget-item-2 mt-30">
+                        <h4 class="title">Plan du site</h4>
                         <div class="footer-list">
                             <ul>
                                 <li><a href="{{ 'accueil'|page }}"><i class="fal fa-angle-right"></i>Accueil</a></li>
-                                <li><a href="{{ 'presentation'|page }}"><i class="fal fa-angle-right"></i>Présentation</a></li>
-                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Nos Services</a></li>
-                                <li><a href="{{ 'nos-contacts'|page }}"><i class="fal fa-angle-right"></i>Nos Contacts</a></li>
+<!--                                <li><a href="{{ 'presentation'|page }}"><i class="fal fa-angle-right"></i>Présentation</a></li>-->
+                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Expertise</a></li>
+                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Succès Story</a></li>
+                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Qui sommes Nous ?</a></li>
+                                <li><a href="{{ 'nos-contacts'|page }}"><i class="fal fa-angle-right"></i>Contactez Nous</a></li>
                             </ul>
                         </div>
                     </div> <!-- widget item 2 -->
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="widget-item-2 widget-item-3 mt-30">
-                        <h4 class="title">Heures d'ouverture</h4>
-                        <ul>
-                            <li>Lundi - Vendredi: 7h:00 - 17h:00</li>
-                            <li>Samedi: 7h:00 - 12:00</li>
-                        </ul>
-                        <p><span>For more then 30 years,</span> IT Service has been a reliable partner in the field of logistics and cargo forwarding.</p>
-                        <a href="{{ 'presentation'|page }}"><i class="fal fa-angle-right"></i>En savoir plus de nous</a>
+                        <h4 class="title">Nos coordonnées</h4>
+                        <p class="mt-n3">Computer Information Systems (CIS)</p>
+
+                        <p class="">Tel: +225 25 21 00 32 58</p>
+                        <p class="">@: support@cis-africa.net</p>
+                        <p>
+                            <span>Rue Washington, Sise à Cocody Centre,</span>
+                            derrière l'ambassade du Niger, CC N° 9614240-W / 01 BP 1942 Abidjan 01
+                        </p>
+                        <div class="offset-xxl-8 offset-xl-8 offset-lg-8 offset-md-8">
+                            <span>
+                                <a href="{{ 'presentation'|page }}">
+                                    <img src="{{ 'assets/images/social/image011.png'|theme }}" alt="" class="img-fluid">
+                                </a>
+                            </span>
+                            <span class="ml-2">
+                                <a href="{{ 'presentation'|page }}">
+                                    <img src="{{ 'assets/images/social/image011.png'|theme }}" alt="" class="img-fluid">
+                                </a>
+                            </span>
+                            <span class="ml-2">
+                                <a href="{{ 'presentation'|page }}">
+                                    <img src="{{ 'assets/images/social/image014.png'|theme }}" alt="" class="img-fluid">
+                                </a>
+                            </span>
+                        </div>
                     </div> <!-- widget item 3 -->
                 </div>
             </div> <!-- row -->

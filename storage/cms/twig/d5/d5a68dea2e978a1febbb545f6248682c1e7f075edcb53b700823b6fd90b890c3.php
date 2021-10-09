@@ -42,8 +42,8 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
             <div class=\"col-md-6 col-sm-7\">
                 <div class=\"header-left-side text-center text-sm-left\">
                     <ul>
-                        <li><strong><a href=\"#\"><i class=\"fal fa-envelope\"></i> info@webmail.com</a></strong></li>
-                        <li><strong><a href=\"#\"><i class=\"fal fa-phone\"></i> +225 xx xx xx xx xx</a></strong></li>
+                        <li><strong><a href=\"#\"><i class=\"fal fa-envelope\"></i> support@cis-africa.net</a></strong></li>
+                        <li><strong><a href=\"#\"><i class=\"fal fa-phone\"></i> +225 25 21 00 32 58</a></strong></li>
                     </ul>
                 </div>
             </div>
@@ -150,8 +150,8 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
             <div class=\"col-md-6 col-sm-7\">
                 <div class=\"header-left-side text-center text-sm-left\">
                     <ul>
-                        <li><strong><a href=\"#\"><i class=\"fal fa-envelope\"></i> info@webmail.com</a></strong></li>
-                        <li><strong><a href=\"#\"><i class=\"fal fa-phone\"></i> +225 xx xx xx xx xx</a></strong></li>
+                        <li><strong><a href=\"#\"><i class=\"fal fa-envelope\"></i> support@cis-africa.net</a></strong></li>
+                        <li><strong><a href=\"#\"><i class=\"fal fa-phone\"></i> +225 25 21 00 32 58</a></strong></li>
                     </ul>
                 </div>
             </div>

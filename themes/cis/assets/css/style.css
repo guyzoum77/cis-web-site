@@ -7479,4 +7479,12 @@ nav .pagination.pagination-2 li a.active {
 .brand-2-area .brand-item img:hover {
   opacity: 1; }
 
+/** ==== ==== */
+.custom-shadow-card {
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px, rgb(51 51 51) 0px 0px 0px 2px;
+}
+.features-area .features-item img {
+  top: 0px !important;
+}
+/** fin */
 /*# sourceMappingURL=style.css.map */
