@@ -124,7 +124,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                             <i class=\"fal fa-database\"></i>
                             <h5 class=\"title\">infrastructure</h5>
                             <p>Approches cohérentes dans le domaine des technologies de l’Information et de la communication (TIC)...</p>
-                            <a href=\"case-details.html\"><i class=\"fal fa-long-arrow-right\"></i></a>
+                            <a href=\"#\"><i class=\"fal fa-long-arrow-right\"></i></a>
                         </div> <!-- what we do item -->
                     </div>
                     <div class=\"col-lg-3 col-md-6 col-sm-6 wow slideInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: slideInUp;\">
@@ -132,7 +132,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                             <i class=\"fal fa-laptop-code\"></i>
                             <h5 class=\"title\">Microsoft Soluations</h5>
                             <p>Repensez votre entreprise grâce aux solutions Microsoft basées sur la technologie Microsoft ...</p>
-                            <a href=\"case-details.html\"><i class=\"fal fa-long-arrow-right\"></i></a>
+                            <a href=\"#\"><i class=\"fal fa-long-arrow-right\"></i></a>
                         </div> <!-- what we do item -->
                     </div>
                     <div class=\"col-lg-3 col-md-6 col-sm-6 wow slideInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: slideInUp;\">
@@ -140,7 +140,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                             <i class=\"fal fa-fingerprint\"></i>
                             <h5 class=\"title\">Réseaux et Sécurités</h5>
                             <p>Protéger efficacement votre réseau informatique, grâce à des briques logicielles ...</p>
-                            <a href=\"case-details.html\"><i class=\"fal fa-long-arrow-right\"></i></a>
+                            <a href=\"#\"><i class=\"fal fa-long-arrow-right\"></i></a>
                         </div> <!-- what we do item -->
                     </div>
                     <div class=\"col-lg-3 col-md-6 col-sm-6 wow slideInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: slideInUp;\">
@@ -150,7 +150,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                             <p>
                                 Managed Print Service (MPS) vous assure l’optimisation des dispositifs de production de documents (parc d’imprimantes, copieurs multifonction, etc.)...
                             </p>
-                            <a href=\"case-details.html\"><i class=\"fal fa-long-arrow-right\"></i></a>
+                            <a href=\"#\"><i class=\"fal fa-long-arrow-right\"></i></a>
                         </div> <!-- what we do item -->
                     </div>
                 </div> <!-- row -->
@@ -513,249 +513,253 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         </div>
                     </div>
                 </div>
-                <div class=\"row\">
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30 \">
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title text-center mt-n5\">CÔTE D'IVOIRE</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold mt-2\">
-                                Rue Washington, sise à Cocody Centre
-                                derrière la résidence de l’ambassadeur du Niger.
-                                <br>01 BP 1942 Abidjan 01
-                            </p>
-                            <p class=\"mt-3\">
-                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40
-                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
-                            </p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30 \">
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title mt-n5 text-center\">MALI</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold mt-2\">
-                                Hamdallaye ACI 2000
-                                Rue 432 – porte 1275, Bamako, Mali
-                                <br>BP : 03 BP 01N, Bamako, Mali
-                            </p>
-                            <p class=\"pt-45\">
-                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40
-                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
-                            </p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30\">
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title text-center mt-n5\">SENEGAL</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold mt-2\">
-                                Allées Seydou Tall No 4313, 1er étage
-                                Dakar, Sénégal
-                                <br>&nbsp;
-                            </p>
-                            <p class=\"pt-45\"><i class=\"fa fa-phone-office\"></i> +221 33 825 47 43</p>
-                            <p class=\"mt-0\">&nbsp;</p>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"row\">
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30 h-100\">
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title text-center mt-n5\">GUINEE</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i> tdi@cis-africa.net
-                                <br><i class=\"fa fa-envelope\"></i> iko@cis-africa.net
-                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold mt-2\">
-                                61, rue des Sorkhos, République du Niger
-                                <br>BP : 07 Niamey, République du Niger
-                            </p>
-                            <p class=\"pt-2\">
-                                <i class=\"fa fa-phone-office\"></i> +224 620 90 90 90
-                                <br><i class=\"fa fa-phone-office\"></i> +224 666 30 44 30
-                            </p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30 h-100\">
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title text-center mt-n5\">NIGER</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i>  bdj@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold pt-65\">
-                                Rue BCRG, Immeuble Koula sise à Kaloum, 4ème étage D4, Conakry, Rep. de Guinée
-                            </p>
-                            <p class=\"pt-4 mt-3\">
-                                <i class=\"fa fa-phone-office\"></i> +227 90 97 99 99
-                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
-                            </p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30 h-100\">
-                        <!--<img src=\"";
+<!--                <div class=\"row\">-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30 \">-->
+<!--                            <h4 class=\"title\">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5\">CÔTE D'IVOIRE</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold mt-2\">-->
+<!--                                Rue Washington, sise à Cocody Centre-->
+<!--                                derrière la résidence de l’ambassadeur du Niger.-->
+<!--                                <br>01 BP 1942 Abidjan 01-->
+<!--                            </p>-->
+<!--                            <p class=\"mt-3\">-->
+<!--                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40-->
+<!--                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30 \">-->
+<!--                            <h4 class=\"title \">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5 \">MALI</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold mt-2\">-->
+<!--                                Hamdallaye ACI 2000-->
+<!--                                Rue 432 – porte 1275, Bamako, Mali-->
+<!--                                <br>BP : 03 BP 01N, Bamako, Mali-->
+<!--                            </p>-->
+<!--                            <p class=\"pt-45\">-->
+<!--                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40-->
+<!--                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30\">-->
+<!--                            <h4 class=\"title \">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5\">SENEGAL</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold mt-2\">-->
+<!--                                Allées Seydou Tall No 4313, 1er étage-->
+<!--                                Dakar, Sénégal-->
+<!--                                <br>&nbsp;-->
+<!--                            </p>-->
+<!--                            <p class=\"pt-45\"><i class=\"fa fa-phone-office\"></i> +221 33 825 47 43</p>-->
+<!--                            <p class=\"mt-0\">&nbsp;</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class=\"row\">-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30 h-100\">-->
+<!--                            <h4 class=\"title\">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5\">GUINEE</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> tdi@cis-africa.net-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> iko@cis-africa.net-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold mt-2\">-->
+<!--                                61, rue des Sorkhos, République du Niger-->
+<!--                                <br>BP : 07 Niamey, République du Niger-->
+<!--                            </p>-->
+<!--                            <p class=\"pt-2\">-->
+<!--                                <i class=\"fa fa-phone-office\"></i> +224 620 90 90 90-->
+<!--                                <br><i class=\"fa fa-phone-office\"></i> +224 666 30 44 30-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30 h-100\">-->
+<!--                            <h4 class=\"title\">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5\">NIGER</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i>  bdj@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold pt-65\">-->
+<!--                                Rue BCRG, Immeuble Koula sise à Kaloum, 4ème étage D4, Conakry, Rep. de Guinée-->
+<!--                            </p>-->
+<!--                            <p class=\"pt-4 mt-3\">-->
+<!--                                <i class=\"fa fa-phone-office\"></i> +227 90 97 99 99-->
+<!--                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30 h-100\">-->
+<!--                        &lt;!&ndash;<img src=\"";
         // line 491
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/services-1.png");
-        echo "\">                          -->
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title text-center mt-n5\">TOGO</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold pt-65\">
-                                146 Boulevard Jean Paul 2, Lomé, Togo
-                                <br>01 BP : 351 Lomé, Togo
-                            </p>
-                            <p class=\"pt-4 mt-3\">
-                                <i class=\"fa fa-phone-office\"></i> +228 22 22 01 81
-                            </p>
-                        </div>
-                    </div>
-                </div>
+        echo "\">                          &ndash;&gt;-->
+<!--                            <h4 class=\"title\">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5\">TOGO</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold pt-65\">-->
+<!--                                146 Boulevard Jean Paul 2, Lomé, Togo-->
+<!--                                <br>01 BP : 351 Lomé, Togo-->
+<!--                            </p>-->
+<!--                            <p class=\"pt-4 mt-3\">-->
+<!--                                <i class=\"fa fa-phone-office\"></i> +228 22 22 01 81-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
             </div>
         </div>
         <!--====== FEATURES PART ENDS ======-->
 
 
         <!--====== PORTFOLIO 3 PART START ======-->
-        <div class=\"portfolio-3-area pt-115 pb-120\">
+        <div class=\"portfolio-3-area pt-25 pb-120\">
             <div class=\"container\">
                 <div class=\"row justify-content-center\">
                     <div class=\"col-lg-8\">
                         <div class=\"section-title text-center\">
-<!--                            <span>Portfolio</span>-->
                             <h2 class=\"title\">Nous avons faire tellement de choses</h2>
                         </div>
                     </div>
                 </div>
                 <div class=\"row justify-content-center\">
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\".2s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"";
-        // line 528
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/portfolio-thumb-1.jpg");
+                                <img alt=\"inphb\" class=\"img-fluid\" src=\"";
+        // line 527
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/inphb.png");
         echo "\">
                             </div>
                             <div class=\"portfolio-content\">
-                                <span>Digital Computing</span>
-                                <a href=\"#\"><h4 class=\"title\">Aspects of computing and technology and the term</h4></a>
-                                <p>
-                                    Nous proposons à nos clients une large gamme de services
-                                    de sécurité pour les aider à contrôler l’infrastructure, identifier
-                                    les risques et se conformer aux différentes réglementations.
+                                <span>PROJET </span>
+                                <a href=\"#\"><h4 class=\"title\">INFRASTRUCTURE SERVEURS ET SOLUTION DE SAUVEGARDE</h4></a>
+                                <p class=\"mt-n1\">
+                                    Mise en œuvre d’un nouvel environnement d’infrastructure
+                                    serveurs et solution de sauvegarde Backup Exe compose de
+                                    serveurs HPE, 360 ...
+                                    <!-- compose de :-->
+<!--                                    <br>• 04 serveurs HPE ProLiant DL 380 Gen 10-->
+<!--                                    <br>• 02 serveurs HPE 360 Gen 10-->
+<!--                                    <br>• HPE MSA 2050 SAN Dual Controller-->
+<!--                                    <br>• HPE StoreEver MSL 1/8 G2 0-drive Tape Autoloader-->
+<!--                                    <br>• 06 licences Windows Server standard  2019-->
+<!--                                    <br>07 Licences Backup Exec ( d’une baie MSA4)-->
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"1.2s\" data-wow-delay=\".4s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"";
-        // line 544
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses2.jpg");
+                                <img alt=\"orange-banque\" class=\"img-fluid\" src=\"";
+        // line 550
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-banque.png");
         echo "\">
                             </div>
                             <div class=\"portfolio-content\">
-                                <span>it consultant</span>
-                                <a href=\"#\"><h4 class=\"title\">Today, the term Information Technology (IT)</h4></a>
-                                <p>
-                                    Le Groupe CIS présente à tous ses clients des approches
-                                    cohérentes dans le domaine des technologies de
-                                    L’Information et de la communication (TIC).
+                                <span>PROJET</span>
+                                <br><a href=\"#\"><h4 class=\"title\"> AZURE STACK HCI</h4></a>
+                                <p class=\"pt-65\">
+                                    Mise en œuvre d’une infrastructure hyperconvergée Azure
+                                    Stack composée de deux (02) serveurs HPE ProLiant DL 380 G10.
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"1.4s\" data-wow-delay=\".6s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"";
-        // line 560
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses3.jpg");
+                                <img alt=\"cepici\" class=\"img-fluid\" src=\"";
+        // line 565
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cepici.png");
         echo "\">
                             </div>
                             <div class=\"portfolio-content\">
-                                <span>design & development</span>
-                                <a href=\"#\"><h4 class=\"title\">Has ballooned to encomp ass many aspects</h4></a>
-                                <p>
-                                    Chaque entreprise a des processus et des besoins
-                                    uniques, quels qu’en soient le secteur d’activité
-                                    et la taille. Néanmoins, chaque entreprise devra aussi se
-                                    doter d’outils technologiques ...
+                                <span>PROJET</span>
+                                <br> <a href=\"#\"><h4 class=\"title\">DOING BUSINESS</h4></a>
+                                <p class=\"pt-65\">
+                                    Mise en œuvre de deux Vx block (réseau, sécurité, stockage et computer),
+                                    infrastructure hyper convergée hautement disponible
                                 </p>
                             </div>
                         </div>
                     </div>
+                </div>
+
+                <div class=\"row justify-content-center pt-4\">
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"1.6s\" data-wow-delay=\".8s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"";
-        // line 577
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses4.jpg");
+                                <img alt=\"agds\" class=\"img-fluid\" src=\"";
+        // line 583
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/agds.png");
         echo "\">
                             </div>
                             <div class=\"portfolio-content\">
-                                <span>ui/ux</span>
-                                <a href=\"#\"><h4 class=\"title\">Aspects of computing and technology and the term</h4></a>
+                                <span>PROJET</span>
+                                <a href=\"#\"><h4 class=\"title\">MISE EN ŒUVRE INFRASTRUCTURE DE REPLICATION DES DONNEES ET SERVEURS</h4></a>
                                 <p>
-                                    Notre équipe hautement qualifiée est experte
-                                    en matière de:
-                                    <strong>gestion des services informatiques,  des entreprises, de la performance des applications et du cycle de vie des actifs ...</strong>
+                                    Mise en œuvre d’une nouvelle infrastructure serveurs et baie :
+                                    <br>03 serveurs HPE ProLiant DL380 Gen10
+                                    <br>02 HPE StoreEasy 1660 32TB SAS Storage et 01 KVM + console
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"1.8s\" data-wow-delay=\"1s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"";
-        // line 593
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses5.jpg");
+                                <img alt=\"mtn\" class=\"img-fluid\" src=\"";
+        // line 599
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/mtn.png");
         echo "\">
                             </div>
                             <div class=\"portfolio-content\">
-                                <span>game design</span>
-                                <a href=\"case-details.html\"><h4 class=\"title\">Today, the term Informati on Technology (IT)</h4></a>
-                                <p>
-                                    CIS fournit des solutions soutenant les départements
-                                    d’informatique gouvernementaux en vue de fournir des
-                                    services multiplateformes destinés aux utilisateurs internes et
-                                    aux citoyens externes ...
+                                <span>PROJET </span>
+                                <br> <a href=\"#\"><h4 class=\"title\">VXRAIL</h4></a>
+                                <p class=\"pt-100\">
+                                    Déploiement de la plateforme VXRAIL500 P570 HYBRID
+                                    + P570F ALL FLASH sur site Bingerville (6 nœuds vxrail) et sur site Yamoussoukro (3 nœuds)
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"2s\" data-wow-delay=\"1.2s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"";
-        // line 610
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses6.jpg");
+                                <img class=\"img-fluid\" alt=\"cnps\" src=\"";
+        // line 614
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cnps.png");
         echo "\">
                             </div>
                             <div class=\"portfolio-content\">
                                 <span>interior design</span>
-                                <a href=\"case-details.html\"><h4 class=\"title\">Has ballooned to encomp ass many aspects</h4></a>
-                                <p>
+                                <a href=\"#\"><h4 class=\"title\">Has ballooned to encomp ass many aspects</h4></a>
+                                <p class=\"pt-65\">
                                     Services avant et après-vente : Outre la gamme complète des
                                     solutions clés et des produits, le Groupe CIS offre des services professionnels,
                                     y compris le déploiement et  l’interconnexion de réseaux multifournisseurs ...
@@ -770,179 +774,63 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
 
 
         <!--====== COUNTER PART START ======-->
-        <div class=\"why-choose-area\">
-            <div class=\"container\">
-                <div class=\"row justify-content-center\">
-                    <div class=\"col-lg-8\">
-                        <div class=\"section-title text-center\">
-                            <span>why choose us</span>
-                            <h2 class=\"title\">We Are Very Different Form Others IT Solutions</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"row justify-content-center\">
-                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\">
-                        <div class=\"single-choose text-center mt-30\">
-                            <div class=\"icon-box\">
-                                <span></span>
-                                <i class=\"fal fa-laptop-code\"></i>
-                            </div>
-                            <h4 class=\"title\">Modify Whole System</h4>
-                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\">
-                        <div class=\"single-choose text-center mt-30\">
-                            <div class=\"icon-box\">
-                                <span></span>
-                                <i class=\"fal fa-server\"></i>
-                            </div>
-                            <h4 class=\"title\">Beneficial Strategies</h4>
-                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\">
-                        <div class=\"single-choose text-center mt-30\">
-                            <div class=\"icon-box\">
-                                <span></span>
-                                <i class=\"fal fa-tools\"></i>
-                            </div>
-                            <h4 class=\"title\">Automated Software</h4>
-                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class=\"choose-dot\">
-                <img src=\"";
-        // line 674
+<!--        <div class=\"why-choose-area\">-->
+<!--            <div class=\"container\">-->
+<!--                <div class=\"row justify-content-center\">-->
+<!--                    <div class=\"col-lg-8\">-->
+<!--                        <div class=\"section-title text-center\">-->
+<!--                            <span>why choose us</span>-->
+<!--                            <h2 class=\"title\">We Are Very Different Form Others IT Solutions</h2>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class=\"row justify-content-center\">-->
+<!--                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\">-->
+<!--                        <div class=\"single-choose text-center mt-30\">-->
+<!--                            <div class=\"icon-box\">-->
+<!--                                <span></span>-->
+<!--                                <i class=\"fal fa-laptop-code\"></i>-->
+<!--                            </div>-->
+<!--                            <h4 class=\"title\">Modify Whole System</h4>-->
+<!--                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\">-->
+<!--                        <div class=\"single-choose text-center mt-30\">-->
+<!--                            <div class=\"icon-box\">-->
+<!--                                <span></span>-->
+<!--                                <i class=\"fal fa-server\"></i>-->
+<!--                            </div>-->
+<!--                            <h4 class=\"title\">Beneficial Strategies</h4>-->
+<!--                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\">-->
+<!--                        <div class=\"single-choose text-center mt-30\">-->
+<!--                            <div class=\"icon-box\">-->
+<!--                                <span></span>-->
+<!--                                <i class=\"fal fa-tools\"></i>-->
+<!--                            </div>-->
+<!--                            <h4 class=\"title\">Automated Software</h4>-->
+<!--                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class=\"choose-dot\">-->
+<!--                <img src=\"";
+        // line 678
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/choose-dot.png");
-        echo "\" alt=\"\">
-            </div>
-            <div class=\"choose-shape\">
-                <img src=\"";
-        // line 677
+        echo "\" alt=\"\">-->
+<!--            </div>-->
+<!--            <div class=\"choose-shape\">-->
+<!--                <img src=\"";
+        // line 681
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/choose-shape.png");
-        echo "\" alt=\"\">
-            </div>
-        </div>
+        echo "\" alt=\"\">-->
+<!--            </div>-->
+<!--        </div>-->
         <!--====== COUNTER PART ENDS ======-->
-
-
-        <!--====== FAQ PART START ======-->
-        <div class=\"faq-area faq-area-3 pt-115\">
-            <div class=\"container\">
-
-                <div class=\"row mt-4\">
-
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.2s\" data-wow-delay=\".2s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.4s\" data-wow-delay=\".4s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.6s\" data-wow-delay=\".6s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"row mt-4\">
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\".1s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid\" src=\"\" alt=\"\">
-                                <p class=\"mt-15\">
-                                    <a href=\"#\" class=\"btn btn-link\">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.2s\" data-wow-delay=\".2s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.4s\" data-wow-delay=\".4s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.6s\" data-wow-delay=\".6s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"row mt-4\">
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\".1s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid\" src=\"\" alt=\"\">
-                                <p class=\"mt-15\">
-                                    <a href=\"#\" class=\"btn btn-link\">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.2s\" data-wow-delay=\".2s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.4s\" data-wow-delay=\".4s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- row -->
-            </div> <!-- container -->
-        </div>
 
 
         <div class=\"leadership-area gray-bg pt-105 pb-160\">
@@ -956,7 +844,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 809
+        // line 697
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-banque.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -968,7 +856,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 818
+        // line 706
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cepici.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -980,7 +868,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 827
+        // line 715
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/bcrg.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -992,7 +880,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 836
+        // line 724
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cnps.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -1004,7 +892,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 845
+        // line 733
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/nsia.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -1016,7 +904,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 854
+        // line 742
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/mtn.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -1028,7 +916,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 863
+        // line 751
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/inphb.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -1040,7 +928,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 872
+        // line 760
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-guinée.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -1052,7 +940,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 881
+        // line 769
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/bicici.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -1064,7 +952,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 890
+        // line 778
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/advans.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -1076,7 +964,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 899
+        // line 787
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/agds.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -1142,7 +1030,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
 
     public function getDebugInfo()
     {
-        return array (  1080 => 899,  1068 => 890,  1056 => 881,  1044 => 872,  1032 => 863,  1020 => 854,  1008 => 845,  996 => 836,  984 => 827,  972 => 818,  960 => 809,  825 => 677,  819 => 674,  752 => 610,  732 => 593,  713 => 577,  693 => 560,  674 => 544,  655 => 528,  615 => 491,  511 => 390,  506 => 388,  502 => 387,  459 => 347,  447 => 338,  435 => 329,  423 => 320,  409 => 309,  397 => 300,  385 => 291,  373 => 282,  361 => 273,  349 => 264,  335 => 253,  323 => 244,  311 => 235,  299 => 226,  287 => 217,  275 => 208,  261 => 197,  249 => 188,  237 => 179,  225 => 170,  213 => 161,  201 => 152,  167 => 121,  161 => 118,  54 => 14,  39 => 1,);
+        return array (  968 => 787,  956 => 778,  944 => 769,  932 => 760,  920 => 751,  908 => 742,  896 => 733,  884 => 724,  872 => 715,  860 => 706,  848 => 697,  829 => 681,  823 => 678,  756 => 614,  738 => 599,  719 => 583,  698 => 565,  680 => 550,  654 => 527,  615 => 491,  511 => 390,  506 => 388,  502 => 387,  459 => 347,  447 => 338,  435 => 329,  423 => 320,  409 => 309,  397 => 300,  385 => 291,  373 => 282,  361 => 273,  349 => 264,  335 => 253,  323 => 244,  311 => 235,  299 => 226,  287 => 217,  275 => 208,  261 => 197,  249 => 188,  237 => 179,  225 => 170,  213 => 161,  201 => 152,  167 => 121,  161 => 118,  54 => 14,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -1232,7 +1120,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                             <i class=\"fal fa-database\"></i>
                             <h5 class=\"title\">infrastructure</h5>
                             <p>Approches cohérentes dans le domaine des technologies de l’Information et de la communication (TIC)...</p>
-                            <a href=\"case-details.html\"><i class=\"fal fa-long-arrow-right\"></i></a>
+                            <a href=\"#\"><i class=\"fal fa-long-arrow-right\"></i></a>
                         </div> <!-- what we do item -->
                     </div>
                     <div class=\"col-lg-3 col-md-6 col-sm-6 wow slideInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: slideInUp;\">
@@ -1240,7 +1128,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                             <i class=\"fal fa-laptop-code\"></i>
                             <h5 class=\"title\">Microsoft Soluations</h5>
                             <p>Repensez votre entreprise grâce aux solutions Microsoft basées sur la technologie Microsoft ...</p>
-                            <a href=\"case-details.html\"><i class=\"fal fa-long-arrow-right\"></i></a>
+                            <a href=\"#\"><i class=\"fal fa-long-arrow-right\"></i></a>
                         </div> <!-- what we do item -->
                     </div>
                     <div class=\"col-lg-3 col-md-6 col-sm-6 wow slideInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: slideInUp;\">
@@ -1248,7 +1136,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                             <i class=\"fal fa-fingerprint\"></i>
                             <h5 class=\"title\">Réseaux et Sécurités</h5>
                             <p>Protéger efficacement votre réseau informatique, grâce à des briques logicielles ...</p>
-                            <a href=\"case-details.html\"><i class=\"fal fa-long-arrow-right\"></i></a>
+                            <a href=\"#\"><i class=\"fal fa-long-arrow-right\"></i></a>
                         </div> <!-- what we do item -->
                     </div>
                     <div class=\"col-lg-3 col-md-6 col-sm-6 wow slideInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: slideInUp;\">
@@ -1258,7 +1146,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                             <p>
                                 Managed Print Service (MPS) vous assure l’optimisation des dispositifs de production de documents (parc d’imprimantes, copieurs multifonction, etc.)...
                             </p>
-                            <a href=\"case-details.html\"><i class=\"fal fa-long-arrow-right\"></i></a>
+                            <a href=\"#\"><i class=\"fal fa-long-arrow-right\"></i></a>
                         </div> <!-- what we do item -->
                     </div>
                 </div> <!-- row -->
@@ -1540,228 +1428,232 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         </div>
                     </div>
                 </div>
-                <div class=\"row\">
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30 \">
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title text-center mt-n5\">CÔTE D'IVOIRE</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold mt-2\">
-                                Rue Washington, sise à Cocody Centre
-                                derrière la résidence de l’ambassadeur du Niger.
-                                <br>01 BP 1942 Abidjan 01
-                            </p>
-                            <p class=\"mt-3\">
-                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40
-                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
-                            </p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30 \">
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title mt-n5 text-center\">MALI</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold mt-2\">
-                                Hamdallaye ACI 2000
-                                Rue 432 – porte 1275, Bamako, Mali
-                                <br>BP : 03 BP 01N, Bamako, Mali
-                            </p>
-                            <p class=\"pt-45\">
-                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40
-                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
-                            </p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30\">
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title text-center mt-n5\">SENEGAL</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold mt-2\">
-                                Allées Seydou Tall No 4313, 1er étage
-                                Dakar, Sénégal
-                                <br>&nbsp;
-                            </p>
-                            <p class=\"pt-45\"><i class=\"fa fa-phone-office\"></i> +221 33 825 47 43</p>
-                            <p class=\"mt-0\">&nbsp;</p>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"row\">
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30 h-100\">
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title text-center mt-n5\">GUINEE</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i> tdi@cis-africa.net
-                                <br><i class=\"fa fa-envelope\"></i> iko@cis-africa.net
-                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold mt-2\">
-                                61, rue des Sorkhos, République du Niger
-                                <br>BP : 07 Niamey, République du Niger
-                            </p>
-                            <p class=\"pt-2\">
-                                <i class=\"fa fa-phone-office\"></i> +224 620 90 90 90
-                                <br><i class=\"fa fa-phone-office\"></i> +224 666 30 44 30
-                            </p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30 h-100\">
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title text-center mt-n5\">NIGER</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i>  bdj@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold pt-65\">
-                                Rue BCRG, Immeuble Koula sise à Kaloum, 4ème étage D4, Conakry, Rep. de Guinée
-                            </p>
-                            <p class=\"pt-4 mt-3\">
-                                <i class=\"fa fa-phone-office\"></i> +227 90 97 99 99
-                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
-                            </p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30 h-100\">
-                        <!--<img src=\"{{ 'assets/images/services-1.png' |theme }}\">                          -->
-                            <h4 class=\"title text-center\">CIS</h4>
-                            <h4 class=\"title text-center mt-n5\">TOGO</h4>
-                            <p>
-                                <i class=\"fa fa-envelope\"></i> support@cis.com
-                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
-                            </p>
-                            <p class=\"font-weight-bold pt-65\">
-                                146 Boulevard Jean Paul 2, Lomé, Togo
-                                <br>01 BP : 351 Lomé, Togo
-                            </p>
-                            <p class=\"pt-4 mt-3\">
-                                <i class=\"fa fa-phone-office\"></i> +228 22 22 01 81
-                            </p>
-                        </div>
-                    </div>
-                </div>
+<!--                <div class=\"row\">-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30 \">-->
+<!--                            <h4 class=\"title\">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5\">CÔTE D'IVOIRE</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold mt-2\">-->
+<!--                                Rue Washington, sise à Cocody Centre-->
+<!--                                derrière la résidence de l’ambassadeur du Niger.-->
+<!--                                <br>01 BP 1942 Abidjan 01-->
+<!--                            </p>-->
+<!--                            <p class=\"mt-3\">-->
+<!--                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40-->
+<!--                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30 \">-->
+<!--                            <h4 class=\"title \">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5 \">MALI</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold mt-2\">-->
+<!--                                Hamdallaye ACI 2000-->
+<!--                                Rue 432 – porte 1275, Bamako, Mali-->
+<!--                                <br>BP : 03 BP 01N, Bamako, Mali-->
+<!--                            </p>-->
+<!--                            <p class=\"pt-45\">-->
+<!--                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40-->
+<!--                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30\">-->
+<!--                            <h4 class=\"title \">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5\">SENEGAL</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold mt-2\">-->
+<!--                                Allées Seydou Tall No 4313, 1er étage-->
+<!--                                Dakar, Sénégal-->
+<!--                                <br>&nbsp;-->
+<!--                            </p>-->
+<!--                            <p class=\"pt-45\"><i class=\"fa fa-phone-office\"></i> +221 33 825 47 43</p>-->
+<!--                            <p class=\"mt-0\">&nbsp;</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class=\"row\">-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30 h-100\">-->
+<!--                            <h4 class=\"title\">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5\">GUINEE</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> tdi@cis-africa.net-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> iko@cis-africa.net-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold mt-2\">-->
+<!--                                61, rue des Sorkhos, République du Niger-->
+<!--                                <br>BP : 07 Niamey, République du Niger-->
+<!--                            </p>-->
+<!--                            <p class=\"pt-2\">-->
+<!--                                <i class=\"fa fa-phone-office\"></i> +224 620 90 90 90-->
+<!--                                <br><i class=\"fa fa-phone-office\"></i> +224 666 30 44 30-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30 h-100\">-->
+<!--                            <h4 class=\"title\">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5\">NIGER</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i>  bdj@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold pt-65\">-->
+<!--                                Rue BCRG, Immeuble Koula sise à Kaloum, 4ème étage D4, Conakry, Rep. de Guinée-->
+<!--                            </p>-->
+<!--                            <p class=\"pt-4 mt-3\">-->
+<!--                                <i class=\"fa fa-phone-office\"></i> +227 90 97 99 99-->
+<!--                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6\">-->
+<!--                        <div class=\"single-features mt-30 h-100\">-->
+<!--                        &lt;!&ndash;<img src=\"{{ 'assets/images/services-1.png' |theme }}\">                          &ndash;&gt;-->
+<!--                            <h4 class=\"title\">CIS</h4>-->
+<!--                            <h4 class=\"title mt-n5\">TOGO</h4>-->
+<!--                            <p>-->
+<!--                                <i class=\"fa fa-envelope\"></i> support@cis.com-->
+<!--                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net-->
+<!--                            </p>-->
+<!--                            <p class=\"font-weight-bold pt-65\">-->
+<!--                                146 Boulevard Jean Paul 2, Lomé, Togo-->
+<!--                                <br>01 BP : 351 Lomé, Togo-->
+<!--                            </p>-->
+<!--                            <p class=\"pt-4 mt-3\">-->
+<!--                                <i class=\"fa fa-phone-office\"></i> +228 22 22 01 81-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
             </div>
         </div>
         <!--====== FEATURES PART ENDS ======-->
 
 
         <!--====== PORTFOLIO 3 PART START ======-->
-        <div class=\"portfolio-3-area pt-115 pb-120\">
+        <div class=\"portfolio-3-area pt-25 pb-120\">
             <div class=\"container\">
                 <div class=\"row justify-content-center\">
                     <div class=\"col-lg-8\">
                         <div class=\"section-title text-center\">
-<!--                            <span>Portfolio</span>-->
                             <h2 class=\"title\">Nous avons faire tellement de choses</h2>
                         </div>
                     </div>
                 </div>
                 <div class=\"row justify-content-center\">
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\".2s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"{{ 'assets/images/portfolio-thumb-1.jpg' |theme }}\">
+                                <img alt=\"inphb\" class=\"img-fluid\" src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/inphb.png' |theme }}\">
                             </div>
                             <div class=\"portfolio-content\">
-                                <span>Digital Computing</span>
-                                <a href=\"#\"><h4 class=\"title\">Aspects of computing and technology and the term</h4></a>
-                                <p>
-                                    Nous proposons à nos clients une large gamme de services
-                                    de sécurité pour les aider à contrôler l’infrastructure, identifier
-                                    les risques et se conformer aux différentes réglementations.
+                                <span>PROJET </span>
+                                <a href=\"#\"><h4 class=\"title\">INFRASTRUCTURE SERVEURS ET SOLUTION DE SAUVEGARDE</h4></a>
+                                <p class=\"mt-n1\">
+                                    Mise en œuvre d’un nouvel environnement d’infrastructure
+                                    serveurs et solution de sauvegarde Backup Exe compose de
+                                    serveurs HPE, 360 ...
+                                    <!-- compose de :-->
+<!--                                    <br>• 04 serveurs HPE ProLiant DL 380 Gen 10-->
+<!--                                    <br>• 02 serveurs HPE 360 Gen 10-->
+<!--                                    <br>• HPE MSA 2050 SAN Dual Controller-->
+<!--                                    <br>• HPE StoreEver MSL 1/8 G2 0-drive Tape Autoloader-->
+<!--                                    <br>• 06 licences Windows Server standard  2019-->
+<!--                                    <br>07 Licences Backup Exec ( d’une baie MSA4)-->
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"1.2s\" data-wow-delay=\".4s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"{{ 'assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses2.jpg' |theme }}\">
+                                <img alt=\"orange-banque\" class=\"img-fluid\" src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/orange-banque.png' |theme }}\">
                             </div>
                             <div class=\"portfolio-content\">
-                                <span>it consultant</span>
-                                <a href=\"#\"><h4 class=\"title\">Today, the term Information Technology (IT)</h4></a>
-                                <p>
-                                    Le Groupe CIS présente à tous ses clients des approches
-                                    cohérentes dans le domaine des technologies de
-                                    L’Information et de la communication (TIC).
+                                <span>PROJET</span>
+                                <br><a href=\"#\"><h4 class=\"title\"> AZURE STACK HCI</h4></a>
+                                <p class=\"pt-65\">
+                                    Mise en œuvre d’une infrastructure hyperconvergée Azure
+                                    Stack composée de deux (02) serveurs HPE ProLiant DL 380 G10.
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"1.4s\" data-wow-delay=\".6s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"{{ 'assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses3.jpg' |theme }}\">
+                                <img alt=\"cepici\" class=\"img-fluid\" src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/cepici.png' |theme }}\">
                             </div>
                             <div class=\"portfolio-content\">
-                                <span>design & development</span>
-                                <a href=\"#\"><h4 class=\"title\">Has ballooned to encomp ass many aspects</h4></a>
-                                <p>
-                                    Chaque entreprise a des processus et des besoins
-                                    uniques, quels qu’en soient le secteur d’activité
-                                    et la taille. Néanmoins, chaque entreprise devra aussi se
-                                    doter d’outils technologiques ...
+                                <span>PROJET</span>
+                                <br> <a href=\"#\"><h4 class=\"title\">DOING BUSINESS</h4></a>
+                                <p class=\"pt-65\">
+                                    Mise en œuvre de deux Vx block (réseau, sécurité, stockage et computer),
+                                    infrastructure hyper convergée hautement disponible
                                 </p>
                             </div>
                         </div>
                     </div>
+                </div>
+
+                <div class=\"row justify-content-center pt-4\">
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"1.6s\" data-wow-delay=\".8s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"{{ 'assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses4.jpg' |theme }}\">
+                                <img alt=\"agds\" class=\"img-fluid\" src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/agds.png' |theme }}\">
                             </div>
                             <div class=\"portfolio-content\">
-                                <span>ui/ux</span>
-                                <a href=\"#\"><h4 class=\"title\">Aspects of computing and technology and the term</h4></a>
+                                <span>PROJET</span>
+                                <a href=\"#\"><h4 class=\"title\">MISE EN ŒUVRE INFRASTRUCTURE DE REPLICATION DES DONNEES ET SERVEURS</h4></a>
                                 <p>
-                                    Notre équipe hautement qualifiée est experte
-                                    en matière de:
-                                    <strong>gestion des services informatiques,  des entreprises, de la performance des applications et du cycle de vie des actifs ...</strong>
+                                    Mise en œuvre d’une nouvelle infrastructure serveurs et baie :
+                                    <br>03 serveurs HPE ProLiant DL380 Gen10
+                                    <br>02 HPE StoreEasy 1660 32TB SAS Storage et 01 KVM + console
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"1.8s\" data-wow-delay=\"1s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"{{ 'assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses5.jpg' |theme }}\">
+                                <img alt=\"mtn\" class=\"img-fluid\" src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/mtn.png' |theme }}\">
                             </div>
                             <div class=\"portfolio-content\">
-                                <span>game design</span>
-                                <a href=\"case-details.html\"><h4 class=\"title\">Today, the term Informati on Technology (IT)</h4></a>
-                                <p>
-                                    CIS fournit des solutions soutenant les départements
-                                    d’informatique gouvernementaux en vue de fournir des
-                                    services multiplateformes destinés aux utilisateurs internes et
-                                    aux citoyens externes ...
+                                <span>PROJET </span>
+                                <br> <a href=\"#\"><h4 class=\"title\">VXRAIL</h4></a>
+                                <p class=\"pt-100\">
+                                    Déploiement de la plateforme VXRAIL500 P570 HYBRID
+                                    + P570F ALL FLASH sur site Bingerville (6 nœuds vxrail) et sur site Yamoussoukro (3 nœuds)
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-4 col-md-6 col-sm-9 wow fadeInUp\" data-wow-duration=\"2s\" data-wow-delay=\"1.2s\">
-                        <div class=\"single-portfolio mt-30\">
+                        <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
-                                <img width=\"370\" height=\"250\" src=\"{{ 'assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses6.jpg' |theme }}\">
+                                <img class=\"img-fluid\" alt=\"cnps\" src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/cnps.png' |theme }}\">
                             </div>
                             <div class=\"portfolio-content\">
                                 <span>interior design</span>
-                                <a href=\"case-details.html\"><h4 class=\"title\">Has ballooned to encomp ass many aspects</h4></a>
-                                <p>
+                                <a href=\"#\"><h4 class=\"title\">Has ballooned to encomp ass many aspects</h4></a>
+                                <p class=\"pt-65\">
                                     Services avant et après-vente : Outre la gamme complète des
                                     solutions clés et des produits, le Groupe CIS offre des services professionnels,
                                     y compris le déploiement et  l’interconnexion de réseaux multifournisseurs ...
@@ -1776,173 +1668,57 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
 
 
         <!--====== COUNTER PART START ======-->
-        <div class=\"why-choose-area\">
-            <div class=\"container\">
-                <div class=\"row justify-content-center\">
-                    <div class=\"col-lg-8\">
-                        <div class=\"section-title text-center\">
-                            <span>why choose us</span>
-                            <h2 class=\"title\">We Are Very Different Form Others IT Solutions</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"row justify-content-center\">
-                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\">
-                        <div class=\"single-choose text-center mt-30\">
-                            <div class=\"icon-box\">
-                                <span></span>
-                                <i class=\"fal fa-laptop-code\"></i>
-                            </div>
-                            <h4 class=\"title\">Modify Whole System</h4>
-                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\">
-                        <div class=\"single-choose text-center mt-30\">
-                            <div class=\"icon-box\">
-                                <span></span>
-                                <i class=\"fal fa-server\"></i>
-                            </div>
-                            <h4 class=\"title\">Beneficial Strategies</h4>
-                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\">
-                        <div class=\"single-choose text-center mt-30\">
-                            <div class=\"icon-box\">
-                                <span></span>
-                                <i class=\"fal fa-tools\"></i>
-                            </div>
-                            <h4 class=\"title\">Automated Software</h4>
-                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class=\"choose-dot\">
-                <img src=\"{{ 'assets/images/choose-dot.png'|theme }}\" alt=\"\">
-            </div>
-            <div class=\"choose-shape\">
-                <img src=\"{{ 'assets/images/choose-shape.png'|theme }}\" alt=\"\">
-            </div>
-        </div>
+<!--        <div class=\"why-choose-area\">-->
+<!--            <div class=\"container\">-->
+<!--                <div class=\"row justify-content-center\">-->
+<!--                    <div class=\"col-lg-8\">-->
+<!--                        <div class=\"section-title text-center\">-->
+<!--                            <span>why choose us</span>-->
+<!--                            <h2 class=\"title\">We Are Very Different Form Others IT Solutions</h2>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class=\"row justify-content-center\">-->
+<!--                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\">-->
+<!--                        <div class=\"single-choose text-center mt-30\">-->
+<!--                            <div class=\"icon-box\">-->
+<!--                                <span></span>-->
+<!--                                <i class=\"fal fa-laptop-code\"></i>-->
+<!--                            </div>-->
+<!--                            <h4 class=\"title\">Modify Whole System</h4>-->
+<!--                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\">-->
+<!--                        <div class=\"single-choose text-center mt-30\">-->
+<!--                            <div class=\"icon-box\">-->
+<!--                                <span></span>-->
+<!--                                <i class=\"fal fa-server\"></i>-->
+<!--                            </div>-->
+<!--                            <h4 class=\"title\">Beneficial Strategies</h4>-->
+<!--                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class=\"col-lg-4 col-md-6 col-sm-9 wow slideInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\">-->
+<!--                        <div class=\"single-choose text-center mt-30\">-->
+<!--                            <div class=\"icon-box\">-->
+<!--                                <span></span>-->
+<!--                                <i class=\"fal fa-tools\"></i>-->
+<!--                            </div>-->
+<!--                            <h4 class=\"title\">Automated Software</h4>-->
+<!--                            <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudan-tium totam rem aperiam eaque ipsa</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class=\"choose-dot\">-->
+<!--                <img src=\"{{ 'assets/images/choose-dot.png'|theme }}\" alt=\"\">-->
+<!--            </div>-->
+<!--            <div class=\"choose-shape\">-->
+<!--                <img src=\"{{ 'assets/images/choose-shape.png'|theme }}\" alt=\"\">-->
+<!--            </div>-->
+<!--        </div>-->
         <!--====== COUNTER PART ENDS ======-->
-
-
-        <!--====== FAQ PART START ======-->
-        <div class=\"faq-area faq-area-3 pt-115\">
-            <div class=\"container\">
-
-                <div class=\"row mt-4\">
-
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.2s\" data-wow-delay=\".2s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.4s\" data-wow-delay=\".4s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.6s\" data-wow-delay=\".6s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"row mt-4\">
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\".1s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid\" src=\"\" alt=\"\">
-                                <p class=\"mt-15\">
-                                    <a href=\"#\" class=\"btn btn-link\">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.2s\" data-wow-delay=\".2s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.4s\" data-wow-delay=\".4s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.6s\" data-wow-delay=\".6s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class=\"row mt-4\">
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\".1s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid\" src=\"\" alt=\"\">
-                                <p class=\"mt-15\">
-                                    <a href=\"#\" class=\"btn btn-link\">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.2s\" data-wow-delay=\".2s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=\"col-xxl-3 col-xl-3 col-lg-3 col-md-3 wow fadeInUp\" data-wow-duration=\"1.4s\" data-wow-delay=\".4s\">
-                        <div class=\"card custom-shadow-card\">
-                            <div class=\"card-body text-center\">
-                                <img class=\"img-fluid \" src=\"\" alt=\"\">
-                                <p class=\"mt-15 \">
-                                    <a href=\"#\" class=\"btn btn-link \">Voir plus</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- row -->
-            </div> <!-- container -->
-        </div>
 
 
         <div class=\"leadership-area gray-bg pt-105 pb-160\">

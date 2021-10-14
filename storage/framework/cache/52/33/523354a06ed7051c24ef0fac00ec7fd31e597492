@@ -1,4 +1,4 @@
-1634215571a:1:{s:10:"header.htm";a:5:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:3029:"<header class="header-area header-area-2 header-area-4">
+1634233681a:1:{s:10:"header.htm";a:5:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:3264:"<header class="header-area header-area-2 header-area-4">
     <div class="header-top pl-30 pr-30 white-bg">
         <div class="row align-items-center">
             <div class="col-md-6 col-sm-7">
@@ -38,13 +38,16 @@
                             <a class="nav-link" href="{{ 'accueil'|page }}">Accueil</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'presentation' %}active{% endif %}">
-                            <a class="nav-link" href="{{ 'presentation'|page }}">Présentation</a>
+                            <a class="nav-link" href="{{ 'presentation'|page }}">Expertise</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'nos-services' %}active{% endif %}">
-                            <a class="nav-link" href="{{ 'nos-services'|page }}">Nos Services</a>
+                            <a class="nav-link" href="{{ 'nos-services'|page }}">Succès Story</a>
+                        </li>
+                        <li class="nav-item {% if this.page.id == 'nos-services' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'nos-services'|page }}">Qui sommes Nous ?</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'nos-contacts' %}active{% endif %}">
-                            <a class="nav-link" href="{{ 'nos-contacts'|page }}">Nos Contacts</a>
+                            <a class="nav-link" href="{{ 'nos-contacts'|page }}">Contactez Nous</a>
                         </li>
                     </ul>
                 </div> <!-- navbar collapse -->
@@ -52,7 +55,7 @@
         </div> <!-- navigation -->
     </div>
 </header>
-";s:5:"mtime";i:1633818033;s:6:"markup";s:3028:"<header class="header-area header-area-2 header-area-4">
+";s:5:"mtime";i:1634231573;s:6:"markup";s:3263:"<header class="header-area header-area-2 header-area-4">
     <div class="header-top pl-30 pr-30 white-bg">
         <div class="row align-items-center">
             <div class="col-md-6 col-sm-7">
@@ -92,13 +95,16 @@
                             <a class="nav-link" href="{{ 'accueil'|page }}">Accueil</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'presentation' %}active{% endif %}">
-                            <a class="nav-link" href="{{ 'presentation'|page }}">Présentation</a>
+                            <a class="nav-link" href="{{ 'presentation'|page }}">Expertise</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'nos-services' %}active{% endif %}">
-                            <a class="nav-link" href="{{ 'nos-services'|page }}">Nos Services</a>
+                            <a class="nav-link" href="{{ 'nos-services'|page }}">Succès Story</a>
+                        </li>
+                        <li class="nav-item {% if this.page.id == 'nos-services' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'nos-services'|page }}">Qui sommes Nous ?</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'nos-contacts' %}active{% endif %}">
-                            <a class="nav-link" href="{{ 'nos-contacts'|page }}">Nos Contacts</a>
+                            <a class="nav-link" href="{{ 'nos-contacts'|page }}">Contactez Nous</a>
                         </li>
                     </ul>
                 </div> <!-- navbar collapse -->

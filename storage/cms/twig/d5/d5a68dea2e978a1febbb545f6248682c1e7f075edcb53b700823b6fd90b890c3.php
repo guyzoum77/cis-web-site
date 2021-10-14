@@ -95,7 +95,7 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
                             <a class=\"nav-link\" href=\"";
         // line 41
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
-        echo "\">Présentation</a>
+        echo "\">Expertise</a>
                         </li>
                         <li class=\"nav-item ";
         // line 43
@@ -106,18 +106,29 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
                             <a class=\"nav-link\" href=\"";
         // line 44
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-services");
-        echo "\">Nos Services</a>
+        echo "\">Succès Story</a>
                         </li>
                         <li class=\"nav-item ";
         // line 46
-        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 46), "id", [], "any", false, false, true, 46) == "nos-contacts")) {
+        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 46), "id", [], "any", false, false, true, 46) == "nos-services")) {
             echo "active";
         }
         echo "\">
                             <a class=\"nav-link\" href=\"";
         // line 47
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-services");
+        echo "\">Qui sommes Nous ?</a>
+                        </li>
+                        <li class=\"nav-item ";
+        // line 49
+        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 49), "id", [], "any", false, false, true, 49) == "nos-contacts")) {
+            echo "active";
+        }
+        echo "\">
+                            <a class=\"nav-link\" href=\"";
+        // line 50
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-contacts");
-        echo "\">Nos Contacts</a>
+        echo "\">Contactez Nous</a>
                         </li>
                     </ul>
                 </div> <!-- navbar collapse -->
@@ -139,7 +150,7 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
 
     public function getDebugInfo()
     {
-        return array (  119 => 47,  113 => 46,  108 => 44,  102 => 43,  97 => 41,  91 => 40,  86 => 38,  80 => 37,  67 => 27,  39 => 1,);
+        return array (  130 => 50,  124 => 49,  119 => 47,  113 => 46,  108 => 44,  102 => 43,  97 => 41,  91 => 40,  86 => 38,  80 => 37,  67 => 27,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -184,13 +195,16 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
                             <a class=\"nav-link\" href=\"{{ 'accueil'|page }}\">Accueil</a>
                         </li>
                         <li class=\"nav-item {% if this.page.id == 'presentation' %}active{% endif %}\">
-                            <a class=\"nav-link\" href=\"{{ 'presentation'|page }}\">Présentation</a>
+                            <a class=\"nav-link\" href=\"{{ 'presentation'|page }}\">Expertise</a>
                         </li>
                         <li class=\"nav-item {% if this.page.id == 'nos-services' %}active{% endif %}\">
-                            <a class=\"nav-link\" href=\"{{ 'nos-services'|page }}\">Nos Services</a>
+                            <a class=\"nav-link\" href=\"{{ 'nos-services'|page }}\">Succès Story</a>
+                        </li>
+                        <li class=\"nav-item {% if this.page.id == 'nos-services' %}active{% endif %}\">
+                            <a class=\"nav-link\" href=\"{{ 'nos-services'|page }}\">Qui sommes Nous ?</a>
                         </li>
                         <li class=\"nav-item {% if this.page.id == 'nos-contacts' %}active{% endif %}\">
-                            <a class=\"nav-link\" href=\"{{ 'nos-contacts'|page }}\">Nos Contacts</a>
+                            <a class=\"nav-link\" href=\"{{ 'nos-contacts'|page }}\">Contactez Nous</a>
                         </li>
                     </ul>
                 </div> <!-- navbar collapse -->
