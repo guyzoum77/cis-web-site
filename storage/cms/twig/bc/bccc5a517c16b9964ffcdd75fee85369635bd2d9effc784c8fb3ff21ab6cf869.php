@@ -191,9 +191,9 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
         <!--====== LATEST SERVICES PART START ======-->
         <div class=\"latest-services-area\">
             <div class=\"container\">
-                <div class=\"row justify-content-center\">
+                <div class=\"row justify-content-center mt-115\">
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
@@ -205,135 +205,258 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
         // line 161
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png");
         echo "\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
         // line 170
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/dell.png");
         echo "\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"2s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
         // line 179
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png");
         echo "\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"2.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
         // line 188
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/oracle.png");
         echo "\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"3s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
         // line 197
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/microsoft.png");
         echo "\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
                 <div class=\"row justify-content-center\">
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                        <div class=\"card mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
-        // line 209
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
+        // line 208
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/keysight.png");
         echo "\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                        <div class=\"card  mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
-        // line 218
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
+        // line 217
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/veritas.png");
         echo "\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                        <div class=\"card mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
-        // line 227
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
+        // line 226
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/quantum.png");
         echo "\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"2s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                        <div class=\"card mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
-        // line 236
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
+        // line 235
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/freebalance.png");
         echo "\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"2.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                        <div class=\"card mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
-        // line 245
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
+        // line 244
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/telenity.png");
         echo "\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"3s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"3s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"";
-        // line 254
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
+        // line 253
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/netApp.png");
+        echo "\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class=\"row justify-content-center\">
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"";
+        // line 264
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/symantec.png");
+        echo "\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"";
+        // line 273
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/riverbed.png");
+        echo "\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"";
+        // line 282
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/oracle-comm.png");
+        echo "\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"2s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"";
+        // line 291
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/sas.png");
+        echo "\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"2.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"";
+        // line 300
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/xerox.png");
+        echo "\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"3s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"";
+        // line 309
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/vmware.png");
+        echo "\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class=\"row justify-content-center\">
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"";
+        // line 320
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/avaya.png");
+        echo "\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"";
+        // line 329
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/fortinet.png");
+        echo "\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"";
+        // line 338
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/veeam.png");
+        echo "\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"2s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"";
+        // line 347
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cisco.png");
         echo "\" alt=\"\">
                                 </div>
                             </div>
@@ -346,75 +469,164 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
 
 
         <!--====== FEATURES PART START ======-->
-        <div class=\"features-area pt-120 pb-120\">
+        <div class=\"features-area pt-3 pb-120\">
             <div class=\"container\">
+                <div class=\"row\">
+                    <div class=\"col-12\">
+                        <h2 class=\"title\">Qui sommes nous ?</h2>
+                    </div>
+                </div>
                 <div class=\"row\">
                     <div class=\"col-lg-12\">
                         <div class=\"features-item\">
-<!--                            <strong>CIS</strong>-->
-<!--                            <h2 class=\"title\">POURQUOI NOUS CHOISIR</h2>-->
-<!--                            <span>Notre connaissance de l'informatique vous aidera</span>-->
                             <p>
-                                CIS WEST AFRICA présente à tous ses clients des approches cohérentes dans le domaine
-                                des technologies de l’Information et de la communication (TIC). Ces approches permettent
-                                aux gestionnaires exécutifs et opérationnels de découvrir l’information et de
-                                la comprendre, mais aussi de l’harmoniser et de la contrôler afin de les aider
-                                à la développer au niveau de l’entreprise.
+                                CIS WEST AFRICA possède une expertise de plus de 30 ans dans la distribution
+                                et l’intégration de solutions, produits et services technologiques.
+                                La société est organisée en unités opérationnelles qui sont bien
+                                compétentes au sein de leurs segments de marché respectifs.
+                            </p>
+                            <p class=\"mt-3\">
+                                La compétence commerciale et technique de nos équipes, ainsi
+                                que leur faculté d’adaptation aux besoins et aux attentes des
+                                différents marchés ont profondément contribué au développement du Groupe.
+                            </p>
+                            <p class=\"mt-3\">
+                                La croissance récente n’aurait pas été possible sans la confiance des clients,
+                                des entreprises technologiques, des petites, moyennes et grandes entreprises
+                                qui font confiance à CIS pour la conception et l’exécution de leurs projets TIC,
+                                et qui ont choisi notre groupe comme leur distributeur/revendeur.
                             </p>
                             <ul>
                                 <li><a class=\"main-btn wow fadeInUp\" href=\"";
-        // line 282
+        // line 387
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
         echo "\" data-wow-duration=\".5s\" data-wow-delay=\".4s\">En savoir plus sur nous</a></li>
 <!--                                <li><a class=\"main-btn main-btn-2 wow fadeInUp\" href=\"";
-        // line 283
+        // line 388
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
         echo "\" data-wow-duration=\"1s\" data-wow-delay=\".6s\"> <i class=\"fal fa-video\"></i>Learn More</a></li>-->
                             </ul>
                             <img class=\"d-none d-lg-block h-100\" src=\"";
-        // line 285
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/choisir/images480.jpg");
+        // line 390
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/accueil/qui-sommes-nous.jpg");
         echo "\">
                         </div>
                     </div>
                 </div>
                 <div class=\"row\">
                     <div class=\"col-lg-4 col-md-6\">
+                        <div class=\"single-features mt-30 \">
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title text-center mt-n5\">CÔTE D'IVOIRE</h4>
+                            <p>
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
+                            </p>
+                            <p class=\"font-weight-bold mt-2\">
+                                Rue Washington, sise à Cocody Centre
+                                derrière la résidence de l’ambassadeur du Niger.
+                                <br>01 BP 1942 Abidjan 01
+                            </p>
+                            <p class=\"mt-3\">
+                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40
+                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
+                            </p>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-4 col-md-6\">
+                        <div class=\"single-features mt-30 \">
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title mt-n5 text-center\">MALI</h4>
+                            <p>
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
+                            </p>
+                            <p class=\"font-weight-bold mt-2\">
+                                Hamdallaye ACI 2000
+                                Rue 432 – porte 1275, Bamako, Mali
+                                <br>BP : 03 BP 01N, Bamako, Mali
+                            </p>
+                            <p class=\"pt-45\">
+                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40
+                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
+                            </p>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-4 col-md-6\">
+                        <div class=\"single-features mt-30\">
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title text-center mt-n5\">SENEGAL</h4>
+                            <p>
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
+                            </p>
+                            <p class=\"font-weight-bold mt-2\">
+                                Allées Seydou Tall No 4313, 1er étage
+                                Dakar, Sénégal
+                                <br>&nbsp;
+                            </p>
+                            <p class=\"pt-45\"><i class=\"fa fa-phone-office\"></i> +221 33 825 47 43</p>
+                            <p class=\"mt-0\">&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+                <div class=\"row\">
+                    <div class=\"col-lg-4 col-md-6\">
                         <div class=\"single-features mt-30 h-100\">
-                            <img src=\"";
-        // line 292
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title text-center mt-n5\">GUINEE</h4>
+                            <p>
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i> tdi@cis-africa.net
+                                <br><i class=\"fa fa-envelope\"></i> iko@cis-africa.net
+                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
+                            </p>
+                            <p class=\"font-weight-bold mt-2\">
+                                61, rue des Sorkhos, République du Niger
+                                <br>BP : 07 Niamey, République du Niger
+                            </p>
+                            <p class=\"pt-2\">
+                                <i class=\"fa fa-phone-office\"></i> +224 620 90 90 90
+                                <br><i class=\"fa fa-phone-office\"></i> +224 666 30 44 30
+                            </p>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-4 col-md-6\">
+                        <div class=\"single-features mt-30 h-100\">
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title text-center mt-n5\">NIGER</h4>
+                            <p>
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i>  bdj@cis-africa.net
+                            </p>
+                            <p class=\"font-weight-bold pt-65\">
+                                Rue BCRG, Immeuble Koula sise à Kaloum, 4ème étage D4, Conakry, Rep. de Guinée
+                            </p>
+                            <p class=\"pt-4 mt-3\">
+                                <i class=\"fa fa-phone-office\"></i> +227 90 97 99 99
+                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
+                            </p>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-4 col-md-6\">
+                        <div class=\"single-features mt-30 h-100\">
+                        <!--<img src=\"";
+        // line 491
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/services-1.png");
-        echo "\">
-                            <h4 class=\"title\">Gestion du système d'exploitation</h4>
+        echo "\">                          -->
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title text-center mt-n5\">TOGO</h4>
                             <p>
-                                supervision des environnements exécutés sur un même système d'exploitation
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
                             </p>
-<!--                            <a href=\"services-details.html\"><i class=\"fal fa-angle-right\"></i> Read More</a>-->
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"single-features mt-30 h-100\">
-                            <img src=\"";
-        // line 302
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/services-2.png");
-        echo "\">
-                            <h4 class=\"title\">Gestion de l'exploitation informatique</h4>
-                            <p>
-                                Modéliser, analyser et optimiser les processus métier qui sont souvent répétés.
+                            <p class=\"font-weight-bold pt-65\">
+                                146 Boulevard Jean Paul 2, Lomé, Togo
+                                <br>01 BP : 351 Lomé, Togo
                             </p>
-<!--                            <a href=\"services-details.html\"><i class=\"fal fa-angle-right\"></i> Read More</a>-->
-                        </div>
-                    </div>
-                    <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"features-sub mt-30 h-100\">
-                            <h5 class=\"title\">Nous contactez</h5>
-                            <p>Many aspects of computing and technology and the term is more recognizable than before.</p>
-                            <form action=\"#\">
-                                <div class=\"input-box\">
-                                    <input type=\"text\" placeholder=\"Entrer votre email....\">
-                                    <button class=\"main-btn\">Envoyer</button>
-                                </div>
-                            </form>
+                            <p class=\"pt-4 mt-3\">
+                                <i class=\"fa fa-phone-office\"></i> +228 22 22 01 81
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -439,7 +651,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30\">
                             <div class=\"portfolio-thumb\">
                                 <img width=\"370\" height=\"250\" src=\"";
-        // line 343
+        // line 528
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/portfolio-thumb-1.jpg");
         echo "\">
                             </div>
@@ -458,7 +670,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30\">
                             <div class=\"portfolio-thumb\">
                                 <img width=\"370\" height=\"250\" src=\"";
-        // line 359
+        // line 544
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses2.jpg");
         echo "\">
                             </div>
@@ -477,7 +689,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30\">
                             <div class=\"portfolio-thumb\">
                                 <img width=\"370\" height=\"250\" src=\"";
-        // line 375
+        // line 560
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses3.jpg");
         echo "\">
                             </div>
@@ -497,7 +709,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30\">
                             <div class=\"portfolio-thumb\">
                                 <img width=\"370\" height=\"250\" src=\"";
-        // line 392
+        // line 577
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses4.jpg");
         echo "\">
                             </div>
@@ -516,7 +728,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30\">
                             <div class=\"portfolio-thumb\">
                                 <img width=\"370\" height=\"250\" src=\"";
-        // line 408
+        // line 593
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses5.jpg");
         echo "\">
                             </div>
@@ -536,7 +748,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30\">
                             <div class=\"portfolio-thumb\">
                                 <img width=\"370\" height=\"250\" src=\"";
-        // line 425
+        // line 610
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/nous_avons_faires_des_choses/nous_avons_faire_des_choses6.jpg");
         echo "\">
                             </div>
@@ -603,13 +815,13 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
             </div>
             <div class=\"choose-dot\">
                 <img src=\"";
-        // line 489
+        // line 674
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/choose-dot.png");
         echo "\" alt=\"\">
             </div>
             <div class=\"choose-shape\">
                 <img src=\"";
-        // line 492
+        // line 677
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/choose-shape.png");
         echo "\" alt=\"\">
             </div>
@@ -744,7 +956,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 624
+        // line 809
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-banque.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -756,7 +968,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 633
+        // line 818
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cepici.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -768,7 +980,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 642
+        // line 827
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/bcrg.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -780,7 +992,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 651
+        // line 836
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cnps.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -792,7 +1004,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 660
+        // line 845
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/nsia.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -804,7 +1016,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 669
+        // line 854
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/mtn.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -816,7 +1028,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 678
+        // line 863
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/inphb.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -828,7 +1040,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 687
+        // line 872
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-guinée.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -840,7 +1052,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 696
+        // line 881
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/bicici.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -852,7 +1064,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 705
+        // line 890
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/advans.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -864,7 +1076,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 714
+        // line 899
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/agds.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -930,7 +1142,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
 
     public function getDebugInfo()
     {
-        return array (  868 => 714,  856 => 705,  844 => 696,  832 => 687,  820 => 678,  808 => 669,  796 => 660,  784 => 651,  772 => 642,  760 => 633,  748 => 624,  613 => 492,  607 => 489,  540 => 425,  520 => 408,  501 => 392,  481 => 375,  462 => 359,  443 => 343,  399 => 302,  386 => 292,  376 => 285,  371 => 283,  367 => 282,  336 => 254,  324 => 245,  312 => 236,  300 => 227,  288 => 218,  276 => 209,  261 => 197,  249 => 188,  237 => 179,  225 => 170,  213 => 161,  201 => 152,  167 => 121,  161 => 118,  54 => 14,  39 => 1,);
+        return array (  1080 => 899,  1068 => 890,  1056 => 881,  1044 => 872,  1032 => 863,  1020 => 854,  1008 => 845,  996 => 836,  984 => 827,  972 => 818,  960 => 809,  825 => 677,  819 => 674,  752 => 610,  732 => 593,  713 => 577,  693 => 560,  674 => 544,  655 => 528,  615 => 491,  511 => 390,  506 => 388,  502 => 387,  459 => 347,  447 => 338,  435 => 329,  423 => 320,  409 => 309,  397 => 300,  385 => 291,  373 => 282,  361 => 273,  349 => 264,  335 => 253,  323 => 244,  311 => 235,  299 => 226,  287 => 217,  275 => 208,  261 => 197,  249 => 188,  237 => 179,  225 => 170,  213 => 161,  201 => 152,  167 => 121,  161 => 118,  54 => 14,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -1081,9 +1293,9 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
         <!--====== LATEST SERVICES PART START ======-->
         <div class=\"latest-services-area\">
             <div class=\"container\">
-                <div class=\"row justify-content-center\">
+                <div class=\"row justify-content-center mt-115\">
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
                                     <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
@@ -1092,103 +1304,196 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
-                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png'|theme }}\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
-                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/dell.png'|theme }}\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"2s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
-                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png'|theme }}\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"2.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
-                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle.png'|theme }}\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"3s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-115 mb-55\">
+                        <div class=\"card mt-15 mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
-                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/microsoft.png'|theme }}\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
                 <div class=\"row justify-content-center\">
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                        <div class=\"card mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
-                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/keysight.png'|theme }}\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                        <div class=\"card  mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
-                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/veritas.png'|theme }}\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                        <div class=\"card mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
-                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/quantum.png'|theme }}\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"2s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                        <div class=\"card mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
-                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/freebalance.png'|theme }}\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"2.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                        <div class=\"card mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
-                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/telenity.png'|theme }}\" alt=\"\">
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class=\"col-lg-2  wow fadeInUp\" data-wow-duration=\"3s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;\">
-                        <div class=\"card mt-15 mb-55\">
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"3s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
                             <div class=\"card-body\">
                                 <div class=\"services-thumb text-center\">
-                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}\" alt=\"\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/netApp.png'|theme }}\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class=\"row justify-content-center\">
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/symantec.png'|theme }}\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/riverbed.png'|theme }}\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle-comm.png'|theme }}\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"2s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/sas.png'|theme }}\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"2.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/xerox.png'|theme }}\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"3s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/vmware.png'|theme }}\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class=\"row justify-content-center\">
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\".5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/avaya.png'|theme }}\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"1s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/fortinet.png'|theme }}\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/veeam.png'|theme }}\" alt=\"\">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-2 wow fadeInUp\" data-wow-duration=\"2s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;\">
+                        <div class=\"card mb-55\">
+                            <div class=\"card-body\">
+                                <div class=\"services-thumb text-center\">
+                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/cisco.png'|theme }}\" alt=\"\">
                                 </div>
                             </div>
                         </div>
@@ -1200,60 +1505,152 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
 
 
         <!--====== FEATURES PART START ======-->
-        <div class=\"features-area pt-120 pb-120\">
+        <div class=\"features-area pt-3 pb-120\">
             <div class=\"container\">
+                <div class=\"row\">
+                    <div class=\"col-12\">
+                        <h2 class=\"title\">Qui sommes nous ?</h2>
+                    </div>
+                </div>
                 <div class=\"row\">
                     <div class=\"col-lg-12\">
                         <div class=\"features-item\">
-<!--                            <strong>CIS</strong>-->
-<!--                            <h2 class=\"title\">POURQUOI NOUS CHOISIR</h2>-->
-<!--                            <span>Notre connaissance de l'informatique vous aidera</span>-->
                             <p>
-                                CIS WEST AFRICA présente à tous ses clients des approches cohérentes dans le domaine
-                                des technologies de l’Information et de la communication (TIC). Ces approches permettent
-                                aux gestionnaires exécutifs et opérationnels de découvrir l’information et de
-                                la comprendre, mais aussi de l’harmoniser et de la contrôler afin de les aider
-                                à la développer au niveau de l’entreprise.
+                                CIS WEST AFRICA possède une expertise de plus de 30 ans dans la distribution
+                                et l’intégration de solutions, produits et services technologiques.
+                                La société est organisée en unités opérationnelles qui sont bien
+                                compétentes au sein de leurs segments de marché respectifs.
+                            </p>
+                            <p class=\"mt-3\">
+                                La compétence commerciale et technique de nos équipes, ainsi
+                                que leur faculté d’adaptation aux besoins et aux attentes des
+                                différents marchés ont profondément contribué au développement du Groupe.
+                            </p>
+                            <p class=\"mt-3\">
+                                La croissance récente n’aurait pas été possible sans la confiance des clients,
+                                des entreprises technologiques, des petites, moyennes et grandes entreprises
+                                qui font confiance à CIS pour la conception et l’exécution de leurs projets TIC,
+                                et qui ont choisi notre groupe comme leur distributeur/revendeur.
                             </p>
                             <ul>
                                 <li><a class=\"main-btn wow fadeInUp\" href=\"{{ 'presentation'|page }}\" data-wow-duration=\".5s\" data-wow-delay=\".4s\">En savoir plus sur nous</a></li>
 <!--                                <li><a class=\"main-btn main-btn-2 wow fadeInUp\" href=\"{{ 'presentation'|page }}\" data-wow-duration=\"1s\" data-wow-delay=\".6s\"> <i class=\"fal fa-video\"></i>Learn More</a></li>-->
                             </ul>
-                            <img class=\"d-none d-lg-block h-100\" src=\"{{ 'assets/images-cis/choisir/images480.jpg' |theme }}\">
+                            <img class=\"d-none d-lg-block h-100\" src=\"{{ 'assets/images-cis/accueil/qui-sommes-nous.jpg' |theme }}\">
+                        </div>
+                    </div>
+                </div>
+                <div class=\"row\">
+                    <div class=\"col-lg-4 col-md-6\">
+                        <div class=\"single-features mt-30 \">
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title text-center mt-n5\">CÔTE D'IVOIRE</h4>
+                            <p>
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
+                            </p>
+                            <p class=\"font-weight-bold mt-2\">
+                                Rue Washington, sise à Cocody Centre
+                                derrière la résidence de l’ambassadeur du Niger.
+                                <br>01 BP 1942 Abidjan 01
+                            </p>
+                            <p class=\"mt-3\">
+                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40
+                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
+                            </p>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-4 col-md-6\">
+                        <div class=\"single-features mt-30 \">
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title mt-n5 text-center\">MALI</h4>
+                            <p>
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
+                            </p>
+                            <p class=\"font-weight-bold mt-2\">
+                                Hamdallaye ACI 2000
+                                Rue 432 – porte 1275, Bamako, Mali
+                                <br>BP : 03 BP 01N, Bamako, Mali
+                            </p>
+                            <p class=\"pt-45\">
+                                <i class=\"fa fa-phone-office\"></i> +223 20 29 11 40
+                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
+                            </p>
+                        </div>
+                    </div>
+                    <div class=\"col-lg-4 col-md-6\">
+                        <div class=\"single-features mt-30\">
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title text-center mt-n5\">SENEGAL</h4>
+                            <p>
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
+                            </p>
+                            <p class=\"font-weight-bold mt-2\">
+                                Allées Seydou Tall No 4313, 1er étage
+                                Dakar, Sénégal
+                                <br>&nbsp;
+                            </p>
+                            <p class=\"pt-45\"><i class=\"fa fa-phone-office\"></i> +221 33 825 47 43</p>
+                            <p class=\"mt-0\">&nbsp;</p>
                         </div>
                     </div>
                 </div>
                 <div class=\"row\">
                     <div class=\"col-lg-4 col-md-6\">
                         <div class=\"single-features mt-30 h-100\">
-                            <img src=\"{{ 'assets/images/services-1.png' |theme }}\">
-                            <h4 class=\"title\">Gestion du système d'exploitation</h4>
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title text-center mt-n5\">GUINEE</h4>
                             <p>
-                                supervision des environnements exécutés sur un même système d'exploitation
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i> tdi@cis-africa.net
+                                <br><i class=\"fa fa-envelope\"></i> iko@cis-africa.net
+                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
                             </p>
-<!--                            <a href=\"services-details.html\"><i class=\"fal fa-angle-right\"></i> Read More</a>-->
+                            <p class=\"font-weight-bold mt-2\">
+                                61, rue des Sorkhos, République du Niger
+                                <br>BP : 07 Niamey, République du Niger
+                            </p>
+                            <p class=\"pt-2\">
+                                <i class=\"fa fa-phone-office\"></i> +224 620 90 90 90
+                                <br><i class=\"fa fa-phone-office\"></i> +224 666 30 44 30
+                            </p>
                         </div>
                     </div>
                     <div class=\"col-lg-4 col-md-6\">
                         <div class=\"single-features mt-30 h-100\">
-                            <img src=\"{{ 'assets/images/services-2.png' |theme }}\">
-                            <h4 class=\"title\">Gestion de l'exploitation informatique</h4>
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title text-center mt-n5\">NIGER</h4>
                             <p>
-                                Modéliser, analyser et optimiser les processus métier qui sont souvent répétés.
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i>  bdj@cis-africa.net
                             </p>
-<!--                            <a href=\"services-details.html\"><i class=\"fal fa-angle-right\"></i> Read More</a>-->
+                            <p class=\"font-weight-bold pt-65\">
+                                Rue BCRG, Immeuble Koula sise à Kaloum, 4ème étage D4, Conakry, Rep. de Guinée
+                            </p>
+                            <p class=\"pt-4 mt-3\">
+                                <i class=\"fa fa-phone-office\"></i> +227 90 97 99 99
+                                <br><i class=\"fa fa-phone-office\"></i> +223 44 24 67 23
+                            </p>
                         </div>
                     </div>
                     <div class=\"col-lg-4 col-md-6\">
-                        <div class=\"features-sub mt-30 h-100\">
-                            <h5 class=\"title\">Nous contactez</h5>
-                            <p>Many aspects of computing and technology and the term is more recognizable than before.</p>
-                            <form action=\"#\">
-                                <div class=\"input-box\">
-                                    <input type=\"text\" placeholder=\"Entrer votre email....\">
-                                    <button class=\"main-btn\">Envoyer</button>
-                                </div>
-                            </form>
+                        <div class=\"single-features mt-30 h-100\">
+                        <!--<img src=\"{{ 'assets/images/services-1.png' |theme }}\">                          -->
+                            <h4 class=\"title text-center\">CIS</h4>
+                            <h4 class=\"title text-center mt-n5\">TOGO</h4>
+                            <p>
+                                <i class=\"fa fa-envelope\"></i> support@cis.com
+                                <br><i class=\"fa fa-envelope\"></i> cha@cis-africa.net
+                            </p>
+                            <p class=\"font-weight-bold pt-65\">
+                                146 Boulevard Jean Paul 2, Lomé, Togo
+                                <br>01 BP : 351 Lomé, Togo
+                            </p>
+                            <p class=\"pt-4 mt-3\">
+                                <i class=\"fa fa-phone-office\"></i> +228 22 22 01 81
+                            </p>
                         </div>
                     </div>
                 </div>

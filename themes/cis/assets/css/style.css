@@ -7493,5 +7493,9 @@ nav .pagination.pagination-2 li a.active {
 .features-area .features-item img {
   top: 0px !important;
 }
+.card {
+  border: 4px solid #ffc107 !important;
+  border-radius: .25rem !important;
+}
 /** fin */
 /*# sourceMappingURL=style.css.map */
