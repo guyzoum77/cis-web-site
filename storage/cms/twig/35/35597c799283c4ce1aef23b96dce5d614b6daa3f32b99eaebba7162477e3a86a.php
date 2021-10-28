@@ -77,30 +77,36 @@ class __TwigTemplate_476df9891ee36032331c66041bb1cdb773afa9727b8fffa78e0d3ac245d
                         <h4 class=\"title\">Plan du site</h4>
                         <div class=\"footer-list\">
                             <ul>
-                                <li><a href=\"";
-        // line 36
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("accueil");
-        echo "\"><i class=\"fal fa-angle-right\"></i>Accueil</a></li>
-<!--                                <li><a href=\"";
+                                <li class=\"nav-item\">
+                                    <a class=\"nav-link\" href=\"";
         // line 37
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
-        echo "\"><i class=\"fal fa-angle-right\"></i>Présentation</a></li>-->
-                                <li><a href=\"";
-        // line 38
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-services");
-        echo "\"><i class=\"fal fa-angle-right\"></i>Expertise</a></li>
-                                <li><a href=\"";
-        // line 39
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-services");
-        echo "\"><i class=\"fal fa-angle-right\"></i>Succès Story</a></li>
-                                <li><a href=\"";
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("accueil");
+        echo "\">Accueil</a>
+                                </li>
+                                <li class=\"nav-item\">
+                                    <a class=\"nav-link\" href=\"";
         // line 40
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-services");
-        echo "\"><i class=\"fal fa-angle-right\"></i>Qui sommes Nous ?</a></li>
-                                <li><a href=\"";
-        // line 41
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-contacts");
-        echo "\"><i class=\"fal fa-angle-right\"></i>Contactez Nous</a></li>
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("expertise");
+        echo "\">Expertise</a>
+                                </li>
+                                <li class=\"nav-item\">
+                                    <a class=\"nav-link\" href=\"";
+        // line 43
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("success-story");
+        echo "\">Succès Story</a>
+                                </li>
+                                <li class=\"nav-item\">
+                                    <a class=\"nav-link\" href=\"";
+        // line 46
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("qui-nous-sommes");
+        echo "\">Qui sommes Nous ?</a>
+                                </li>
+                                <li class=\"nav-item\">
+                                    <a class=\"nav-link\" href=\"";
+        // line 49
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("contactez-nous");
+        echo "\">Contactez Nous</a>
+                                </li>
                             </ul>
                         </div>
                     </div> <!-- widget item 2 -->
@@ -119,33 +125,33 @@ class __TwigTemplate_476df9891ee36032331c66041bb1cdb773afa9727b8fffa78e0d3ac245d
                         <div class=\"offset-xxl-8 offset-xl-8 offset-lg-8 offset-md-8\">
                             <span>
                                 <a href=\"";
-        // line 59
+        // line 68
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
         echo "\">
                                     <img src=\"";
-        // line 60
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/social/image011.png");
-        echo "\" alt=\"\" class=\"img-fluid\">
-                                </a>
-                            </span>
-                            <span class=\"ml-2\">
-                                <a href=\"";
-        // line 64
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
-        echo "\">
-                                    <img src=\"";
-        // line 65
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/social/image011.png");
-        echo "\" alt=\"\" class=\"img-fluid\">
-                                </a>
-                            </span>
-                            <span class=\"ml-2\">
-                                <a href=\"";
         // line 69
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/social/image011.png");
+        echo "\" alt=\"\" class=\"img-fluid\">
+                                </a>
+                            </span>
+                            <span class=\"ml-2\">
+                                <a href=\"";
+        // line 73
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
         echo "\">
                                     <img src=\"";
-        // line 70
+        // line 74
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/social/image011.png");
+        echo "\" alt=\"\" class=\"img-fluid\">
+                                </a>
+                            </span>
+                            <span class=\"ml-2\">
+                                <a href=\"";
+        // line 78
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
+        echo "\">
+                                    <img src=\"";
+        // line 79
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/social/image014.png");
         echo "\" alt=\"\" class=\"img-fluid\">
                                 </a>
@@ -181,7 +187,7 @@ class __TwigTemplate_476df9891ee36032331c66041bb1cdb773afa9727b8fffa78e0d3ac245d
 
     public function getDebugInfo()
     {
-        return array (  149 => 70,  145 => 69,  138 => 65,  134 => 64,  127 => 60,  123 => 59,  102 => 41,  98 => 40,  94 => 39,  90 => 38,  86 => 37,  82 => 36,  51 => 8,  47 => 7,  39 => 1,);
+        return array (  155 => 79,  151 => 78,  144 => 74,  140 => 73,  133 => 69,  129 => 68,  107 => 49,  101 => 46,  95 => 43,  89 => 40,  83 => 37,  51 => 8,  47 => 7,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -221,12 +227,21 @@ class __TwigTemplate_476df9891ee36032331c66041bb1cdb773afa9727b8fffa78e0d3ac245d
                         <h4 class=\"title\">Plan du site</h4>
                         <div class=\"footer-list\">
                             <ul>
-                                <li><a href=\"{{ 'accueil'|page }}\"><i class=\"fal fa-angle-right\"></i>Accueil</a></li>
-<!--                                <li><a href=\"{{ 'presentation'|page }}\"><i class=\"fal fa-angle-right\"></i>Présentation</a></li>-->
-                                <li><a href=\"{{ 'nos-services'|page }}\"><i class=\"fal fa-angle-right\"></i>Expertise</a></li>
-                                <li><a href=\"{{ 'nos-services'|page }}\"><i class=\"fal fa-angle-right\"></i>Succès Story</a></li>
-                                <li><a href=\"{{ 'nos-services'|page }}\"><i class=\"fal fa-angle-right\"></i>Qui sommes Nous ?</a></li>
-                                <li><a href=\"{{ 'nos-contacts'|page }}\"><i class=\"fal fa-angle-right\"></i>Contactez Nous</a></li>
+                                <li class=\"nav-item\">
+                                    <a class=\"nav-link\" href=\"{{ 'accueil'|page }}\">Accueil</a>
+                                </li>
+                                <li class=\"nav-item\">
+                                    <a class=\"nav-link\" href=\"{{ 'expertise'|page }}\">Expertise</a>
+                                </li>
+                                <li class=\"nav-item\">
+                                    <a class=\"nav-link\" href=\"{{ 'success-story'|page }}\">Succès Story</a>
+                                </li>
+                                <li class=\"nav-item\">
+                                    <a class=\"nav-link\" href=\"{{ 'qui-nous-sommes'|page }}\">Qui sommes Nous ?</a>
+                                </li>
+                                <li class=\"nav-item\">
+                                    <a class=\"nav-link\" href=\"{{ 'contactez-nous'|page }}\">Contactez Nous</a>
+                                </li>
                             </ul>
                         </div>
                     </div> <!-- widget item 2 -->
@@ -280,7 +295,7 @@ class __TwigTemplate_476df9891ee36032331c66041bb1cdb773afa9727b8fffa78e0d3ac245d
     public function checkSecurity()
     {
         static $tags = array();
-        static $filters = array("theme" => 7, "page" => 36);
+        static $filters = array("theme" => 7, "page" => 37);
         static $functions = array();
 
         try {

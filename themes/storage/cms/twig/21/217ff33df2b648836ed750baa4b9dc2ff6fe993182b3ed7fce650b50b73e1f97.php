@@ -12,7 +12,7 @@ use Twig\Sandbox\SecurityNotAllowedFunctionError;
 use Twig\Source;
 use Twig\Template;
 
-/* /var/www/cis-web-site/themes/cis/pages/nos-services.htm */
+/* /var/www/cis-web-site/themes/cis/pages/qui-nous-sommes.htm */
 class __TwigTemplate_4cf1a49545528136452e1c7d3b4e5030bc8fdcc48460e1097f0843c44cf2f617 extends \Twig\Template
 {
     private $source;
@@ -318,7 +318,7 @@ class __TwigTemplate_4cf1a49545528136452e1c7d3b4e5030bc8fdcc48460e1097f0843c44cf
 
     public function getTemplateName()
     {
-        return "/var/www/cis-web-site/themes/cis/pages/nos-services.htm";
+        return "/var/www/cis-web-site/themes/cis/pages/qui-nous-sommes.htm";
     }
 
     public function isTraitable()
@@ -589,7 +589,7 @@ class __TwigTemplate_4cf1a49545528136452e1c7d3b4e5030bc8fdcc48460e1097f0843c44cf
         </div>
         <!--====== NEWS PART ENDS ======-->
     </div>
-</section>", "/var/www/cis-web-site/themes/cis/pages/nos-services.htm", "");
+</section>", "/var/www/cis-web-site/themes/cis/pages/qui-nous-sommes.htm", "");
     }
     
     public function checkSecurity()

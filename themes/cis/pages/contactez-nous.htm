@@ -1,11 +1,10 @@
-title = "nos contacts"
-url = "/nos-contacts"
+title = "contactez-nous"
+url = "/contactez-nous"
 layout = "layout"
 is_hidden = 0
 ==
 <section>
     <div class="body">
-        <!--====== PAGE TITLE PART START ======-->
         <div class="page-title-area">
             <div class="container">
                 <div class="row">
@@ -24,15 +23,17 @@ is_hidden = 0
             </div> <!-- container -->
         </div>
 
-        <!--====== PAGE TITLE PART ENDS ======-->
-
-
-        <!--====== CONTACT DETAILS PART START ======-->
-
         <div class="contact-details-area pt-90 pb-120">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-12">
+                        <div class="map-area mt-30">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7496149.95373021!2d85.84621250756469!3d23.452185887261447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adaaed80e18ba7%3A0xf2d28e0c4e1fc6b!2sBangladesh!5e0!3m2!1sen!2sbd!4v1569913375800!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen=""></iframe>
+                        </div> <!-- map area -->
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
                         <div class="contact-info mr-30 mt-30">
                             <div class="contact-item-1">
                                 <div class="contact-info-item text-center">
@@ -60,53 +61,53 @@ is_hidden = 0
                             </div>
                         </div> <!-- contact info -->
                     </div>
-                    <div class="col-lg-6">
-                        <div class="map-area mt-30">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7496149.95373021!2d85.84621250756469!3d23.452185887261447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adaaed80e18ba7%3A0xf2d28e0c4e1fc6b!2sBangladesh!5e0!3m2!1sen!2sbd!4v1569913375800!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen=""></iframe>
-                        </div> <!-- map area -->
-                    </div>
-                </div> <!-- row -->
+                </div>
             </div> <!-- container -->
         </div>
 
-        <!--====== CONTACT DETAILS PART ENDS ======-->
-
-        <!--====== GET IN TOUCH PART START ======-->
-
         <div class="get-in-touch-area get-in-touch-area-2">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="section-title text-left">
-                            <span>Get In Touch</span>
-                            <h2 class="title">Estimate For Your Projects.</h2>
-                        </div> <!-- section title -->
-                        <div class="form-area">
-                            <form id="contact-form" action="#" method="post">
+                <div class="section-title text-left">
+                    <span>Formulaire de contact</span>
+                    <h2 class="title">Laissez nous vos coordonnées</h2>
+                </div> <!-- section title -->
+                <div class="form-area">
+                    <form id="contact-form" action="#" method="post">
+                        <div class="row">
+                            <div class="col-lg-4">
                                 <div class="input-box mt-45">
-                                    <input type="text" name="name" placeholder="Enter your name">
+                                    <input type="text" name="name" placeholder="Nom et prénoms">
                                     <i class="fal fa-user"></i>
                                 </div>
                                 <div class="input-box mt-20">
-                                    <input type="email" name="email" placeholder="Enter your email">
+                                    <input type="email" name="email" placeholder="Email">
                                     <i class="fal fa-envelope"></i>
                                 </div>
                                 <div class="input-box mt-20">
+                                    <input type="tel" name="phone" placeholder="Téléphone">
+                                    <i class="fal fa-envelope"></i>
+                                </div>
+                                <div class="input-box mt-20">
+                                    <input type="text" name="enterprise" placeholder="Entreprise">
+                                    <i class="fal fa-building"></i>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-8">
+                                <div class="input-box mt-45">
                                     <textarea name="message" id="#" cols="30" rows="10" placeholder="Enter your message"></textarea>
                                     <i class="fal fa-edit"></i>
-                                    <button class="main-btn" type="submit">Envoyer</button>
                                 </div>
-                            </form>
-                            <p class="form-message"></p>
+                            </div>
+
+                            <div class="col-lg-12">
+                                <button class="main-btn float-right" type="submit">Envoyer</button>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="get-map d-none d-lg-block mt-40">
-                            <img src="{{ 'assets/images/contact-thumb.jpg'|theme}}" alt="video play">
-                            <a class="video-popup" href="http://bit.ly/2VuPnrx"><i class="fas fa-play"></i></a>
-                        </div>
-                    </div>
+                    </form>
+                    <p class="form-message"></p>
                 </div>
+
             </div>
         </div>
 

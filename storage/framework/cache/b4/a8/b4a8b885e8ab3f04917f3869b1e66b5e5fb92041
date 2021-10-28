@@ -1,4 +1,4 @@
-1634233681a:1:{s:10:"footer.htm";a:6:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:5144:"==
+1635386044a:1:{s:10:"footer.htm";a:6:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:5361:"==
 <footer class="footer-area footer-area-2 footer-area-3">
     <div class="footer-overlay">
         <div class="container position-relative">
@@ -34,12 +34,21 @@
                         <h4 class="title">Plan du site</h4>
                         <div class="footer-list">
                             <ul>
-                                <li><a href="{{ 'accueil'|page }}"><i class="fal fa-angle-right"></i>Accueil</a></li>
-<!--                                <li><a href="{{ 'presentation'|page }}"><i class="fal fa-angle-right"></i>Présentation</a></li>-->
-                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Expertise</a></li>
-                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Succès Story</a></li>
-                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Qui sommes Nous ?</a></li>
-                                <li><a href="{{ 'nos-contacts'|page }}"><i class="fal fa-angle-right"></i>Contactez Nous</a></li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ 'accueil'|page }}">Accueil</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ 'expertise'|page }}">Expertise</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ 'success-story'|page }}">Succès Story</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ 'qui-nous-sommes'|page }}">Qui sommes Nous ?</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ 'contactez-nous'|page }}">Contactez Nous</a>
+                                </li>
                             </ul>
                         </div>
                     </div> <!-- widget item 2 -->
@@ -88,7 +97,7 @@
         </div> <!-- container -->
     </div>
 </footer>
-";s:5:"mtime";i:1633817738;s:6:"markup";s:5140:"<footer class="footer-area footer-area-2 footer-area-3">
+";s:5:"mtime";i:1634935074;s:6:"markup";s:5357:"<footer class="footer-area footer-area-2 footer-area-3">
     <div class="footer-overlay">
         <div class="container position-relative">
             <div class="row">
@@ -123,12 +132,21 @@
                         <h4 class="title">Plan du site</h4>
                         <div class="footer-list">
                             <ul>
-                                <li><a href="{{ 'accueil'|page }}"><i class="fal fa-angle-right"></i>Accueil</a></li>
-<!--                                <li><a href="{{ 'presentation'|page }}"><i class="fal fa-angle-right"></i>Présentation</a></li>-->
-                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Expertise</a></li>
-                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Succès Story</a></li>
-                                <li><a href="{{ 'nos-services'|page }}"><i class="fal fa-angle-right"></i>Qui sommes Nous ?</a></li>
-                                <li><a href="{{ 'nos-contacts'|page }}"><i class="fal fa-angle-right"></i>Contactez Nous</a></li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ 'accueil'|page }}">Accueil</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ 'expertise'|page }}">Expertise</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ 'success-story'|page }}">Succès Story</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ 'qui-nous-sommes'|page }}">Qui sommes Nous ?</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ 'contactez-nous'|page }}">Contactez Nous</a>
+                                </li>
                             </ul>
                         </div>
                     </div> <!-- widget item 2 -->

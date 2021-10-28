@@ -50,9 +50,9 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
             <div class=\"col-md-6 col-sm-5\">
                 <div class=\"header-right-social text-center text-sm-right\">
                     <ul>
-                        <li><a href=\"#\"><i class=\"fab fa-facebook-f\"></i></a></li>
-                        <li><a href=\"#\"><i class=\"fab fa-linkedin-in\"></i></a></li>
-                        <li><a href=\"#\"><i class=\"fab fa-youtube\"></i></a></li>
+                        <li><a href=\"https://web.facebook.com/ciswestafrica/\" target=\"_blank\"><i class=\"fab fa-facebook-f\"></i></a></li>
+                        <li><a href=\"https://www.linkedin.com/company/cis-west-africa?trk\" target=\"_blank\"><i class=\"fab fa-linkedin-in\"></i></a></li>
+                        <li><a href=\"https://twitter.com/cis_west\" target=\"_blank\"><i class=\"fab fa-twitter\"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -88,25 +88,25 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
                         </li>
                         <li class=\"nav-item ";
         // line 40
-        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 40), "id", [], "any", false, false, true, 40) == "presentation")) {
+        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 40), "id", [], "any", false, false, true, 40) == "expertise")) {
             echo "active";
         }
         echo "\">
                             <a class=\"nav-link\" href=\"";
         // line 41
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("expertise");
         echo "\">Expertise</a>
                         </li>
                         <li class=\"nav-item ";
         // line 43
-        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 43), "id", [], "any", false, false, true, 43) == "nos-services")) {
+        if ((twig_get_attribute($this->env, $this->source, twig_get_attribute($this->env, $this->source, ($context["this"] ?? null), "page", [], "any", false, false, true, 43), "id", [], "any", false, false, true, 43) == "success-story")) {
             echo "active";
         }
         echo "\">
                             <a class=\"nav-link\" href=\"";
         // line 44
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-services");
-        echo "\">Succès Story</a>
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("success-story");
+        echo "\">Success Story</a>
                         </li>
                         <li class=\"nav-item ";
         // line 46
@@ -116,7 +116,7 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
         echo "\">
                             <a class=\"nav-link\" href=\"";
         // line 47
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-services");
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("qui-nous-sommes");
         echo "\">Qui sommes Nous ?</a>
                         </li>
                         <li class=\"nav-item ";
@@ -127,7 +127,7 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
         echo "\">
                             <a class=\"nav-link\" href=\"";
         // line 50
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("nos-contacts");
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("contactez-nous");
         echo "\">Contactez Nous</a>
                         </li>
                     </ul>
@@ -169,9 +169,9 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
             <div class=\"col-md-6 col-sm-5\">
                 <div class=\"header-right-social text-center text-sm-right\">
                     <ul>
-                        <li><a href=\"#\"><i class=\"fab fa-facebook-f\"></i></a></li>
-                        <li><a href=\"#\"><i class=\"fab fa-linkedin-in\"></i></a></li>
-                        <li><a href=\"#\"><i class=\"fab fa-youtube\"></i></a></li>
+                        <li><a href=\"https://web.facebook.com/ciswestafrica/\" target=\"_blank\"><i class=\"fab fa-facebook-f\"></i></a></li>
+                        <li><a href=\"https://www.linkedin.com/company/cis-west-africa?trk\" target=\"_blank\"><i class=\"fab fa-linkedin-in\"></i></a></li>
+                        <li><a href=\"https://twitter.com/cis_west\" target=\"_blank\"><i class=\"fab fa-twitter\"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -194,17 +194,17 @@ class __TwigTemplate_79c169779d4fa9ac2dfe93d550b263ea528ac7071870a72f36c7b497b4f
                         <li class=\"nav-item {% if this.page.id == 'accueil' %}active{% endif %}\">
                             <a class=\"nav-link\" href=\"{{ 'accueil'|page }}\">Accueil</a>
                         </li>
-                        <li class=\"nav-item {% if this.page.id == 'presentation' %}active{% endif %}\">
-                            <a class=\"nav-link\" href=\"{{ 'presentation'|page }}\">Expertise</a>
+                        <li class=\"nav-item {% if this.page.id == 'expertise' %}active{% endif %}\">
+                            <a class=\"nav-link\" href=\"{{ 'expertise'|page }}\">Expertise</a>
+                        </li>
+                        <li class=\"nav-item {% if this.page.id == 'success-story' %}active{% endif %}\">
+                            <a class=\"nav-link\" href=\"{{ 'success-story'|page }}\">Success Story</a>
                         </li>
                         <li class=\"nav-item {% if this.page.id == 'nos-services' %}active{% endif %}\">
-                            <a class=\"nav-link\" href=\"{{ 'nos-services'|page }}\">Succès Story</a>
-                        </li>
-                        <li class=\"nav-item {% if this.page.id == 'nos-services' %}active{% endif %}\">
-                            <a class=\"nav-link\" href=\"{{ 'nos-services'|page }}\">Qui sommes Nous ?</a>
+                            <a class=\"nav-link\" href=\"{{ 'qui-nous-sommes'|page }}\">Qui sommes Nous ?</a>
                         </li>
                         <li class=\"nav-item {% if this.page.id == 'nos-contacts' %}active{% endif %}\">
-                            <a class=\"nav-link\" href=\"{{ 'nos-contacts'|page }}\">Contactez Nous</a>
+                            <a class=\"nav-link\" href=\"{{ 'contactez-nous'|page }}\">Contactez Nous</a>
                         </li>
                     </ul>
                 </div> <!-- navbar collapse -->

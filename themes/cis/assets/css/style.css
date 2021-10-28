@@ -7506,5 +7506,36 @@ nav .pagination.pagination-2 li a.active {
 .leadership-area .leadership-item .leadership-content span {
   color: #000;
 }
+
+
+.contact-us-area .contact-overlay {
+  background-color: #dbb03e2e !important;
+}
+.contact-us-area .contact-overlay .contact-details {
+  box-shadow: 0px 16px 32px 0px rgb(187 187 187) !important;
+}
+
+.main-btn:hover {
+  background-color: transparent;
+  color: #fec126 !important;
+  border-color: #fec126 !important;
+}
+.get-in-touch-area .form-area .input-box textarea {
+  height: 348px !important;
+}
+.text-black {
+  color: #002249;
+  font-size: 14.5px;
+}
+.services-title-area {
+  background: #dbb03e0d !important;
+  height: 388px !important;
+}
+.services-title-area .services-title-item .title {
+  color: #dbb03e !important;
+}
+.custom-title {
+  font-size: 23px;
+}
 /** fin */
 /*# sourceMappingURL=style.css.map */
