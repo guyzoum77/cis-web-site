@@ -64,28 +64,31 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
                 <div class=\"row\">
                     <div class=\"col-lg-5\">
                         <div class=\"experience-item\">
-                            <span>Une expertise de plus de 30 ans</span>
-                            <h2 class=\"title\">
-                                Distributeur et Intégrateur de solution ...
-                            </h2>
+                            <img style=\"width: 86% !important;\" src=\"data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22200%22%20height%3D%22200%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20200%20200%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_17ed5b691ea%20text%20%7B%20fill%3Argba(255%2C255%2C255%2C.75)%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A10pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_17ed5b691ea%22%3E%3Crect%20width%3D%22200%22%20height%3D%22200%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%2274.4296875%22%20y%3D%22104.5%22%3E200x200%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E\" class=\"img-thumbnail\" alt=\"\">
                         </div> <!-- experience item -->
                     </div>
-                    <div class=\"col-lg-6 offset-lg-1\">
+                    <div class=\"col-lg-7\">
                         <div class=\"experience-item\">
                             <p>
-                                Le Groupe CIS possède une expertise de plus de
-                                30 ans dans la distribution et l’intégration de
-                                solutions, produits et services technologiques.
+                                Bonjour Chers Clients,
+                                <br>
+                                Fort d’une expertise de plus de 25 ans et d’une présence confirmée sur le marché,
+                                l’objectif de CIS West Africa est de vous offrir les meilleurs conseils et solutions
+                                complètes “de bout en bout”, qui vous permettent non seulement d’optimiser vos
+                                performances, mais aussi de se préparer davantage au processus de
+                                développement. Voici ci-dessous quelques valeurs qui nous définies :
                             </p>
                             <p>
-                                La société est organisée en unités opérationnelles qui sont bien compétentes au sein de leurs segments de
-                                marché respectifs. La compétence commerciale et technique de nos équipes, ainsi que leur faculté d’adaptation
-                                aux besoins et aux attentes des différents marchés ont profondément contribué au développement du Groupe.
+                                - <strong class=\"text-yellow\">Expertise</strong> en TIC est maintenue grâce à la formation continue et à
+                                l’obtention d’un nombre croissant de certifications
                             </p>
                             <p>
-                                La croissance récente n’aurait pas été possible sans la confiance des clients, des entreprises technologiques, des
-                                petites, moyennes et grandes entreprises qui font confiance à CIS pour la conception et l’exécution de leurs projets
-                                TIC, et qui ont choisi notre groupe comme leur distributeur/revendeur.
+                                - <strong class=\"text-yellow\">Innovation</strong> stimulée par des offres novatrices et par l’adoption de
+                                nouveaux modèles commerciaux
+                            </p>
+                            <p>
+                                - <strong class=\"text-yellow\">Respect</strong> visant à maintenir un milieu de travail
+                                positif et à favoriser le travail d’équipe d’où la satisfaction des clients
                             </p>
                         </div> <!-- experience item -->
                     </div>
@@ -98,7 +101,7 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
             <div class=\"container mt-n5\">
                 <div class=\"row\">
                     <div class=\"col-12\">
-                        <h2 class=\"title\">Ou nous trouver </h2>
+                        <h2 class=\"title\">Notre Couverture</h2>
                     </div>
                 </div>
                 <div class=\"row\">
@@ -110,94 +113,6 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
                 </div>
             </div>
         </div>
-
-<!--        <div class=\"brand-2-area pb-120\">-->
-<!--            <div class=\"container\">-->
-<!--                <div class=\"row\">-->
-<!--                    <div class=\"col-12\">-->
-<!--                        <h3 class=\"title\">Nos Partenaires</h3>-->
-<!--                        <p class=\"\">Nous offrons une meilleure solution  pour votre entreprise informatique</p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--                <div class=\"row\">-->
-<!--                    <div class=\"col-lg-12\">-->
-<!--                        <div class=\"brand-active\">-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 85
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 88
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 91
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/dell.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 94
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 97
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/oracle.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 100
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/microsoft.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 103
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/keysight.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 106
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/veritas.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 109
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/quantum.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 112
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/freebalance.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 115
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/telenity.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div><div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 117
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/netApp.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                        </div> &lt;!&ndash; brand item &ndash;&gt;-->
-<!--                    </div>-->
-<!--                </div> &lt;!&ndash; row &ndash;&gt;-->
-<!--            </div> &lt;!&ndash; container &ndash;&gt;-->
-<!--        </div>-->
 
         <div class=\"what-we-do-area yellow-bg pt-105 pb-120\">
             <div class=\"container\">
@@ -212,11 +127,11 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
 
         <!--====== NOS PARTENAIRES =====-->
         ";
-        // line 137
+        // line 88
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("nos-partenaires"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 138
+        // line 89
         echo "        <!--====== FIN NOS PARTENAIRES =====-->
     </div>
 </section>";
@@ -234,7 +149,7 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
 
     public function getDebugInfo()
     {
-        return array (  220 => 138,  216 => 137,  193 => 117,  188 => 115,  182 => 112,  176 => 109,  170 => 106,  164 => 103,  158 => 100,  152 => 97,  146 => 94,  140 => 91,  134 => 88,  128 => 85,  51 => 11,  39 => 1,);
+        return array (  135 => 89,  131 => 88,  51 => 11,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -264,28 +179,31 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
                 <div class=\"row\">
                     <div class=\"col-lg-5\">
                         <div class=\"experience-item\">
-                            <span>Une expertise de plus de 30 ans</span>
-                            <h2 class=\"title\">
-                                Distributeur et Intégrateur de solution ...
-                            </h2>
+                            <img style=\"width: 86% !important;\" src=\"data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22200%22%20height%3D%22200%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20200%20200%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_17ed5b691ea%20text%20%7B%20fill%3Argba(255%2C255%2C255%2C.75)%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A10pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_17ed5b691ea%22%3E%3Crect%20width%3D%22200%22%20height%3D%22200%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%2274.4296875%22%20y%3D%22104.5%22%3E200x200%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E\" class=\"img-thumbnail\" alt=\"\">
                         </div> <!-- experience item -->
                     </div>
-                    <div class=\"col-lg-6 offset-lg-1\">
+                    <div class=\"col-lg-7\">
                         <div class=\"experience-item\">
                             <p>
-                                Le Groupe CIS possède une expertise de plus de
-                                30 ans dans la distribution et l’intégration de
-                                solutions, produits et services technologiques.
+                                Bonjour Chers Clients,
+                                <br>
+                                Fort d’une expertise de plus de 25 ans et d’une présence confirmée sur le marché,
+                                l’objectif de CIS West Africa est de vous offrir les meilleurs conseils et solutions
+                                complètes “de bout en bout”, qui vous permettent non seulement d’optimiser vos
+                                performances, mais aussi de se préparer davantage au processus de
+                                développement. Voici ci-dessous quelques valeurs qui nous définies :
                             </p>
                             <p>
-                                La société est organisée en unités opérationnelles qui sont bien compétentes au sein de leurs segments de
-                                marché respectifs. La compétence commerciale et technique de nos équipes, ainsi que leur faculté d’adaptation
-                                aux besoins et aux attentes des différents marchés ont profondément contribué au développement du Groupe.
+                                - <strong class=\"text-yellow\">Expertise</strong> en TIC est maintenue grâce à la formation continue et à
+                                l’obtention d’un nombre croissant de certifications
                             </p>
                             <p>
-                                La croissance récente n’aurait pas été possible sans la confiance des clients, des entreprises technologiques, des
-                                petites, moyennes et grandes entreprises qui font confiance à CIS pour la conception et l’exécution de leurs projets
-                                TIC, et qui ont choisi notre groupe comme leur distributeur/revendeur.
+                                - <strong class=\"text-yellow\">Innovation</strong> stimulée par des offres novatrices et par l’adoption de
+                                nouveaux modèles commerciaux
+                            </p>
+                            <p>
+                                - <strong class=\"text-yellow\">Respect</strong> visant à maintenir un milieu de travail
+                                positif et à favoriser le travail d’équipe d’où la satisfaction des clients
                             </p>
                         </div> <!-- experience item -->
                     </div>
@@ -298,7 +216,7 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
             <div class=\"container mt-n5\">
                 <div class=\"row\">
                     <div class=\"col-12\">
-                        <h2 class=\"title\">Ou nous trouver </h2>
+                        <h2 class=\"title\">Notre Couverture</h2>
                     </div>
                 </div>
                 <div class=\"row\">
@@ -310,58 +228,6 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
                 </div>
             </div>
         </div>
-
-<!--        <div class=\"brand-2-area pb-120\">-->
-<!--            <div class=\"container\">-->
-<!--                <div class=\"row\">-->
-<!--                    <div class=\"col-12\">-->
-<!--                        <h3 class=\"title\">Nos Partenaires</h3>-->
-<!--                        <p class=\"\">Nous offrons une meilleure solution  pour votre entreprise informatique</p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--                <div class=\"row\">-->
-<!--                    <div class=\"col-lg-12\">-->
-<!--                        <div class=\"brand-active\">-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/dell.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/microsoft.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/keysight.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/veritas.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/quantum.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/freebalance.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            <div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/telenity.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div><div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/netApp.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                        </div> &lt;!&ndash; brand item &ndash;&gt;-->
-<!--                    </div>-->
-<!--                </div> &lt;!&ndash; row &ndash;&gt;-->
-<!--            </div> &lt;!&ndash; container &ndash;&gt;-->
-<!--        </div>-->
 
         <div class=\"what-we-do-area yellow-bg pt-105 pb-120\">
             <div class=\"container\">
@@ -383,14 +249,14 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
     
     public function checkSecurity()
     {
-        static $tags = array("partial" => 137);
-        static $filters = array("page" => 11, "theme" => 85);
+        static $tags = array("partial" => 88);
+        static $filters = array("page" => 11);
         static $functions = array();
 
         try {
             $this->sandbox->checkSecurity(
                 ['partial'],
-                ['page', 'theme'],
+                ['page'],
                 []
             );
         } catch (SecurityError $e) {
