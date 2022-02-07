@@ -2917,8 +2917,10 @@ PRELOADER
 ===========================*/
 .features-area .features-item {
   border: 16px solid #f5faff;
-  padding: 92px 85px 100px 535px;
-  position: relative; }
+  /*padding: 92px 85px 100px 535px;*/
+  padding: 34px 19px 100px 535px;
+  position: relative;
+}
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .features-area .features-item {
     padding: 92px 85px 100px 345px; } }
@@ -2935,10 +2937,11 @@ PRELOADER
 .features-area .features-item strong {
   font-weight: 700;
   color: #e2be67;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  padding-bottom: 8px;
-  display: block; }
+  /*letter-spacing: 2px;*/
+  /*text-transform: uppercase;*/
+  /*padding-bottom: 8px;*/
+  /*display: block;*/
+}
 .features-area .features-item .title {
   font-size: 70px;
   line-height: 80px;
@@ -4968,7 +4971,7 @@ nav .pagination.pagination-2 li a.active {
 .checkout-area .user-actions {
   background: #fff;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
-  padding: 15px 20px;
+  padding: 57px 20px;
   border-top: 2px solid #dbb03e; }
 .checkout-area .billing-details h3.title, .checkout-area .order-details h3.title {
   margin-bottom: 30px; }
@@ -7536,6 +7539,16 @@ nav .pagination.pagination-2 li a.active {
 }
 .custom-title {
   font-size: 23px;
+}
+.title-country {
+  font-size: 35px;
+  color: #dbb03e;
+}
+.yellow-bg {
+  background: #fec126;
+}
+.text-pure-blue {
+  color: #002249!important;
 }
 /** fin */
 /*# sourceMappingURL=style.css.map */

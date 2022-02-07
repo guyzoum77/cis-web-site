@@ -104,7 +104,7 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
                 <div class=\"row\">
                     <div class=\"col-12 mt-n3\">
                         <div class=\"map-area mt-30\">
-                            <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7496149.95373021!2d85.84621250756469!3d23.452185887261447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adaaed80e18ba7%3A0xf2d28e0c4e1fc6b!2sBangladesh!5e0!3m2!1sen!2sbd!4v1569913375800!5m2!1sen!2sbd\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\"></iframe>
+                            <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d993.1226828234846!2d-3.9999756255947334!3d5.341797762307845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1eb8dd8b96585%3A0x962983ac134ca7d1!2sCIS%20C%C3%B4te%20d&#39;Ivoire!5e0!3m2!1sfr!2sci!4v1636058300388!5m2!1sfr!2sci\" width=\"600\" height=\"450\" style=\"border-radius: 2px; border: 1px solid #eeeeee; box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;\" allowfullscreen=\"\"></iframe>
                         </div>
                     </div>
                 </div>
@@ -199,14 +199,25 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
 <!--            </div> &lt;!&ndash; container &ndash;&gt;-->
 <!--        </div>-->
 
-        <div class=\"pt-240\">
-            ";
-        // line 126
+        <div class=\"what-we-do-area yellow-bg pt-105 pb-120\">
+            <div class=\"container\">
+                <div class=\"row\">
+                    <div class=\"col-12\">
+                        <h4 class=\"title text-center\">Nos partenaires</h4>
+                        <p class=\"h4 text-pure-blue font-weight-bold text-center\">Nous offrons une meilleur solution pour votre entreprise informatique</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--====== NOS PARTENAIRES =====-->
+        ";
+        // line 137
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("nos-partenaires"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 127
-        echo "        </div>
+        // line 138
+        echo "        <!--====== FIN NOS PARTENAIRES =====-->
     </div>
 </section>";
     }
@@ -223,7 +234,7 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
 
     public function getDebugInfo()
     {
-        return array (  209 => 127,  205 => 126,  193 => 117,  188 => 115,  182 => 112,  176 => 109,  170 => 106,  164 => 103,  158 => 100,  152 => 97,  146 => 94,  140 => 91,  134 => 88,  128 => 85,  51 => 11,  39 => 1,);
+        return array (  220 => 138,  216 => 137,  193 => 117,  188 => 115,  182 => 112,  176 => 109,  170 => 106,  164 => 103,  158 => 100,  152 => 97,  146 => 94,  140 => 91,  134 => 88,  128 => 85,  51 => 11,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -293,7 +304,7 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
                 <div class=\"row\">
                     <div class=\"col-12 mt-n3\">
                         <div class=\"map-area mt-30\">
-                            <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7496149.95373021!2d85.84621250756469!3d23.452185887261447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adaaed80e18ba7%3A0xf2d28e0c4e1fc6b!2sBangladesh!5e0!3m2!1sen!2sbd!4v1569913375800!5m2!1sen!2sbd\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\"></iframe>
+                            <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d993.1226828234846!2d-3.9999756255947334!3d5.341797762307845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1eb8dd8b96585%3A0x962983ac134ca7d1!2sCIS%20C%C3%B4te%20d&#39;Ivoire!5e0!3m2!1sfr!2sci!4v1636058300388!5m2!1sfr!2sci\" width=\"600\" height=\"450\" style=\"border-radius: 2px; border: 1px solid #eeeeee; box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;\" allowfullscreen=\"\"></iframe>
                         </div>
                     </div>
                 </div>
@@ -352,16 +363,27 @@ class __TwigTemplate_7903fe96c0830677eed80185edf70b44d4e966c6585fdd7161abccfb44b
 <!--            </div> &lt;!&ndash; container &ndash;&gt;-->
 <!--        </div>-->
 
-        <div class=\"pt-240\">
-            {% partial 'nos-partenaires' %}
+        <div class=\"what-we-do-area yellow-bg pt-105 pb-120\">
+            <div class=\"container\">
+                <div class=\"row\">
+                    <div class=\"col-12\">
+                        <h4 class=\"title text-center\">Nos partenaires</h4>
+                        <p class=\"h4 text-pure-blue font-weight-bold text-center\">Nous offrons une meilleur solution pour votre entreprise informatique</p>
+                    </div>
+                </div>
+            </div>
         </div>
+
+        <!--====== NOS PARTENAIRES =====-->
+        {% partial 'nos-partenaires' %}
+        <!--====== FIN NOS PARTENAIRES =====-->
     </div>
 </section>", "/var/www/cis-web-site/themes/cis/pages/qui-nous-sommes.htm", "");
     }
     
     public function checkSecurity()
     {
-        static $tags = array("partial" => 126);
+        static $tags = array("partial" => 137);
         static $filters = array("page" => 11, "theme" => 85);
         static $functions = array();
 

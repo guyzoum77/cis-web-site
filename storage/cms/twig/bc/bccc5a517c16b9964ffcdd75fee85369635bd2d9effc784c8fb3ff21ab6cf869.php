@@ -40,7 +40,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
     <div class=\"body\">
         <!--====== BANNER PART START ======-->
         <div class=\"banner-active\">
-            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/slide1.jpg);\">
+            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/banner-cisco-page.jpg);\">
                 <div class=\"banner-overlay\">
                     <div class=\"container\">
                         <div class=\"row\">
@@ -60,7 +60,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                 </div>
             </div>
 
-            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/slide2.jpg);\">
+            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/hp-laptop-banner-3-e1571175764711.jpg);\">
                 <div class=\"banner-overlay\">
                     <div class=\"container\">
                         <div class=\"row\">
@@ -76,7 +76,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     </div> <!-- container -->
                 </div>
             </div>
-            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/slide3.jpg);\">
+            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/latitude-banner-2.jpg);\">
                 <div class=\"banner-overlay\">
                     <div class=\"container\">
                         <div class=\"row\">
@@ -110,7 +110,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-6 offset-lg-1 wow fadeInRight\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInRight;\">
                         <div class=\"section-title\">
                             <p>
-                                CIS WEST AFRICA, expert de plus de 30 ans dans la distribution et l’intégration de solutions, est fournisseur de produits et services technologiques,
+                                CIS WEST AFRICA, expert de plus de 30 ans dans <span class=\"font-weight-bold\">la distribution</span> et l’intégration de solutions, est fournisseur de produits et services technologiques,
                                 adapté à vos besoins et attentes
                                 <br><a href=\"#\" class=\"main-btn wow fadeInUp text-muted\">En savoir plus sur nous <i class=\"fal fa-long-arrow-right\"></i></a>
 
@@ -170,15 +170,25 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
         </div>
 
 
-        <div class=\"what-we-do-area gray-bg pt-105 pb-120\"></div>
+<!--        <div class=\"what-we-do-area gray-bg pt-105 pb-120\"></div>-->
+        <div class=\"what-we-do-area yellow-bg pt-105 pb-120\">
+            <div class=\"container\">
+                <div class=\"row\">
+                    <div class=\"col-12\">
+                        <h4 class=\"title text-center\">Nos partenaires</h4>
+                        <p class=\"h4 text-pure-blue font-weight-bold text-center\">Nous offrons une meilleur solution pour votre entreprise informatique</p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!--====== NOS PARTENAIRES =====-->
         ";
-        // line 129
+        // line 139
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("nos-partenaires"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 130
+        // line 140
         echo "        <!--====== FIN NOS PARTENAIRES =====-->
 
 
@@ -195,33 +205,44 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"features-item\">
                             <p>
                                 CIS WEST AFRICA possède une expertise de plus de 30 ans dans la distribution
-                                et l’intégration de solutions, produits et services technologiques.
-                                La société est organisée en unités opérationnelles qui sont bien
-                                compétentes au sein de leurs segments de marché respectifs.
+                                et l’intégration de solutions, produits et services technologiques. La société est
+                                organisée en unités opérationnelles qui sont bien compétentes au sein de
+                                leurs segments de marché respectifs.
+
+                                <br>
+                                La compétence commerciale et technique de nos équipes, ainsi que leur faculté d’adaptation aux besoins
+                                et aux attentes des différents marchés ont profondément contribué au développement du Groupe.
                             </p>
                             <p class=\"mt-3\">
-                                La compétence commerciale et technique de nos équipes, ainsi
-                                que leur faculté d’adaptation aux besoins et aux attentes des
-                                différents marchés ont profondément contribué au développement du Groupe.
+                                La croissance récente n’aurait pas été possible sans la confiance des clients, des entreprises
+                                technologiques, des petites, moyennes et grandes entreprises qui font confiance à CIS
+                                pour la conception et l’exécution de leurs projets TIC, et qui ont choisi notre groupe
+                                comme leur distributeur/revendeur. Le Groupe CIS est présent dans deux secteurs d’activités :
                             </p>
                             <p class=\"mt-3\">
-                                La croissance récente n’aurait pas été possible sans la confiance des clients,
-                                des entreprises technologiques, des petites, moyennes et grandes entreprises
-                                qui font confiance à CIS pour la conception et l’exécution de leurs projets TIC,
-                                et qui ont choisi notre groupe comme leur distributeur/revendeur.
+                                <strong>L’Intégration de projets d’information et de communication</strong> à travers deux Hubs, CIS Liban
+                                et SMS/RT2i et à travers ses filiales locales (V.A.R), rassemblées au niveau du canal « valeur ».
+                                <br><strong>La distribution</strong> en volume de matériels et logiciels informatiques à travers Unidist,
+                                des plates-formes régionales, Interdist Logistics (Afrique du Sud), Levant Distribution
+                                (Emirats Arabes Unis), Interdist Alliances (Royaume-Uni) et des filiales locales Hiperdist (grossistes).
+                                Cette structuration duelle des activités permet de mieux servir les clients revendeurs et les
+                                utilisateurs finaux sur des gammes de produits et services différents. Ce modèle de fonctionnement
+                                permet par ailleurs une bonne navigation à travers les turbulences et les changements
+                                perpétuels que subissent les TIC, assurant par là au Groupe une capacité constante de
+                                développement durable.
                             </p>
                             <ul>
                                 <li><a class=\"main-btn wow fadeInUp\" href=\"";
-        // line 162
-        echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
+        // line 183
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("qui-nous-sommes");
         echo "\" data-wow-duration=\".5s\" data-wow-delay=\".4s\">En savoir plus sur nous</a></li>
 <!--                                <li><a class=\"main-btn main-btn-2 wow fadeInUp\" href=\"";
-        // line 163
+        // line 184
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
         echo "\" data-wow-duration=\"1s\" data-wow-delay=\".6s\"> <i class=\"fal fa-video\"></i>Learn More</a></li>-->
                             </ul>
-                            <img class=\"d-none d-lg-block h-100\" src=\"";
-        // line 165
+                            <img style=\"top: 0px !important; width: 500px !important;\" class=\"d-none d-lg-block h-100\" src=\"";
+        // line 186
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/accueil/qui-sommes-nous.jpg");
         echo "\">
                         </div>
@@ -325,7 +346,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
 <!--                    <div class=\"col-lg-4 col-md-6\">-->
 <!--                        <div class=\"single-features mt-30 h-100\">-->
 <!--                        &lt;!&ndash;<img src=\"";
-        // line 266
+        // line 287
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/services-1.png");
         echo "\">                          &ndash;&gt;-->
 <!--                            <h4 class=\"title\">CIS</h4>-->
@@ -355,7 +376,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                 <div class=\"row justify-content-center\">
                     <div class=\"col-lg-8\">
                         <div class=\"section-title text-center\">
-                            <h2 class=\"title\">Nous avons faire tellement de choses</h2>
+                            <h2 class=\"title\">Nous avons fait beaucoup de choses</h2>
                         </div>
                     </div>
                 </div>
@@ -364,7 +385,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img alt=\"inphb\" class=\"img-fluid\" src=\"";
-        // line 302
+        // line 323
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/inphb.png");
         echo "\">
                             </div>
@@ -390,7 +411,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img alt=\"orange-banque\" class=\"img-fluid\" src=\"";
-        // line 325
+        // line 346
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-banque.png");
         echo "\">
                             </div>
@@ -408,7 +429,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img alt=\"cepici\" class=\"img-fluid\" src=\"";
-        // line 340
+        // line 361
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cepici.png");
         echo "\">
                             </div>
@@ -429,7 +450,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img alt=\"agds\" class=\"img-fluid\" src=\"";
-        // line 358
+        // line 379
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/agds.png");
         echo "\">
                             </div>
@@ -448,7 +469,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img alt=\"mtn\" class=\"img-fluid\" src=\"";
-        // line 374
+        // line 395
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/mtn.png");
         echo "\">
                             </div>
@@ -466,7 +487,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img class=\"img-fluid\" alt=\"cnps\" src=\"";
-        // line 389
+        // line 410
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cnps.png");
         echo "\">
                             </div>
@@ -497,7 +518,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 417
+        // line 438
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-banque.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -509,7 +530,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 426
+        // line 447
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cepici.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -521,7 +542,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 435
+        // line 456
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/bcrg.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -533,7 +554,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 444
+        // line 465
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cnps.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -545,7 +566,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 453
+        // line 474
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/nsia.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -557,7 +578,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 462
+        // line 483
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/mtn.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -569,7 +590,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 471
+        // line 492
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/inphb.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -581,7 +602,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 480
+        // line 501
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-guinée.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -593,7 +614,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 489
+        // line 510
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/bicici.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -605,7 +626,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 498
+        // line 519
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/advans.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -617,7 +638,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 507
+        // line 528
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/agds.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -644,13 +665,13 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"form-area\">
                             <form action=\"#\">
                                 <div class=\"input-box pt-45 wow fadeInLeft\" data-wow-duration=\"1s\" data-wow-delay=\".2s\">
-                                    <input type=\"text\" placeholder=\"Enter your name\">
+                                    <input type=\"text\" placeholder=\"Entrer votre nom\">
                                 </div>
                                 <div class=\"input-box mt-20 wow fadeInLeft\" data-wow-duration=\"1.2s\" data-wow-delay=\".4s\">
-                                    <input type=\"email\" placeholder=\"Enter your email\">
+                                    <input type=\"email\" placeholder=\"Entrer votre email\">
                                 </div>
                                 <div class=\"input-box mt-20 wow fadeInLeft\" data-wow-duration=\"1.4s\" data-wow-delay=\".6s\">
-                                    <textarea name=\"#\" id=\"#\" cols=\"30\" rows=\"10\" placeholder=\"Enter your message\"></textarea>
+                                    <textarea name=\"#\" id=\"#\" cols=\"30\" rows=\"10\" placeholder=\"Entrer votre message\"></textarea>
                                 </div>
                                 <div class=\"input-box mt-20\">
                                     <button class=\"main-btn wow fadeInUp\" data-wow-duration=\"1.6s\" data-wow-delay=\".2s\" type=\"submit\">Envoyer</button>
@@ -660,7 +681,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     </div>
                     <div class=\"col-lg-6\">
                         <div class=\"get-map d-none d-lg-block\">
-                            <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993207.564767118!2d-77.9807899414373!3d42.92219345357043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1569310771254!5m2!1sen!2sbd\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\"></iframe>
+                            <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d993.1226828234846!2d-3.9999756255947334!3d5.341797762307845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1eb8dd8b96585%3A0x962983ac134ca7d1!2sCIS%20C%C3%B4te%20d&#39;Ivoire!5e0!3m2!1sfr!2sci!4v1636058300388!5m2!1sfr!2sci\" width=\"600\" height=\"450\" style=\"border-radius: 2px; border: 1px solid #eeeeee; box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;\" allowfullscreen=\"\"></iframe>
                         </div>
                     </div>
                 </div>
@@ -683,7 +704,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
 
     public function getDebugInfo()
     {
-        return array (  621 => 507,  609 => 498,  597 => 489,  585 => 480,  573 => 471,  561 => 462,  549 => 453,  537 => 444,  525 => 435,  513 => 426,  501 => 417,  470 => 389,  452 => 374,  433 => 358,  412 => 340,  394 => 325,  368 => 302,  329 => 266,  225 => 165,  220 => 163,  216 => 162,  182 => 130,  178 => 129,  167 => 121,  161 => 118,  54 => 14,  39 => 1,);
+        return array (  642 => 528,  630 => 519,  618 => 510,  606 => 501,  594 => 492,  582 => 483,  570 => 474,  558 => 465,  546 => 456,  534 => 447,  522 => 438,  491 => 410,  473 => 395,  454 => 379,  433 => 361,  415 => 346,  389 => 323,  350 => 287,  246 => 186,  241 => 184,  237 => 183,  192 => 140,  188 => 139,  167 => 121,  161 => 118,  54 => 14,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -692,7 +713,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
     <div class=\"body\">
         <!--====== BANNER PART START ======-->
         <div class=\"banner-active\">
-            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/slide1.jpg);\">
+            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/banner-cisco-page.jpg);\">
                 <div class=\"banner-overlay\">
                     <div class=\"container\">
                         <div class=\"row\">
@@ -709,7 +730,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                 </div>
             </div>
 
-            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/slide2.jpg);\">
+            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/hp-laptop-banner-3-e1571175764711.jpg);\">
                 <div class=\"banner-overlay\">
                     <div class=\"container\">
                         <div class=\"row\">
@@ -725,7 +746,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     </div> <!-- container -->
                 </div>
             </div>
-            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/slide3.jpg);\">
+            <div class=\"single-banner bg_cover\" style=\"background-image: url(themes/cis/assets/images-cis/slides/latitude-banner-2.jpg);\">
                 <div class=\"banner-overlay\">
                     <div class=\"container\">
                         <div class=\"row\">
@@ -759,7 +780,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-6 offset-lg-1 wow fadeInRight\" data-wow-duration=\"1.5s\" data-wow-delay=\"0s\" style=\"visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInRight;\">
                         <div class=\"section-title\">
                             <p>
-                                CIS WEST AFRICA, expert de plus de 30 ans dans la distribution et l’intégration de solutions, est fournisseur de produits et services technologiques,
+                                CIS WEST AFRICA, expert de plus de 30 ans dans <span class=\"font-weight-bold\">la distribution</span> et l’intégration de solutions, est fournisseur de produits et services technologiques,
                                 adapté à vos besoins et attentes
                                 <br><a href=\"#\" class=\"main-btn wow fadeInUp text-muted\">En savoir plus sur nous <i class=\"fal fa-long-arrow-right\"></i></a>
 
@@ -813,7 +834,17 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
         </div>
 
 
-        <div class=\"what-we-do-area gray-bg pt-105 pb-120\"></div>
+<!--        <div class=\"what-we-do-area gray-bg pt-105 pb-120\"></div>-->
+        <div class=\"what-we-do-area yellow-bg pt-105 pb-120\">
+            <div class=\"container\">
+                <div class=\"row\">
+                    <div class=\"col-12\">
+                        <h4 class=\"title text-center\">Nos partenaires</h4>
+                        <p class=\"h4 text-pure-blue font-weight-bold text-center\">Nous offrons une meilleur solution pour votre entreprise informatique</p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!--====== NOS PARTENAIRES =====-->
         {% partial 'nos-partenaires' %}
@@ -833,26 +864,37 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"features-item\">
                             <p>
                                 CIS WEST AFRICA possède une expertise de plus de 30 ans dans la distribution
-                                et l’intégration de solutions, produits et services technologiques.
-                                La société est organisée en unités opérationnelles qui sont bien
-                                compétentes au sein de leurs segments de marché respectifs.
+                                et l’intégration de solutions, produits et services technologiques. La société est
+                                organisée en unités opérationnelles qui sont bien compétentes au sein de
+                                leurs segments de marché respectifs.
+
+                                <br>
+                                La compétence commerciale et technique de nos équipes, ainsi que leur faculté d’adaptation aux besoins
+                                et aux attentes des différents marchés ont profondément contribué au développement du Groupe.
                             </p>
                             <p class=\"mt-3\">
-                                La compétence commerciale et technique de nos équipes, ainsi
-                                que leur faculté d’adaptation aux besoins et aux attentes des
-                                différents marchés ont profondément contribué au développement du Groupe.
+                                La croissance récente n’aurait pas été possible sans la confiance des clients, des entreprises
+                                technologiques, des petites, moyennes et grandes entreprises qui font confiance à CIS
+                                pour la conception et l’exécution de leurs projets TIC, et qui ont choisi notre groupe
+                                comme leur distributeur/revendeur. Le Groupe CIS est présent dans deux secteurs d’activités :
                             </p>
                             <p class=\"mt-3\">
-                                La croissance récente n’aurait pas été possible sans la confiance des clients,
-                                des entreprises technologiques, des petites, moyennes et grandes entreprises
-                                qui font confiance à CIS pour la conception et l’exécution de leurs projets TIC,
-                                et qui ont choisi notre groupe comme leur distributeur/revendeur.
+                                <strong>L’Intégration de projets d’information et de communication</strong> à travers deux Hubs, CIS Liban
+                                et SMS/RT2i et à travers ses filiales locales (V.A.R), rassemblées au niveau du canal « valeur ».
+                                <br><strong>La distribution</strong> en volume de matériels et logiciels informatiques à travers Unidist,
+                                des plates-formes régionales, Interdist Logistics (Afrique du Sud), Levant Distribution
+                                (Emirats Arabes Unis), Interdist Alliances (Royaume-Uni) et des filiales locales Hiperdist (grossistes).
+                                Cette structuration duelle des activités permet de mieux servir les clients revendeurs et les
+                                utilisateurs finaux sur des gammes de produits et services différents. Ce modèle de fonctionnement
+                                permet par ailleurs une bonne navigation à travers les turbulences et les changements
+                                perpétuels que subissent les TIC, assurant par là au Groupe une capacité constante de
+                                développement durable.
                             </p>
                             <ul>
-                                <li><a class=\"main-btn wow fadeInUp\" href=\"{{ 'presentation'|page }}\" data-wow-duration=\".5s\" data-wow-delay=\".4s\">En savoir plus sur nous</a></li>
+                                <li><a class=\"main-btn wow fadeInUp\" href=\"{{ 'qui-nous-sommes'|page }}\" data-wow-duration=\".5s\" data-wow-delay=\".4s\">En savoir plus sur nous</a></li>
 <!--                                <li><a class=\"main-btn main-btn-2 wow fadeInUp\" href=\"{{ 'presentation'|page }}\" data-wow-duration=\"1s\" data-wow-delay=\".6s\"> <i class=\"fal fa-video\"></i>Learn More</a></li>-->
                             </ul>
-                            <img class=\"d-none d-lg-block h-100\" src=\"{{ 'assets/images-cis/accueil/qui-sommes-nous.jpg' |theme }}\">
+                            <img style=\"top: 0px !important; width: 500px !important;\" class=\"d-none d-lg-block h-100\" src=\"{{ 'assets/images-cis/accueil/qui-sommes-nous.jpg' |theme }}\">
                         </div>
                     </div>
                 </div>
@@ -981,7 +1023,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                 <div class=\"row justify-content-center\">
                     <div class=\"col-lg-8\">
                         <div class=\"section-title text-center\">
-                            <h2 class=\"title\">Nous avons faire tellement de choses</h2>
+                            <h2 class=\"title\">Nous avons fait beaucoup de choses</h2>
                         </div>
                     </div>
                 </div>
@@ -1219,13 +1261,13 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"form-area\">
                             <form action=\"#\">
                                 <div class=\"input-box pt-45 wow fadeInLeft\" data-wow-duration=\"1s\" data-wow-delay=\".2s\">
-                                    <input type=\"text\" placeholder=\"Enter your name\">
+                                    <input type=\"text\" placeholder=\"Entrer votre nom\">
                                 </div>
                                 <div class=\"input-box mt-20 wow fadeInLeft\" data-wow-duration=\"1.2s\" data-wow-delay=\".4s\">
-                                    <input type=\"email\" placeholder=\"Enter your email\">
+                                    <input type=\"email\" placeholder=\"Entrer votre email\">
                                 </div>
                                 <div class=\"input-box mt-20 wow fadeInLeft\" data-wow-duration=\"1.4s\" data-wow-delay=\".6s\">
-                                    <textarea name=\"#\" id=\"#\" cols=\"30\" rows=\"10\" placeholder=\"Enter your message\"></textarea>
+                                    <textarea name=\"#\" id=\"#\" cols=\"30\" rows=\"10\" placeholder=\"Entrer votre message\"></textarea>
                                 </div>
                                 <div class=\"input-box mt-20\">
                                     <button class=\"main-btn wow fadeInUp\" data-wow-duration=\"1.6s\" data-wow-delay=\".2s\" type=\"submit\">Envoyer</button>
@@ -1235,7 +1277,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     </div>
                     <div class=\"col-lg-6\">
                         <div class=\"get-map d-none d-lg-block\">
-                            <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993207.564767118!2d-77.9807899414373!3d42.92219345357043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1569310771254!5m2!1sen!2sbd\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\"></iframe>
+                            <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d993.1226828234846!2d-3.9999756255947334!3d5.341797762307845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1eb8dd8b96585%3A0x962983ac134ca7d1!2sCIS%20C%C3%B4te%20d&#39;Ivoire!5e0!3m2!1sfr!2sci!4v1636058300388!5m2!1sfr!2sci\" width=\"600\" height=\"450\" style=\"border-radius: 2px; border: 1px solid #eeeeee; box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;\" allowfullscreen=\"\"></iframe>
                         </div>
                     </div>
                 </div>
@@ -1248,7 +1290,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
     
     public function checkSecurity()
     {
-        static $tags = array("partial" => 129);
+        static $tags = array("partial" => 139);
         static $filters = array("page" => 14, "theme" => 118);
         static $functions = array();
 

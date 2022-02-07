@@ -66,17 +66,20 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                 <div class=\"row justify-content-center\">
                     <div class=\"col-lg-6\">
                         <div class=\"section-title-2 text-center pl-25 pr-25\">
-                            <h2 class=\"title\">Quelques clients satisfaits</h2>
-                            <p>
-                            </p>
+                            <h2 class=\"title\">Nos Références Clients</h2>
                         </div>
+                    </div>
+                </div>
+                <div class=\"section-title row\">
+                    <div class=\"col-12\">
+                        <p class=\"title-country\">Côte d'Ivoire</p>
                     </div>
                 </div>
                 <div class=\"row justify-content-center\">
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 37
+        // line 40
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-banque.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -91,7 +94,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 49
+        // line 52
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/inphb.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -111,7 +114,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 66
+        // line 69
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cepici.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -131,7 +134,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 83
+        // line 86
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/agds.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -146,7 +149,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 95
+        // line 98
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/mtn.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -161,7 +164,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 107
+        // line 110
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cnps.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -180,7 +183,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 123
+        // line 126
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/bicici.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -195,7 +198,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 135
+        // line 138
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/mtn.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -209,7 +212,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 146
+        // line 149
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/mtn.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -226,7 +229,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 160
+        // line 163
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -241,7 +244,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 172
+        // line 175
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/advans.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -256,7 +259,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                     <div class=\"col-lg-4 col-md-6 col-sm-9\">
                         <div class=\"single-news mt-30 h-100\">
                             <img src=\"";
-        // line 184
+        // line 187
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/nsia.png");
         echo "\" alt=\"\">
                             <div class=\"single-news-overlay\">
@@ -271,6 +274,29 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                 </div>
             </div>
         </div>
+
+        <section class=\"checkout-area pt-1\" style=\"background-image: url('assets/images-cis/nous-contacter/action-pattern.png')\">
+            <div class=\"user-actions pb-90\">
+                <div class=\"container\">
+                    <div class=\"row\">
+                        <div class=\"col-8\">
+                            <h3 class=title\">
+                                Besoin d'expert ?
+                                <br>Nous sommes là pour vous satisfaire.
+                            </h3>
+                        </div>
+                        <div class=\"col-4\">
+                            <p class=\"\">
+                                <a class=\"main-btn\" href=\"";
+        // line 213
+        echo $this->extensions['Cms\Twig\Extension']->pageFilter("contactez-nous");
+        echo "\">Contactez-nous</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
 </section>";
     }
@@ -287,7 +313,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
 
     public function getDebugInfo()
     {
-        return array (  260 => 184,  245 => 172,  230 => 160,  213 => 146,  199 => 135,  184 => 123,  165 => 107,  150 => 95,  135 => 83,  115 => 66,  95 => 49,  80 => 37,  51 => 11,  39 => 1,);
+        return array (  292 => 213,  263 => 187,  248 => 175,  233 => 163,  216 => 149,  202 => 138,  187 => 126,  168 => 110,  153 => 98,  138 => 86,  118 => 69,  98 => 52,  83 => 40,  51 => 11,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -319,10 +345,13 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                 <div class=\"row justify-content-center\">
                     <div class=\"col-lg-6\">
                         <div class=\"section-title-2 text-center pl-25 pr-25\">
-                            <h2 class=\"title\">Quelques clients satisfaits</h2>
-                            <p>
-                            </p>
+                            <h2 class=\"title\">Nos Références Clients</h2>
                         </div>
+                    </div>
+                </div>
+                <div class=\"section-title row\">
+                    <div class=\"col-12\">
+                        <p class=\"title-country\">Côte d'Ivoire</p>
                     </div>
                 </div>
                 <div class=\"row justify-content-center\">
@@ -488,6 +517,26 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
                 </div>
             </div>
         </div>
+
+        <section class=\"checkout-area pt-1\" style=\"background-image: url('assets/images-cis/nous-contacter/action-pattern.png')\">
+            <div class=\"user-actions pb-90\">
+                <div class=\"container\">
+                    <div class=\"row\">
+                        <div class=\"col-8\">
+                            <h3 class=title\">
+                                Besoin d'expert ?
+                                <br>Nous sommes là pour vous satisfaire.
+                            </h3>
+                        </div>
+                        <div class=\"col-4\">
+                            <p class=\"\">
+                                <a class=\"main-btn\" href=\"{{ 'contactez-nous'|page }}\">Contactez-nous</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
 </section>", "/var/www/cis-web-site/themes/cis/pages/success-story.htm", "");
     }
@@ -495,7 +544,7 @@ class __TwigTemplate_8ed3c79bf3f7f910356de049e26081e0c5a95a426db5ad18c55dd93ca90
     public function checkSecurity()
     {
         static $tags = array();
-        static $filters = array("page" => 11, "theme" => 37);
+        static $filters = array("page" => 11, "theme" => 40);
         static $functions = array();
 
         try {

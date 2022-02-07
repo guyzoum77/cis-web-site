@@ -1,533 +1,533 @@
-1635386044a:1:{s:19:"nos-partenaires.htm";a:6:{s:8:"fileName";s:19:"nos-partenaires.htm";s:7:"content";s:17848:"==
+1644261435a:1:{s:19:"nos-partenaires.htm";a:6:{s:8:"fileName";s:19:"nos-partenaires.htm";s:7:"content";s:16756:"==
 <!--====== SERVICES TITLE PART START ======-->
-<div class="services-title-area mb-5">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-12">
-                <div class="services-title-item text-center">
-                    <div class="ring-shape"></div>
-                    <h3 class="title">Nos Partenaires</h3>
-                    <p class="custom-title">Nous offrons une meilleure solution  pour votre entreprise informatique</p>
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="brand-active">
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/dell.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/microsoft.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/keysight.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veritas.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/quantum.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/freebalance.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/telenity.png' |theme }}" alt="brand name">
-                                </div><div class="brand-item">
-                                <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/netApp.png' |theme }}" alt="brand name">
-                            </div>
-                            </div> <!-- brand item -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--<div class="latest-services-area">-->
+<!--<div class="services-title-area mb-5">-->
 <!--    <div class="container">-->
-<!--        <div class="row justify-content-center mt-115">-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/dell.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/microsoft.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
 <!--        <div class="row justify-content-center">-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/keysight.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card  mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veritas.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/quantum.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/freebalance.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/telenity.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/netApp.png'|theme }}" alt="">-->
+<!--            <div class="col-lg-12">-->
+<!--                <div class="services-title-item text-center">-->
+<!--                    <div class="ring-shape"></div>-->
+<!--                    <h3 class="title">Nos Partenaires</h3>-->
+<!--                    <p class="custom-title">Nous offrons une meilleure solution  pour votre entreprise informatique</p>-->
+<!--                    <div class="row">-->
+<!--                        <div class="col-lg-12">-->
+<!--                            <div class="brand-active">-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/dell.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/microsoft.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/keysight.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veritas.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/quantum.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/freebalance.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/telenity.png' |theme }}" alt="brand name">-->
+<!--                                </div><div class="brand-item">-->
+<!--                                <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/netApp.png' |theme }}" alt="brand name">-->
+<!--                            </div>-->
+<!--                            </div> &lt;!&ndash; brand item &ndash;&gt;-->
 <!--                        </div>-->
 <!--                    </div>-->
 <!--                </div>-->
 <!--            </div>-->
 <!--        </div>-->
-<!--        <div class="row justify-content-center">-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/symantec.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/riverbed.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle-comm.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/sas.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/xerox.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/vmware.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--        <div class="row justify-content-center">-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/avaya.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/fortinet.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veeam.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/cisco.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div> &lt;!&ndash; container &ndash;&gt;-->
+<!--    </div>-->
 <!--</div>-->
-";s:5:"mtime";i:1635215230;s:6:"markup";s:17844:"<!--====== SERVICES TITLE PART START ======-->
-<div class="services-title-area mb-5">
+
+<div class="latest-services-area">
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-12">
-                <div class="services-title-item text-center">
-                    <div class="ring-shape"></div>
-                    <h3 class="title">Nos Partenaires</h3>
-                    <p class="custom-title">Nous offrons une meilleure solution  pour votre entreprise informatique</p>
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="brand-active">
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/dell.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/microsoft.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/keysight.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veritas.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/quantum.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/freebalance.png' |theme }}" alt="brand name">
-                                </div>
-                                <div class="brand-item">
-                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/telenity.png' |theme }}" alt="brand name">
-                                </div><div class="brand-item">
-                                <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/netApp.png' |theme }}" alt="brand name">
-                            </div>
-                            </div> <!-- brand item -->
+        <div class="row justify-content-center mt-115">
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/dell.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/microsoft.png'|theme }}" alt="">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/keysight.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card  mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veritas.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/quantum.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/freebalance.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/telenity.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/netApp.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/symantec.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/riverbed.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle-comm.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/sas.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/xerox.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/vmware.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/avaya.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/fortinet.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veeam.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/cisco.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- container -->
 </div>
-
-<!--<div class="latest-services-area">-->
+";s:5:"mtime";i:1638313907;s:6:"markup";s:16752:"<!--====== SERVICES TITLE PART START ======-->
+<!--<div class="services-title-area mb-5">-->
 <!--    <div class="container">-->
-<!--        <div class="row justify-content-center mt-115">-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/dell.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mt-15 mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/microsoft.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
 <!--        <div class="row justify-content-center">-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/keysight.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card  mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veritas.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/quantum.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/freebalance.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/telenity.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/netApp.png'|theme }}" alt="">-->
+<!--            <div class="col-lg-12">-->
+<!--                <div class="services-title-item text-center">-->
+<!--                    <div class="ring-shape"></div>-->
+<!--                    <h3 class="title">Nos Partenaires</h3>-->
+<!--                    <p class="custom-title">Nous offrons une meilleure solution  pour votre entreprise informatique</p>-->
+<!--                    <div class="row">-->
+<!--                        <div class="col-lg-12">-->
+<!--                            <div class="brand-active">-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/dell.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/microsoft.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/keysight.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veritas.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/quantum.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/freebalance.png' |theme }}" alt="brand name">-->
+<!--                                </div>-->
+<!--                                <div class="brand-item">-->
+<!--                                    <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/telenity.png' |theme }}" alt="brand name">-->
+<!--                                </div><div class="brand-item">-->
+<!--                                <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/netApp.png' |theme }}" alt="brand name">-->
+<!--                            </div>-->
+<!--                            </div> &lt;!&ndash; brand item &ndash;&gt;-->
 <!--                        </div>-->
 <!--                    </div>-->
 <!--                </div>-->
 <!--            </div>-->
 <!--        </div>-->
-<!--        <div class="row justify-content-center">-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/symantec.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/riverbed.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle-comm.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/sas.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/xerox.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/vmware.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--        <div class="row justify-content-center">-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/avaya.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/fortinet.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veeam.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">-->
-<!--                <div class="card mb-55">-->
-<!--                    <div class="card-body">-->
-<!--                        <div class="services-thumb text-center">-->
-<!--                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/cisco.png'|theme }}" alt="">-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div> &lt;!&ndash; container &ndash;&gt;-->
-<!--</div>-->";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}
+<!--    </div>-->
+<!--</div>-->
+
+<div class="latest-services-area">
+    <div class="container">
+        <div class="row justify-content-center mt-115">
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/dell.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mt-15 mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/microsoft.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/keysight.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card  mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veritas.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/quantum.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/freebalance.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2  wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/telenity.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/netApp.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/symantec.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/riverbed.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle-comm.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/sas.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/xerox.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="3s" data-wow-delay="0s" style="visibility: visible; animation-duration: 3s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/vmware.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration=".5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/avaya.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/fortinet.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/veeam.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-2 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0s" style="visibility: visible; animation-duration: 2s; animation-delay: 0s; animation-name: fadeInUp;">
+                <div class="card mb-55">
+                    <div class="card-body">
+                        <div class="services-thumb text-center">
+                            <img src="{{ 'assets/images-cis/il-nous-ont-fait-confiance/cisco.png'|theme }}" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- container -->
+</div>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

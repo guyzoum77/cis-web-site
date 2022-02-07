@@ -1,4 +1,4 @@
-1635386044a:1:{s:17:"success-story.htm";a:9:{s:8:"fileName";s:17:"success-story.htm";s:7:"content";s:12203:"title = "success-story"
+1644261435a:1:{s:17:"success-story.htm";a:9:{s:8:"fileName";s:17:"success-story.htm";s:7:"content";s:13218:"title = "success-story"
 url = "/success-story"
 layout = "layout"
 is_hidden = 0
@@ -30,10 +30,13 @@ is_hidden = 0
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
                         <div class="section-title-2 text-center pl-25 pr-25">
-                            <h2 class="title">Quelques clients satisfaits</h2>
-                            <p>
-                            </p>
+                            <h2 class="title">Nos Références Clients</h2>
                         </div>
+                    </div>
+                </div>
+                <div class="section-title row">
+                    <div class="col-12">
+                        <p class="title-country">Côte d'Ivoire</p>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -199,9 +202,29 @@ is_hidden = 0
                 </div>
             </div>
         </div>
+
+        <section class="checkout-area pt-1" style="background-image: url('assets/images-cis/nous-contacter/action-pattern.png')">
+            <div class="user-actions pb-90">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-8">
+                            <h3 class=title">
+                                Besoin d'expert ?
+                                <br>Nous sommes là pour vous satisfaire.
+                            </h3>
+                        </div>
+                        <div class="col-4">
+                            <p class="">
+                                <a class="main-btn" href="{{ 'contactez-nous'|page }}">Contactez-nous</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
 </section>
-";s:5:"mtime";i:1635210804;s:6:"markup";s:12120:"<section>
+";s:5:"mtime";i:1638313605;s:6:"markup";s:13135:"<section>
     <div class="body">
         <div class="page-title-area">
             <div class="container">
@@ -228,10 +251,13 @@ is_hidden = 0
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
                         <div class="section-title-2 text-center pl-25 pr-25">
-                            <h2 class="title">Quelques clients satisfaits</h2>
-                            <p>
-                            </p>
+                            <h2 class="title">Nos Références Clients</h2>
                         </div>
+                    </div>
+                </div>
+                <div class="section-title row">
+                    <div class="col-12">
+                        <p class="title-country">Côte d'Ivoire</p>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -397,5 +423,25 @@ is_hidden = 0
                 </div>
             </div>
         </div>
+
+        <section class="checkout-area pt-1" style="background-image: url('assets/images-cis/nous-contacter/action-pattern.png')">
+            <div class="user-actions pb-90">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-8">
+                            <h3 class=title">
+                                Besoin d'expert ?
+                                <br>Nous sommes là pour vous satisfaire.
+                            </h3>
+                        </div>
+                        <div class="col-4">
+                            <p class="">
+                                <a class="main-btn" href="{{ 'contactez-nous'|page }}">Contactez-nous</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
 </section>";s:4:"code";N;s:5:"title";s:13:"success-story";s:3:"url";s:14:"/success-story";s:6:"layout";s:6:"layout";s:9:"is_hidden";s:1:"0";}}
