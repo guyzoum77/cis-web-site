@@ -1,4 +1,4 @@
-1644263826a:1:{s:11:"accueil.htm";a:9:{s:8:"fileName";s:11:"accueil.htm";s:7:"content";s:38209:"title = "accueil"
+1644456076a:1:{s:11:"accueil.htm";a:9:{s:8:"fileName";s:11:"accueil.htm";s:7:"content";s:37635:"title = "accueil"
 url = "/"
 layout = "layout"
 is_hidden = 0
@@ -127,18 +127,6 @@ is_hidden = 0
             </div>
         </div>
 
-
-<!--        <div class="what-we-do-area gray-bg pt-105 pb-120"></div>-->
-        <div class="what-we-do-area yellow-bg pt-105 pb-120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <h4 class="title text-center">Nos partenaires</h4>
-                        <p class="h4 text-pure-blue font-weight-bold text-center">Nous offrons une meilleur solution pour votre entreprise informatique</p>
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <!--====== NOS PARTENAIRES =====-->
         {% partial 'nos-partenaires' %}
@@ -580,7 +568,7 @@ is_hidden = 0
         <!--====== GET IN TOUCH PART ENDS ======-->
     </div>
 </section>
-";s:5:"mtime";i:1644261173;s:6:"markup";s:38139:"<section>
+";s:5:"mtime";i:1644452156;s:6:"markup";s:37565:"<section>
     <div class="body">
         <!--====== BANNER PART START ======-->
         <div class="banner-active">
@@ -704,18 +692,6 @@ is_hidden = 0
             </div>
         </div>
 
-
-<!--        <div class="what-we-do-area gray-bg pt-105 pb-120"></div>-->
-        <div class="what-we-do-area yellow-bg pt-105 pb-120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <h4 class="title text-center">Nos partenaires</h4>
-                        <p class="h4 text-pure-blue font-weight-bold text-center">Nous offrons une meilleur solution pour votre entreprise informatique</p>
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <!--====== NOS PARTENAIRES =====-->
         {% partial 'nos-partenaires' %}

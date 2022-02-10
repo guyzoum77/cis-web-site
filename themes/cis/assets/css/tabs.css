@@ -1,0 +1,112 @@
+/* tabs custom design */
+a:hover,
+a:focus{
+    text-decoration: none !important;
+    outline: none !important;
+}
+.vertical-tab{
+    font-family: 'Barlow', sans-serif;
+    display: table !important;
+}
+.vertical-tab .nav-tabs{
+    display: table-cell !important;
+    width: 28% !important;
+    min-width: 28% !important;
+    vertical-align: top !important;
+    border: 1px solid #e0a239 !important;
+    position: relative !important;
+    box-shadow: rgb(0 0 0 / 10%) 0px 4px 12px;
+}
+.vertical-tab .nav-tabs li{
+    float: none !important;
+    vertical-align: top !important;
+    position: relative !important;
+    /*margin-left: 6%;*/
+    margin-left: 2%;
+}
+.vertical-tab .nav-tabs li a{
+    color: #333 !important;
+    background-color: transparent !important;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    line-height: 18px;
+    text-align: center !important;
+    text-transform: uppercase !important;
+    padding: 20px 10px !important;
+    margin: 0 10px 0 0 !important;
+    border-radius: 0 !important;
+    border: none !important;
+    overflow: hidden !important;
+    position: relative !important;
+    z-index: 1 !important;
+    transition: all 0.3s ease 0s !important;
+}
+.vertical-tab .nav-tabs li a:hover,
+.vertical-tab .nav-tabs li.active a,
+.vertical-tab .nav-tabs li.active a:hover{
+    color: #333 !important;
+    background-color: transparent !important;
+    border: none !important;
+}
+.vertical-tab .nav-tabs li:before{
+    content: '';
+    background: linear-gradient(-135deg, #dbb03e, #ec7e2c) !important;
+    opacity: 0 !important;
+    position: absolute !important;
+    bottom: 10px !important;
+    left: -10px !important;
+    right: -14px !important;
+    top: 10px !important;
+    z-index: -1 !important;
+    transition: all 0.3s ease 0s !important;
+}
+.vertical-tab .nav-tabs li.active a:before,
+.vertical-tab .nav-tabs li a:hover:before,
+.vertical-tab .nav-tabs li:hover:before{
+    opacity: 1 !important;
+    left: 10px !important;
+    right: 10px !important;
+    margin-left: -1rem !important;
+    margin-right: -2rem !important;
+    margin-top: -0.6rem !important;
+    /*margin-bottom: -2rem !important;*/
+    background: linear-gradient(-135deg, #dbb03e, #ec7e2c) !important;
+}
+.vertical-tab .tab-content{
+    color: #fff !important;
+    background: linear-gradient(135deg,#fff,#dbb03e33) !important;
+    font-size: 15px !important;
+    letter-spacing: 0.5px !important;
+    line-height: 25px !important;
+    padding: 10px 17px 10px !important;
+    margin-top: 10px !important;
+    border: 20px solid #dbb03e !important;
+    box-shadow: 0 0 30px -10px #00000033 !important;
+    display: table-cell !important;
+    position: relative !important;
+}
+.vertical-tab .tab-content h3{
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+    margin: 0 0 7px 0 !important;
+}
+@media only screen and (max-width: 479px){
+    .vertical-tab{
+        padding: 0;
+        margin: 0;
+    }
+    .vertical-tab .nav-tabs{
+        width: 100%;
+        border: none;
+        display: block;
+        margin: 0 0 10px;
+    }
+    .vertical-tab .nav-tabs li a{ margin: 0; }
+    .vertical-tab .tab-content{
+        font-size: 14px;
+        margin-top: 0;
+        display: block;
+    }
+    .vertical-tab .tab-content h3{ font-size: 18px; }
+}

@@ -104,6 +104,12 @@ class __TwigTemplate_1bf74ffde505de3b074aef950784eea0b6ebf9db2a8fc3ae439e32b04b1
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/css/style.css");
         echo "\">
 
+    <!--====== tabs css ======-->
+    <link rel=\"stylesheet\" href=\"";
+        // line 43
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/css/tabs.css");
+        echo "\">
+
 
 </head>
 
@@ -127,30 +133,30 @@ class __TwigTemplate_1bf74ffde505de3b074aef950784eea0b6ebf9db2a8fc3ae439e32b04b1
 <!--====== HEADER PART START ======-->
 
 ";
-        // line 64
+        // line 67
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("header"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 65
+        // line 68
         echo "
 <!--====== HEADER PART ENDS ======-->
 
 <section id=\"layout-content\" class=\"body\">
 
     ";
-        // line 70
+        // line 73
         echo $this->env->getExtension('Cms\Twig\Extension')->pageFunction();
-        // line 71
+        // line 74
         echo "
 </section>
 
 <!--====== footer PART START ======-->
 ";
-        // line 75
+        // line 78
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("footer"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 76
+        // line 79
         echo "<!--====== footer PART ENDS ======-->
 
 <!--====== BACK TO TOP ======-->
@@ -164,88 +170,88 @@ class __TwigTemplate_1bf74ffde505de3b074aef950784eea0b6ebf9db2a8fc3ae439e32b04b1
 
 <!--====== jquery js ======-->
 <script src=\"";
-        // line 88
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/vendor/modernizr-3.6.0.min.js");
+        // line 91
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/vendor/jquery-1.12.4.min.js");
         echo "\"></script>
 <script src=\"";
-        // line 89
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/vendor/jquery-1.12.4.min.js");
+        // line 92
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/vendor/modernizr-3.6.0.min.js");
         echo "\"></script>
 
 <!--====== Bootstrap js ======-->
 <script src=\"";
-        // line 92
+        // line 95
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/bootstrap.min.js");
         echo "\"></script>
 <script src=\"";
-        // line 93
+        // line 96
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/popper.min.js");
         echo "\"></script>
 
 <!--====== Slick js ======-->
 <script src=\"";
-        // line 96
+        // line 99
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/slick.min.js");
         echo "\"></script>
 
 <!--====== Isotope js ======-->
 <script src=\"";
-        // line 99
+        // line 102
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/isotope.pkgd.min.js");
         echo "\"></script>
 
 <!--====== Images Loaded js ======-->
 <script src=\"";
-        // line 102
+        // line 105
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/imagesloaded.pkgd.min.js");
         echo "\"></script>
 
 <!--====== Magnific Popup js ======-->
 <script src=\"";
-        // line 105
+        // line 108
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/jquery.magnific-popup.min.js");
         echo "\"></script>
 
 <!--====== Magnific Popup js ======-->
 <script src=\"";
-        // line 108
+        // line 111
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/jquery.counterup.min.js");
         echo "\"></script>
 
 <!--====== Circle Progress js ======-->
 <script src=\"";
-        // line 111
+        // line 114
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/circle-progress.min.js");
         echo "\"></script>
 
 
 <!--====== Syotimer js ======-->
 <script src=\"";
-        // line 115
+        // line 118
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/jquery.syotimer.min.js");
         echo "\"></script>
 
 <!--====== Nice Select js ======-->
 <script src=\"";
-        // line 118
+        // line 121
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/jquery.nice-select.min.js");
         echo "\"></script>
 
 <!--====== wow js ======-->
 <script src=\"";
-        // line 121
+        // line 124
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/wow.min.js");
         echo "\"></script>
 
 <!--====== Magnific Popup js ======-->
 <script src=\"";
-        // line 124
+        // line 127
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/waypoints.min.js");
         echo "\"></script>
 
 <!--====== Main js ======-->
 <script src=\"";
-        // line 127
+        // line 130
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/main.js");
         echo "\"></script>
 
@@ -266,7 +272,7 @@ class __TwigTemplate_1bf74ffde505de3b074aef950784eea0b6ebf9db2a8fc3ae439e32b04b1
 
     public function getDebugInfo()
     {
-        return array (  249 => 127,  243 => 124,  237 => 121,  231 => 118,  225 => 115,  218 => 111,  212 => 108,  206 => 105,  200 => 102,  194 => 99,  188 => 96,  182 => 93,  178 => 92,  172 => 89,  168 => 88,  154 => 76,  150 => 75,  144 => 71,  142 => 70,  135 => 65,  131 => 64,  104 => 40,  98 => 37,  92 => 34,  86 => 31,  80 => 28,  74 => 25,  68 => 22,  62 => 19,  56 => 16,  39 => 1,);
+        return array (  255 => 130,  249 => 127,  243 => 124,  237 => 121,  231 => 118,  224 => 114,  218 => 111,  212 => 108,  206 => 105,  200 => 102,  194 => 99,  188 => 96,  184 => 95,  178 => 92,  174 => 91,  160 => 79,  156 => 78,  150 => 74,  148 => 73,  141 => 68,  137 => 67,  110 => 43,  104 => 40,  98 => 37,  92 => 34,  86 => 31,  80 => 28,  74 => 25,  68 => 22,  62 => 19,  56 => 16,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -311,6 +317,9 @@ class __TwigTemplate_1bf74ffde505de3b074aef950784eea0b6ebf9db2a8fc3ae439e32b04b1
 
     <!--====== Style css ======-->
     <link rel=\"stylesheet\" href=\"{{ 'assets/css/style.css' |theme }}\">
+
+    <!--====== tabs css ======-->
+    <link rel=\"stylesheet\" href=\"{{ 'assets/css/tabs.css' |theme }}\">
 
 
 </head>
@@ -358,8 +367,8 @@ class __TwigTemplate_1bf74ffde505de3b074aef950784eea0b6ebf9db2a8fc3ae439e32b04b1
 
 
 <!--====== jquery js ======-->
-<script src=\"{{ 'assets/js/vendor/modernizr-3.6.0.min.js' | theme}}\"></script>
 <script src=\"{{ 'assets/js/vendor/jquery-1.12.4.min.js' | theme}}\"></script>
+<script src=\"{{ 'assets/js/vendor/modernizr-3.6.0.min.js' | theme}}\"></script>
 
 <!--====== Bootstrap js ======-->
 <script src=\"{{ 'assets/js/bootstrap.min.js' | theme}}\"></script>
@@ -406,7 +415,7 @@ class __TwigTemplate_1bf74ffde505de3b074aef950784eea0b6ebf9db2a8fc3ae439e32b04b1
     
     public function checkSecurity()
     {
-        static $tags = array("partial" => 64, "page" => 70);
+        static $tags = array("partial" => 67, "page" => 73);
         static $filters = array("theme" => 16);
         static $functions = array();
 

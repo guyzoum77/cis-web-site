@@ -7555,5 +7555,9 @@ nav .pagination.pagination-2 li a.active {
 .text-yellow {
   color: #e2be67
 }
+.p-color {
+  color: #002249c2 !important;
+}
+
 /** fin */
 /*# sourceMappingURL=style.css.map */

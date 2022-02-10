@@ -36,97 +36,16 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
     {
         $macros = $this->macros;
         // line 1
-        echo "<!--====== SERVICES TITLE PART START ======-->
-<!--<div class=\"services-title-area mb-5\">-->
-<!--    <div class=\"container\">-->
-<!--        <div class=\"row justify-content-center\">-->
-<!--            <div class=\"col-lg-12\">-->
-<!--                <div class=\"services-title-item text-center\">-->
-<!--                    <div class=\"ring-shape\"></div>-->
-<!--                    <h3 class=\"title\">Nos Partenaires</h3>-->
-<!--                    <p class=\"custom-title\">Nous offrons une meilleure solution  pour votre entreprise informatique</p>-->
-<!--                    <div class=\"row\">-->
-<!--                        <div class=\"col-lg-12\">-->
-<!--                            <div class=\"brand-active\">-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"";
-        // line 14
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
-        echo "\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"";
-        // line 17
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png");
-        echo "\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"";
-        // line 20
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/dell.png");
-        echo "\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"";
-        // line 23
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png");
-        echo "\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"";
-        // line 26
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/oracle.png");
-        echo "\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"";
-        // line 29
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/microsoft.png");
-        echo "\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"";
-        // line 32
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/keysight.png");
-        echo "\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"";
-        // line 35
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/veritas.png");
-        echo "\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"";
-        // line 38
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/quantum.png");
-        echo "\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"";
-        // line 41
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/freebalance.png");
-        echo "\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"";
-        // line 44
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/telenity.png");
-        echo "\" alt=\"brand name\">-->
-<!--                                </div><div class=\"brand-item\">-->
-<!--                                <img src=\"";
-        // line 46
-        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/netApp.png");
-        echo "\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            </div> &lt;!&ndash; brand item &ndash;&gt;-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</div>-->
+        echo "<div class=\"what-we-do-area yellow-bg pt-105 pb-120\">
+    <div class=\"container\">
+        <div class=\"row\">
+            <div class=\"col-12\">
+                <h4 class=\"title text-center\">Nos partenaires</h4>
+                <p class=\"h4 text-pure-blue font-weight-bold text-center\">Nous offrons une meilleur solution pour votre entreprise informatique</p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div class=\"latest-services-area\">
     <div class=\"container\">
@@ -136,7 +55,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 64
+        // line 19
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png");
         echo "\" alt=\"\">
                         </div>
@@ -148,7 +67,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 73
+        // line 28
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png");
         echo "\" alt=\"\">
                         </div>
@@ -160,7 +79,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 82
+        // line 37
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/dell.png");
         echo "\" alt=\"\">
                         </div>
@@ -172,7 +91,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 91
+        // line 46
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png");
         echo "\" alt=\"\">
                         </div>
@@ -184,7 +103,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 100
+        // line 55
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/oracle.png");
         echo "\" alt=\"\">
                         </div>
@@ -196,7 +115,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 109
+        // line 64
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/microsoft.png");
         echo "\" alt=\"\">
                         </div>
@@ -210,7 +129,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 120
+        // line 75
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/keysight.png");
         echo "\" alt=\"\">
                         </div>
@@ -222,7 +141,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 129
+        // line 84
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/veritas.png");
         echo "\" alt=\"\">
                         </div>
@@ -234,7 +153,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 138
+        // line 93
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/quantum.png");
         echo "\" alt=\"\">
                         </div>
@@ -246,7 +165,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 147
+        // line 102
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/freebalance.png");
         echo "\" alt=\"\">
                         </div>
@@ -258,7 +177,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 156
+        // line 111
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/telenity.png");
         echo "\" alt=\"\">
                         </div>
@@ -270,7 +189,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 165
+        // line 120
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/netApp.png");
         echo "\" alt=\"\">
                         </div>
@@ -284,7 +203,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 176
+        // line 131
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/symantec.png");
         echo "\" alt=\"\">
                         </div>
@@ -296,7 +215,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 185
+        // line 140
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/riverbed.png");
         echo "\" alt=\"\">
                         </div>
@@ -308,7 +227,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 194
+        // line 149
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/oracle-comm.png");
         echo "\" alt=\"\">
                         </div>
@@ -320,7 +239,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 203
+        // line 158
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/sas.png");
         echo "\" alt=\"\">
                         </div>
@@ -332,7 +251,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 212
+        // line 167
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/xerox.png");
         echo "\" alt=\"\">
                         </div>
@@ -344,7 +263,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 221
+        // line 176
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/vmware.png");
         echo "\" alt=\"\">
                         </div>
@@ -358,7 +277,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 232
+        // line 187
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/avaya.png");
         echo "\" alt=\"\">
                         </div>
@@ -370,7 +289,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 241
+        // line 196
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/fortinet.png");
         echo "\" alt=\"\">
                         </div>
@@ -382,7 +301,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 250
+        // line 205
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/veeam.png");
         echo "\" alt=\"\">
                         </div>
@@ -394,7 +313,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
                     <div class=\"card-body\">
                         <div class=\"services-thumb text-center\">
                             <img src=\"";
-        // line 259
+        // line 214
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cisco.png");
         echo "\" alt=\"\">
                         </div>
@@ -418,66 +337,21 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
 
     public function getDebugInfo()
     {
-        return array (  398 => 259,  386 => 250,  374 => 241,  362 => 232,  348 => 221,  336 => 212,  324 => 203,  312 => 194,  300 => 185,  288 => 176,  274 => 165,  262 => 156,  250 => 147,  238 => 138,  226 => 129,  214 => 120,  200 => 109,  188 => 100,  176 => 91,  164 => 82,  152 => 73,  140 => 64,  119 => 46,  114 => 44,  108 => 41,  102 => 38,  96 => 35,  90 => 32,  84 => 29,  78 => 26,  72 => 23,  66 => 20,  60 => 17,  54 => 14,  39 => 1,);
+        return array (  317 => 214,  305 => 205,  293 => 196,  281 => 187,  267 => 176,  255 => 167,  243 => 158,  231 => 149,  219 => 140,  207 => 131,  193 => 120,  181 => 111,  169 => 102,  157 => 93,  145 => 84,  133 => 75,  119 => 64,  107 => 55,  95 => 46,  83 => 37,  71 => 28,  59 => 19,  39 => 1,);
     }
 
     public function getSourceContext()
     {
-        return new Source("<!--====== SERVICES TITLE PART START ======-->
-<!--<div class=\"services-title-area mb-5\">-->
-<!--    <div class=\"container\">-->
-<!--        <div class=\"row justify-content-center\">-->
-<!--            <div class=\"col-lg-12\">-->
-<!--                <div class=\"services-title-item text-center\">-->
-<!--                    <div class=\"ring-shape\"></div>-->
-<!--                    <h3 class=\"title\">Nos Partenaires</h3>-->
-<!--                    <p class=\"custom-title\">Nous offrons une meilleure solution  pour votre entreprise informatique</p>-->
-<!--                    <div class=\"row\">-->
-<!--                        <div class=\"col-lg-12\">-->
-<!--                            <div class=\"brand-active\">-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/solution-provider.png' |theme }}\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/hp-partner.png' |theme }}\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/dell.png' |theme }}\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/micro-focus.png' |theme }}\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/oracle.png' |theme }}\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/microsoft.png' |theme }}\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/keysight.png' |theme }}\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/veritas.png' |theme }}\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/quantum.png' |theme }}\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/freebalance.png' |theme }}\" alt=\"brand name\">-->
-<!--                                </div>-->
-<!--                                <div class=\"brand-item\">-->
-<!--                                    <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/telenity.png' |theme }}\" alt=\"brand name\">-->
-<!--                                </div><div class=\"brand-item\">-->
-<!--                                <img src=\"{{ 'assets/images-cis/il-nous-ont-fait-confiance/netApp.png' |theme }}\" alt=\"brand name\">-->
-<!--                            </div>-->
-<!--                            </div> &lt;!&ndash; brand item &ndash;&gt;-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</div>-->
+        return new Source("<div class=\"what-we-do-area yellow-bg pt-105 pb-120\">
+    <div class=\"container\">
+        <div class=\"row\">
+            <div class=\"col-12\">
+                <h4 class=\"title text-center\">Nos partenaires</h4>
+                <p class=\"h4 text-pure-blue font-weight-bold text-center\">Nous offrons une meilleur solution pour votre entreprise informatique</p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div class=\"latest-services-area\">
     <div class=\"container\">
@@ -694,7 +568,7 @@ class __TwigTemplate_98736edeca263d51b8a97466376668489986f3d8cd744deb3fef30cb0de
     public function checkSecurity()
     {
         static $tags = array();
-        static $filters = array("theme" => 14);
+        static $filters = array("theme" => 19);
         static $functions = array();
 
         try {

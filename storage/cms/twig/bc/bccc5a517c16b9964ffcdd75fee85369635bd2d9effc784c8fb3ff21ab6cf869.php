@@ -170,25 +170,13 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
         </div>
 
 
-<!--        <div class=\"what-we-do-area gray-bg pt-105 pb-120\"></div>-->
-        <div class=\"what-we-do-area yellow-bg pt-105 pb-120\">
-            <div class=\"container\">
-                <div class=\"row\">
-                    <div class=\"col-12\">
-                        <h4 class=\"title text-center\">Nos partenaires</h4>
-                        <p class=\"h4 text-pure-blue font-weight-bold text-center\">Nous offrons une meilleur solution pour votre entreprise informatique</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
         <!--====== NOS PARTENAIRES =====-->
         ";
-        // line 139
+        // line 127
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("nos-partenaires"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 140
+        // line 128
         echo "        <!--====== FIN NOS PARTENAIRES =====-->
 
 
@@ -233,16 +221,16 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                             </p>
                             <ul>
                                 <li><a class=\"main-btn wow fadeInUp\" href=\"";
-        // line 183
+        // line 171
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("qui-nous-sommes");
         echo "\" data-wow-duration=\".5s\" data-wow-delay=\".4s\">En savoir plus sur nous</a></li>
 <!--                                <li><a class=\"main-btn main-btn-2 wow fadeInUp\" href=\"";
-        // line 184
+        // line 172
         echo $this->extensions['Cms\Twig\Extension']->pageFilter("presentation");
         echo "\" data-wow-duration=\"1s\" data-wow-delay=\".6s\"> <i class=\"fal fa-video\"></i>Learn More</a></li>-->
                             </ul>
                             <img style=\"top: 0px !important; width: 500px !important;\" class=\"d-none d-lg-block h-100\" src=\"";
-        // line 186
+        // line 174
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/accueil/qui-sommes-nous.jpg");
         echo "\">
                         </div>
@@ -346,7 +334,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
 <!--                    <div class=\"col-lg-4 col-md-6\">-->
 <!--                        <div class=\"single-features mt-30 h-100\">-->
 <!--                        &lt;!&ndash;<img src=\"";
-        // line 287
+        // line 275
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/services-1.png");
         echo "\">                          &ndash;&gt;-->
 <!--                            <h4 class=\"title\">CIS</h4>-->
@@ -385,7 +373,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img alt=\"inphb\" class=\"img-fluid\" src=\"";
-        // line 323
+        // line 311
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/inphb.png");
         echo "\">
                             </div>
@@ -411,7 +399,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img alt=\"orange-banque\" class=\"img-fluid\" src=\"";
-        // line 346
+        // line 334
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-banque.png");
         echo "\">
                             </div>
@@ -429,7 +417,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img alt=\"cepici\" class=\"img-fluid\" src=\"";
-        // line 361
+        // line 349
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cepici.png");
         echo "\">
                             </div>
@@ -450,7 +438,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img alt=\"agds\" class=\"img-fluid\" src=\"";
-        // line 379
+        // line 367
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/agds.png");
         echo "\">
                             </div>
@@ -469,7 +457,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img alt=\"mtn\" class=\"img-fluid\" src=\"";
-        // line 395
+        // line 383
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/mtn.png");
         echo "\">
                             </div>
@@ -487,7 +475,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                         <div class=\"single-portfolio mt-30 h-100\">
                             <div class=\"portfolio-thumb\">
                                 <img class=\"img-fluid\" alt=\"cnps\" src=\"";
-        // line 410
+        // line 398
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cnps.png");
         echo "\">
                             </div>
@@ -518,7 +506,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 438
+        // line 426
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-banque.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -530,7 +518,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 447
+        // line 435
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cepici.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -542,7 +530,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 456
+        // line 444
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/bcrg.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -554,7 +542,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 465
+        // line 453
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/cnps.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -566,7 +554,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 474
+        // line 462
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/nsia.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -578,7 +566,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 483
+        // line 471
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/mtn.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -590,7 +578,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 492
+        // line 480
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/inphb.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -602,7 +590,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 501
+        // line 489
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/orange-guinée.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -614,7 +602,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 510
+        // line 498
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/bicici.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -626,7 +614,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 519
+        // line 507
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/advans.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -638,7 +626,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
                     <div class=\"col-lg-4\">
                         <div class=\"leadership-item mt-30\">
                             <img src=\"";
-        // line 528
+        // line 516
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images-cis/il-nous-ont-fait-confiance/agds.png");
         echo "\" alt=\"\">
                             <div class=\"leadership-content\">
@@ -704,7 +692,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
 
     public function getDebugInfo()
     {
-        return array (  642 => 528,  630 => 519,  618 => 510,  606 => 501,  594 => 492,  582 => 483,  570 => 474,  558 => 465,  546 => 456,  534 => 447,  522 => 438,  491 => 410,  473 => 395,  454 => 379,  433 => 361,  415 => 346,  389 => 323,  350 => 287,  246 => 186,  241 => 184,  237 => 183,  192 => 140,  188 => 139,  167 => 121,  161 => 118,  54 => 14,  39 => 1,);
+        return array (  630 => 516,  618 => 507,  606 => 498,  594 => 489,  582 => 480,  570 => 471,  558 => 462,  546 => 453,  534 => 444,  522 => 435,  510 => 426,  479 => 398,  461 => 383,  442 => 367,  421 => 349,  403 => 334,  377 => 311,  338 => 275,  234 => 174,  229 => 172,  225 => 171,  180 => 128,  176 => 127,  167 => 121,  161 => 118,  54 => 14,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -833,18 +821,6 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
             </div>
         </div>
 
-
-<!--        <div class=\"what-we-do-area gray-bg pt-105 pb-120\"></div>-->
-        <div class=\"what-we-do-area yellow-bg pt-105 pb-120\">
-            <div class=\"container\">
-                <div class=\"row\">
-                    <div class=\"col-12\">
-                        <h4 class=\"title text-center\">Nos partenaires</h4>
-                        <p class=\"h4 text-pure-blue font-weight-bold text-center\">Nous offrons une meilleur solution pour votre entreprise informatique</p>
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <!--====== NOS PARTENAIRES =====-->
         {% partial 'nos-partenaires' %}
@@ -1290,7 +1266,7 @@ class __TwigTemplate_3447924db49f75b63183d7749e973d125cc2f35af53853186f12b758c9d
     
     public function checkSecurity()
     {
-        static $tags = array("partial" => 139);
+        static $tags = array("partial" => 127);
         static $filters = array("page" => 14, "theme" => 118);
         static $functions = array();
 
