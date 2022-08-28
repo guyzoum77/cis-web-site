@@ -1,4 +1,4 @@
-1644456014a:1:{s:10:"layout.htm";a:6:{s:8:"fileName";s:10:"layout.htm";s:7:"content";s:3921:"==
+1646000895a:1:{s:10:"layout.htm";a:6:{s:8:"fileName";s:10:"layout.htm";s:7:"content";s:3979:"==
 <!doctype html>
 <html lang="en">
 
@@ -130,10 +130,12 @@
 <!--====== Main js ======-->
 <script src="{{ 'assets/js/main.js' | theme}}"></script>
 
+<script src="{{ 'assets/js/tabs.js' | theme}}"></script>
+
 </body>
 
 </html>
-";s:5:"mtime";i:1644450345;s:6:"markup";s:3917:"<!doctype html>
+";s:5:"mtime";i:1644794241;s:6:"markup";s:3975:"<!doctype html>
 <html lang="en">
 
 <head>
@@ -263,6 +265,8 @@
 
 <!--====== Main js ======-->
 <script src="{{ 'assets/js/main.js' | theme}}"></script>
+
+<script src="{{ 'assets/js/tabs.js' | theme}}"></script>
 
 </body>
 

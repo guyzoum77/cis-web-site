@@ -255,6 +255,11 @@ class __TwigTemplate_1bf74ffde505de3b074aef950784eea0b6ebf9db2a8fc3ae439e32b04b1
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/main.js");
         echo "\"></script>
 
+<script src=\"";
+        // line 132
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/js/tabs.js");
+        echo "\"></script>
+
 </body>
 
 </html>";
@@ -272,7 +277,7 @@ class __TwigTemplate_1bf74ffde505de3b074aef950784eea0b6ebf9db2a8fc3ae439e32b04b1
 
     public function getDebugInfo()
     {
-        return array (  255 => 130,  249 => 127,  243 => 124,  237 => 121,  231 => 118,  224 => 114,  218 => 111,  212 => 108,  206 => 105,  200 => 102,  194 => 99,  188 => 96,  184 => 95,  178 => 92,  174 => 91,  160 => 79,  156 => 78,  150 => 74,  148 => 73,  141 => 68,  137 => 67,  110 => 43,  104 => 40,  98 => 37,  92 => 34,  86 => 31,  80 => 28,  74 => 25,  68 => 22,  62 => 19,  56 => 16,  39 => 1,);
+        return array (  260 => 132,  255 => 130,  249 => 127,  243 => 124,  237 => 121,  231 => 118,  224 => 114,  218 => 111,  212 => 108,  206 => 105,  200 => 102,  194 => 99,  188 => 96,  184 => 95,  178 => 92,  174 => 91,  160 => 79,  156 => 78,  150 => 74,  148 => 73,  141 => 68,  137 => 67,  110 => 43,  104 => 40,  98 => 37,  92 => 34,  86 => 31,  80 => 28,  74 => 25,  68 => 22,  62 => 19,  56 => 16,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -407,6 +412,8 @@ class __TwigTemplate_1bf74ffde505de3b074aef950784eea0b6ebf9db2a8fc3ae439e32b04b1
 
 <!--====== Main js ======-->
 <script src=\"{{ 'assets/js/main.js' | theme}}\"></script>
+
+<script src=\"{{ 'assets/js/tabs.js' | theme}}\"></script>
 
 </body>
 

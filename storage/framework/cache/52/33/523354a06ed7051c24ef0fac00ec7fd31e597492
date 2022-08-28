@@ -1,4 +1,4 @@
-1644456076a:1:{s:10:"header.htm";a:5:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:3429:"<header class="header-area header-area-2 header-area-4">
+1646000895a:1:{s:10:"header.htm";a:5:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:3438:"<header class="header-area header-area-2 header-area-4">
     <div class="header-top pl-30 pr-30 white-bg">
         <div class="row align-items-center">
             <div class="col-md-6 col-sm-7">
@@ -37,8 +37,8 @@
                         <li class="nav-item {% if this.page.id == 'accueil' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'accueil'|page }}">Accueil</a>
                         </li>
-                        <li class="nav-item {% if this.page.id == 'expertise' %}active{% endif %}">
-                            <a class="nav-link" href="{{ 'expertise'|page }}">Expertise</a>
+                        <li class="nav-item {% if this.page.id == 'nos-services' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'nos-services'|page }}">Nos services</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'success-story' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'success-story'|page }}">Success Story</a>
@@ -55,7 +55,7 @@
         </div> <!-- navigation -->
     </div>
 </header>
-";s:5:"mtime";i:1635384508;s:6:"markup";s:3428:"<header class="header-area header-area-2 header-area-4">
+";s:5:"mtime";i:1645999608;s:6:"markup";s:3437:"<header class="header-area header-area-2 header-area-4">
     <div class="header-top pl-30 pr-30 white-bg">
         <div class="row align-items-center">
             <div class="col-md-6 col-sm-7">
@@ -94,8 +94,8 @@
                         <li class="nav-item {% if this.page.id == 'accueil' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'accueil'|page }}">Accueil</a>
                         </li>
-                        <li class="nav-item {% if this.page.id == 'expertise' %}active{% endif %}">
-                            <a class="nav-link" href="{{ 'expertise'|page }}">Expertise</a>
+                        <li class="nav-item {% if this.page.id == 'nos-services' %}active{% endif %}">
+                            <a class="nav-link" href="{{ 'nos-services'|page }}">Nos services</a>
                         </li>
                         <li class="nav-item {% if this.page.id == 'success-story' %}active{% endif %}">
                             <a class="nav-link" href="{{ 'success-story'|page }}">Success Story</a>

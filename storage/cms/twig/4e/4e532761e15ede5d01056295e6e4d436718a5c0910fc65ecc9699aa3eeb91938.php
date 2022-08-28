@@ -12,7 +12,7 @@ use Twig\Sandbox\SecurityNotAllowedFunctionError;
 use Twig\Source;
 use Twig\Template;
 
-/* /var/www/cis-web-site/themes/cis/pages/expertise.htm */
+/* /var/www/cis-web-site/themes/cis/pages/nos-services.htm */
 class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee76776cf4 extends \Twig\Template
 {
     private $source;
@@ -99,26 +99,43 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
         </div>
 
         <div class=\"container\">
-            <div class=\"row\">
-                <div class=\"col-12\">
-                    <div class=\"vertical-tab\" role=\"tabpanel\">
-                        <!-- Nav tabs -->
-                        <ul class=\"nav nav-tabs\" role=\"tablist\">
-                            <li role=\"presentation\" class=\"active\"><a href=\"#Section1\" aria-controls=\"home\" role=\"tab\" data-toggle=\"tab\">Infrastructure H & S</a></li>
-                            <li role=\"presentation\"><a href=\"#Section2\" aria-controls=\"profile\" role=\"tab\" data-toggle=\"tab\">Microsoft Azure</a></li>
-                            <li role=\"presentation\"><a href=\"#Section3\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Microsoft Office 365</a></li>
-                            <li role=\"presentation\"><a href=\"#Section4\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Archivage Backup</a></li>
-                            <li role=\"presentation\"><a href=\"#Section5\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Infrastructure Virtuelle</a></li>
-                            <li role=\"presentation\"><a href=\"#Section6\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Réseaux et sécurités</a></li>
-                            <li role=\"presentation\"><a href=\"#Section7\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Managed Print Service</a></li>
-                            <li role=\"presentation\"><a href=\"#Section8\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Infogérence</a></li>
-                            <li role=\"presentation\"><a href=\"#Section9\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">GED</a></li>
-                        </ul>
-                        <!-- Tab panes -->
-                        <div class=\"tab-content tabs\">
-                            <div role=\"tabpanel\" class=\"tab-pane fade in active\" id=\"Section1\">
-                                <h3>L’infrastructure informatique</h3>
-                                <p class=\"p-color\">
+            <section class=\"tabs-wrapper\">
+                <div class=\"tabs-container\">
+                    <div class=\"tabs-block\">
+                        <div id=\"tabs-section\" class=\"tabs\">
+                            <ul class=\"tab-head\">
+                                <li>
+                                    <a href=\"#tab-1\" class=\"tab-link active\"><span class=\"tab-label\">Infrastructure H & S</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-2\" class=\"tab-link\"><span class=\"tab-label\">Microsoft Azure</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-3\" class=\"tab-link\"><span class=\"tab-label\">Microsoft Office 365</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-4\" class=\"tab-link\"><span class=\"tab-label\">Archivage Backup</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-5\" class=\"tab-link\"><span class=\"tab-label\">Infrastructure Virtuelle</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-6\" class=\"tab-link\"><span class=\"tab-label\">Réseaux et sécurités</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-7\" class=\"tab-link\"><span class=\"tab-label\">Managed Print Service</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-8\" class=\"tab-link\"><span class=\"tab-label\">Infogérence</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-9\" class=\"tab-link\"><span class=\"tab-label\">GED</span></a>
+                                </li>
+                            </ul>
+
+                            <section id=\"tab-1\" class=\"tab-body entry-content active active-content\">
+                                <h2>Infrastructure H & S</h2>
+                                <p>
                                     Il regroupe l’ensemble des équipements matériels (postes de travail, serveurs, routeurs, périphériques…) et des logiciels (ERP, CRM, messagerie, …) d’une entreprise.
                                     Elle représente l’agencement entre : les différentes applications, les serveurs,
                                     les stockages et le réseau d’entreprise. Tous ces éléments, qui sont connectés entre eux,
@@ -133,9 +150,10 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     SIEM : ArcSight Qradar OUTILS DE SAUVEGARDE Veeam BACKUP Dell EMC Networker Veritas netbackup
                                     Backup exe
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section2\">
-                                <h3>Microsoft Azure</h3>
+                            </section>
+
+                            <section id=\"tab-2\" class=\"tab-body entry-content\">
+                                <h2>Microsoft Azure</h2>
                                 <p class=\"p-color\">
                                     C'est une plateforme applicative en nuage conçue par Microsoft. C’est un concept de « cloud computing » qui permet de sauvegarder ses données informatiques sur des serveurs distants, d'où l'idée de nuage. 
                                     <br>Il s’agit d’une offre d’hébergement d’applications et de donnes que nous pouvons stockés sur leurs serveurs. Et également des services de stockage et synchronisation des données, bus de messages, contacts etc…
@@ -149,9 +167,10 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     Le service HDInsight est un déploiement customisé de la plateforme Big Data Hadoop. Azure Cosmos DB est une base de données NoSQL hébergée pour des cas d’usage spécifiques. Azure Media Services propose des services de lecture, d’indexation, de transcodage et de protection de contenu vidéo.
                                     Au total, <span class=\"font-weight-bold\">Microsoft Azure propose plus d’une vingtaine de catégories</span> de services différentes. Outre les services de calcul, de stockage, de développement web et mobile, on retrouve aussi des services d’intégration, de networking, de conteneurisation et d’analyse de données.
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section3\">
-                                <h3>Office 365</h3>
+                            </section>
+
+                            <section id=\"tab-3\" class=\"tab-body entry-content\">
+                                <h2>Office 365</h2>
                                 <p class=\"p-color\">
                                     C'est une collection de programmes informatiques intégrant plusieurs logiciels informatiques, à l’instar d’Outlook, Power point, Excel, Word…
                                     Autrement dit, c’est un ensemble d’applications ayant pour objectif la facilitation des travaux inhérent à la bureautique. C’est un outil simplifié, permettant un rendement plus performant, que ce soit dans le traitement de textes, des données de l’entreprise ou de la transmission des documents. On peut aussi le considérer comme une suite bureautique ayant pour outils Word, Excel, Outlook, OneNote, Publisher, One drive entreprise, SharePoint, Microsoft team, Yammer. Office365 regorge un éventail d’offres qu’il met à votre disposition
@@ -165,9 +184,10 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     CIS WEST AFRICA vos propose Microsoft office 365 avec des garanties de conformité et de sécurité qui répondent aux enjeux des très grandes entreprises en la matière.
 
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section4\">
-                                <h3>ARCHIVAGE & BACKUP</h3>
+                            </section>
+
+                            <section id=\"tab-4\" class=\"tab-body entry-content\">
+                                <h2>ARCHIVAGE & BACKUP</h2>
                                 <p class=\"p-color\">
                                     La sauvegarde des données est une opération une copie préventive des données des systèmes informatique sur des supports indépendants tels que les disques, les bandes et/ou le cloud.
                                     Elle a pour but de mettre en sécurité des informations et de pallier toute éventualité de panne matérielle, d'infection par un logiciel malveillant, et de suppression volontaire ou fortuite.
@@ -183,9 +203,10 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     <br><span class=\"font-weight-bold\">- Veritas Backup Exec</span>
                                     <br><span class=\"font-weight-bold\">- Veritas NetBAckup</span>
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section5\">
-                                <h3>INFRASTRUCTURE VIRTUELLE</h3>
+                            </section>
+
+                            <section id=\"tab-5\" class=\"tab-body entry-content\">
+                                <h2>INFRASTRUCTURE VIRTUELLE</h2>
 
                                 <p class=\"p-color\">
                                     La virtualisation permet de créer une version virtuelle d’équipements physiques, comme des serveurs, des applications, des systèmes de stockage ou des réseaux virtuels ; l’objectif étant de rationaliser et d’optimiser l’utilisation des ressources physiques pour apporter flexibilité et agilité aux utilisateurs, le tout dans un environnement virtuel.
@@ -208,11 +229,12 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     <br>- Citrix
                                     <br>- OVM
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section6\">
-                                <h3>RESEAUX ET SECURITE</h3>
+                            </section>
 
-                                <p class=\"p-color\">
+                            <section id=\"tab-6\" class=\"tab-body entry-content\">
+                                <h2>RESEAUX ET SECURITE</h2>
+
+                                <p class=\"\">
                                     Notre Expert réseau et sécurité assure la sécurité, la sûreté et la pérennité des systèmes et réseaux d’information et de communication au niveau de l’ensemble d’une entité ou d’un système particulier.
                                     <br>Son rôle comporte une dimension technique forte mais nécessite également une bonne vision managériale et organisationnelle. Notre Expert   effectue un diagnostic avant de proposer des procédures de sécurité. Ce diagnostic permet à la direction de l’entreprise d’avoir conscience des failles de sécurité et ainsi de prendre des décisions en connaissance de cause. Elles permettent également une rationalisation du système d’information.
                                     <br>Ainsi, notre Expert sécurité Identifie en premier les lieux les risques et définie la politique de sécurité en réalisant des audits du système de sécurité, le plus souvent avec l’aide de prestataires et en analysant les risques et les dysfonctionnements, les marges d’amélioration des systèmes de sécurité afin d’établir un plan de prévention des risques informatiques et un plan de continuité d’activité ou plan de maintien en conditions opérationnelles du SI.
@@ -230,10 +252,11 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     <br>Utilisez nos services de mise en œuvre pour intégrer une étendue de technologies de sécurité et migrez à partir d’autres solutions, incluant les anciens produits. Ceci vous permettra aussi d’optimiser vos technologies de sécurité existante pour améliorer l'efficacité de la sécurité.
 
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section7\">
-                                <h3>Managed Print Service (MPS)</h3>
-                                <p class=\"p-color\">
+                            </section>
+
+                            <section id=\"tab-7\" class=\"tab-body entry-content\">
+                                <h2>Managed Print Service MPS</h2>
+                                <p>
                                     Il désigne l'ensemble de logiciels et méthodes qui permettent la gestion et l’optimisation des dispositifs de production de documents (parc d’imprimantes, copieurs multifonction, etc.).
                                     <br>Dans le contexte économique actuel, la réduction et la maîtrise des coûts sont une priorité pour les entreprises. Ça implique l’intégration de la gestion documentaire dans les plans de dépenses stratégiques.
                                     <br>CIS, vous propose de mettre en place une politique d’impression globale via une solution de MPS afin de :
@@ -248,11 +271,13 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     <br>Premièrement, on audite attentivement votre situation actuelle (mesure des coûts d’impression, analyse des volumes et étude des besoins) pour mieux comprendre et optimiser votre besoin en impression.
                                     <br>À partir de là, on identifie les zones de gaspillages cachées, on rationalise le nombre de périphériques et de fournisseurs à gérer et on vous donne nos conseils pour superviser et changer vos habitudes d’impression. Et par la même occasion, vos impressions deviennent plus sûres, plus écologiques et plus ergonomiques, aussi bien pour les utilisateurs que pour le département informatique.
                                     CIS supervise et on gère pour vous toute votre infrastructure d‘impression, et on supprime des activités quotidiennes et répétitives. En résumé, on vous fait gagner du temps et de l’argent !
+
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section8\">
-                                <h3>INFOGERENCE</h3>
-                                <p class=\"p-color\">
+                            </section>
+
+                            <section id=\"tab-8\" class=\"tab-body entry-content\">
+                                <h2>Infogérence</h2>
+                                <p>
                                     Afin de permettre à nos Clients de se concentrer sur leurs cœurs de métiers respectifs, CIS AFRICA a développé des offres d’infogérance adaptées et axées principalement à votre besoin.
                                     <br>CIS AFRICA vous propose de prendre en charge tout ou une partie de la gestion de votre infrastructure afin de vous permettre de vous recentrer sur votre cœur de métier.
                                     <br>Nous accompagnons également les Directions Informatiques dans l’étude et dans la mise en œuvre des projets d’infogérance et offre des solutions d’exploitation adaptées pour chacune d’elles.
@@ -272,12 +297,12 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     <br>Nous sommes des experts en la matière nous nous imprégnons des dernières technologies et méthodes à mettre en place pour optimiser votre parc informatique.
                                     <br>Nous offrons un moyen sûr pour le bon fonctionnement de votre entreprise.
                                     CIS AFRICA a des obligations de moyens et de résultats, c'est un gage de qualité. Nous avons une vision extérieure et nous aidons à l'évolution de votre entreprise.
-
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section9\">
-                                <h3>GED </h3>
-                                <p class=\"p-color\">
+                            </section>
+
+                            <section id=\"tab-9\" class=\"tab-body entry-content\">
+                                <h2>GED</h2>
+                                <p>
                                     Avec la solution GED  CIS vos informations prennent vie et se relient entre elles, elles circulent entre collègues ou au-delà des frontières de l’entreprise, vous renforcez le travail collaboratif entre les différents services tout en maitrisant le flux des données.
                                     <br>La rapidité d’accès offerte par l'archivage électronique des documents accroit votre productivité et renforce votre efficacité.
                                     <br>La Gestion Électronique des Documents utilise des outils et des fonctionnalités pour gérer toutes les étapes du cycle de vie d'un document numérique :
@@ -293,28 +318,23 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                      
                                     <br><span class=\"font-weight-bold\">QUELS SONT LES BÉNÉFICES DE LA GED ?</span>
                                     <br>La mise en place d'une solution GED présente de nombreux atouts par rapport à une gestion classique des documents. Elle permet de réaliser des économies importantes sur l'impression, la diffusion et l'archivage des documents papier. De plus, l'automatisation de certains processus métier et la recherche documentaire facilitée représentent un gros gain de temps. Les collaborateurs de l'entreprise peuvent se concentrer sur du travail à réelle valeur ajoutée. De plus, la GED se charge de donner la même valeur juridique au fichier numérique qu'à son document papier original. Il devient alors très simple de trouver une information demandée par l'URSSAF ou par les impôts. Enfin, la dématérialisation et l'utilisation d'un outil de GED présentent une dimension environnementale assez évidente, grâce à la réduction du papier.
-
                                 </p>
-                            </div>
+                            </section>
                         </div>
                     </div>
                 </div>
-            </div>
+            </section>
         </div>
-
-
-
-
 
 
 
         <div class=\"pt-240\">
             ";
-        // line 268
+        // line 288
         $context['__cms_partial_params'] = [];
         echo $this->env->getExtension('Cms\Twig\Extension')->partialFunction("nos-partenaires"        , $context['__cms_partial_params']        , true        );
         unset($context['__cms_partial_params']);
-        // line 269
+        // line 289
         echo "        </div>
 
 
@@ -372,15 +392,13 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                 </div> <!-- container -->
             </div>
         </div>
-
-
     </div>
 </section>";
     }
 
     public function getTemplateName()
     {
-        return "/var/www/cis-web-site/themes/cis/pages/expertise.htm";
+        return "/var/www/cis-web-site/themes/cis/pages/nos-services.htm";
     }
 
     public function isTraitable()
@@ -390,7 +408,7 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
 
     public function getDebugInfo()
     {
-        return array (  318 => 269,  314 => 268,  56 => 13,  52 => 12,  39 => 1,);
+        return array (  338 => 289,  334 => 288,  56 => 13,  52 => 12,  39 => 1,);
     }
 
     public function getSourceContext()
@@ -452,26 +470,43 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
         </div>
 
         <div class=\"container\">
-            <div class=\"row\">
-                <div class=\"col-12\">
-                    <div class=\"vertical-tab\" role=\"tabpanel\">
-                        <!-- Nav tabs -->
-                        <ul class=\"nav nav-tabs\" role=\"tablist\">
-                            <li role=\"presentation\" class=\"active\"><a href=\"#Section1\" aria-controls=\"home\" role=\"tab\" data-toggle=\"tab\">Infrastructure H & S</a></li>
-                            <li role=\"presentation\"><a href=\"#Section2\" aria-controls=\"profile\" role=\"tab\" data-toggle=\"tab\">Microsoft Azure</a></li>
-                            <li role=\"presentation\"><a href=\"#Section3\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Microsoft Office 365</a></li>
-                            <li role=\"presentation\"><a href=\"#Section4\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Archivage Backup</a></li>
-                            <li role=\"presentation\"><a href=\"#Section5\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Infrastructure Virtuelle</a></li>
-                            <li role=\"presentation\"><a href=\"#Section6\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Réseaux et sécurités</a></li>
-                            <li role=\"presentation\"><a href=\"#Section7\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Managed Print Service</a></li>
-                            <li role=\"presentation\"><a href=\"#Section8\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">Infogérence</a></li>
-                            <li role=\"presentation\"><a href=\"#Section9\" aria-controls=\"messages\" role=\"tab\" data-toggle=\"tab\">GED</a></li>
-                        </ul>
-                        <!-- Tab panes -->
-                        <div class=\"tab-content tabs\">
-                            <div role=\"tabpanel\" class=\"tab-pane fade in active\" id=\"Section1\">
-                                <h3>L’infrastructure informatique</h3>
-                                <p class=\"p-color\">
+            <section class=\"tabs-wrapper\">
+                <div class=\"tabs-container\">
+                    <div class=\"tabs-block\">
+                        <div id=\"tabs-section\" class=\"tabs\">
+                            <ul class=\"tab-head\">
+                                <li>
+                                    <a href=\"#tab-1\" class=\"tab-link active\"><span class=\"tab-label\">Infrastructure H & S</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-2\" class=\"tab-link\"><span class=\"tab-label\">Microsoft Azure</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-3\" class=\"tab-link\"><span class=\"tab-label\">Microsoft Office 365</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-4\" class=\"tab-link\"><span class=\"tab-label\">Archivage Backup</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-5\" class=\"tab-link\"><span class=\"tab-label\">Infrastructure Virtuelle</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-6\" class=\"tab-link\"><span class=\"tab-label\">Réseaux et sécurités</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-7\" class=\"tab-link\"><span class=\"tab-label\">Managed Print Service</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-8\" class=\"tab-link\"><span class=\"tab-label\">Infogérence</span></a>
+                                </li>
+                                <li>
+                                    <a href=\"#tab-9\" class=\"tab-link\"><span class=\"tab-label\">GED</span></a>
+                                </li>
+                            </ul>
+
+                            <section id=\"tab-1\" class=\"tab-body entry-content active active-content\">
+                                <h2>Infrastructure H & S</h2>
+                                <p>
                                     Il regroupe l’ensemble des équipements matériels (postes de travail, serveurs, routeurs, périphériques…) et des logiciels (ERP, CRM, messagerie, …) d’une entreprise.
                                     Elle représente l’agencement entre : les différentes applications, les serveurs,
                                     les stockages et le réseau d’entreprise. Tous ces éléments, qui sont connectés entre eux,
@@ -486,9 +521,10 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     SIEM : ArcSight Qradar OUTILS DE SAUVEGARDE Veeam BACKUP Dell EMC Networker Veritas netbackup
                                     Backup exe
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section2\">
-                                <h3>Microsoft Azure</h3>
+                            </section>
+
+                            <section id=\"tab-2\" class=\"tab-body entry-content\">
+                                <h2>Microsoft Azure</h2>
                                 <p class=\"p-color\">
                                     C'est une plateforme applicative en nuage conçue par Microsoft. C’est un concept de « cloud computing » qui permet de sauvegarder ses données informatiques sur des serveurs distants, d'où l'idée de nuage. 
                                     <br>Il s’agit d’une offre d’hébergement d’applications et de donnes que nous pouvons stockés sur leurs serveurs. Et également des services de stockage et synchronisation des données, bus de messages, contacts etc…
@@ -502,9 +538,10 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     Le service HDInsight est un déploiement customisé de la plateforme Big Data Hadoop. Azure Cosmos DB est une base de données NoSQL hébergée pour des cas d’usage spécifiques. Azure Media Services propose des services de lecture, d’indexation, de transcodage et de protection de contenu vidéo.
                                     Au total, <span class=\"font-weight-bold\">Microsoft Azure propose plus d’une vingtaine de catégories</span> de services différentes. Outre les services de calcul, de stockage, de développement web et mobile, on retrouve aussi des services d’intégration, de networking, de conteneurisation et d’analyse de données.
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section3\">
-                                <h3>Office 365</h3>
+                            </section>
+
+                            <section id=\"tab-3\" class=\"tab-body entry-content\">
+                                <h2>Office 365</h2>
                                 <p class=\"p-color\">
                                     C'est une collection de programmes informatiques intégrant plusieurs logiciels informatiques, à l’instar d’Outlook, Power point, Excel, Word…
                                     Autrement dit, c’est un ensemble d’applications ayant pour objectif la facilitation des travaux inhérent à la bureautique. C’est un outil simplifié, permettant un rendement plus performant, que ce soit dans le traitement de textes, des données de l’entreprise ou de la transmission des documents. On peut aussi le considérer comme une suite bureautique ayant pour outils Word, Excel, Outlook, OneNote, Publisher, One drive entreprise, SharePoint, Microsoft team, Yammer. Office365 regorge un éventail d’offres qu’il met à votre disposition
@@ -518,9 +555,10 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     CIS WEST AFRICA vos propose Microsoft office 365 avec des garanties de conformité et de sécurité qui répondent aux enjeux des très grandes entreprises en la matière.
 
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section4\">
-                                <h3>ARCHIVAGE & BACKUP</h3>
+                            </section>
+
+                            <section id=\"tab-4\" class=\"tab-body entry-content\">
+                                <h2>ARCHIVAGE & BACKUP</h2>
                                 <p class=\"p-color\">
                                     La sauvegarde des données est une opération une copie préventive des données des systèmes informatique sur des supports indépendants tels que les disques, les bandes et/ou le cloud.
                                     Elle a pour but de mettre en sécurité des informations et de pallier toute éventualité de panne matérielle, d'infection par un logiciel malveillant, et de suppression volontaire ou fortuite.
@@ -536,9 +574,10 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     <br><span class=\"font-weight-bold\">- Veritas Backup Exec</span>
                                     <br><span class=\"font-weight-bold\">- Veritas NetBAckup</span>
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section5\">
-                                <h3>INFRASTRUCTURE VIRTUELLE</h3>
+                            </section>
+
+                            <section id=\"tab-5\" class=\"tab-body entry-content\">
+                                <h2>INFRASTRUCTURE VIRTUELLE</h2>
 
                                 <p class=\"p-color\">
                                     La virtualisation permet de créer une version virtuelle d’équipements physiques, comme des serveurs, des applications, des systèmes de stockage ou des réseaux virtuels ; l’objectif étant de rationaliser et d’optimiser l’utilisation des ressources physiques pour apporter flexibilité et agilité aux utilisateurs, le tout dans un environnement virtuel.
@@ -561,11 +600,12 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     <br>- Citrix
                                     <br>- OVM
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section6\">
-                                <h3>RESEAUX ET SECURITE</h3>
+                            </section>
 
-                                <p class=\"p-color\">
+                            <section id=\"tab-6\" class=\"tab-body entry-content\">
+                                <h2>RESEAUX ET SECURITE</h2>
+
+                                <p class=\"\">
                                     Notre Expert réseau et sécurité assure la sécurité, la sûreté et la pérennité des systèmes et réseaux d’information et de communication au niveau de l’ensemble d’une entité ou d’un système particulier.
                                     <br>Son rôle comporte une dimension technique forte mais nécessite également une bonne vision managériale et organisationnelle. Notre Expert   effectue un diagnostic avant de proposer des procédures de sécurité. Ce diagnostic permet à la direction de l’entreprise d’avoir conscience des failles de sécurité et ainsi de prendre des décisions en connaissance de cause. Elles permettent également une rationalisation du système d’information.
                                     <br>Ainsi, notre Expert sécurité Identifie en premier les lieux les risques et définie la politique de sécurité en réalisant des audits du système de sécurité, le plus souvent avec l’aide de prestataires et en analysant les risques et les dysfonctionnements, les marges d’amélioration des systèmes de sécurité afin d’établir un plan de prévention des risques informatiques et un plan de continuité d’activité ou plan de maintien en conditions opérationnelles du SI.
@@ -583,10 +623,11 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     <br>Utilisez nos services de mise en œuvre pour intégrer une étendue de technologies de sécurité et migrez à partir d’autres solutions, incluant les anciens produits. Ceci vous permettra aussi d’optimiser vos technologies de sécurité existante pour améliorer l'efficacité de la sécurité.
 
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section7\">
-                                <h3>Managed Print Service (MPS)</h3>
-                                <p class=\"p-color\">
+                            </section>
+
+                            <section id=\"tab-7\" class=\"tab-body entry-content\">
+                                <h2>Managed Print Service MPS</h2>
+                                <p>
                                     Il désigne l'ensemble de logiciels et méthodes qui permettent la gestion et l’optimisation des dispositifs de production de documents (parc d’imprimantes, copieurs multifonction, etc.).
                                     <br>Dans le contexte économique actuel, la réduction et la maîtrise des coûts sont une priorité pour les entreprises. Ça implique l’intégration de la gestion documentaire dans les plans de dépenses stratégiques.
                                     <br>CIS, vous propose de mettre en place une politique d’impression globale via une solution de MPS afin de :
@@ -601,11 +642,13 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     <br>Premièrement, on audite attentivement votre situation actuelle (mesure des coûts d’impression, analyse des volumes et étude des besoins) pour mieux comprendre et optimiser votre besoin en impression.
                                     <br>À partir de là, on identifie les zones de gaspillages cachées, on rationalise le nombre de périphériques et de fournisseurs à gérer et on vous donne nos conseils pour superviser et changer vos habitudes d’impression. Et par la même occasion, vos impressions deviennent plus sûres, plus écologiques et plus ergonomiques, aussi bien pour les utilisateurs que pour le département informatique.
                                     CIS supervise et on gère pour vous toute votre infrastructure d‘impression, et on supprime des activités quotidiennes et répétitives. En résumé, on vous fait gagner du temps et de l’argent !
+
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section8\">
-                                <h3>INFOGERENCE</h3>
-                                <p class=\"p-color\">
+                            </section>
+
+                            <section id=\"tab-8\" class=\"tab-body entry-content\">
+                                <h2>Infogérence</h2>
+                                <p>
                                     Afin de permettre à nos Clients de se concentrer sur leurs cœurs de métiers respectifs, CIS AFRICA a développé des offres d’infogérance adaptées et axées principalement à votre besoin.
                                     <br>CIS AFRICA vous propose de prendre en charge tout ou une partie de la gestion de votre infrastructure afin de vous permettre de vous recentrer sur votre cœur de métier.
                                     <br>Nous accompagnons également les Directions Informatiques dans l’étude et dans la mise en œuvre des projets d’infogérance et offre des solutions d’exploitation adaptées pour chacune d’elles.
@@ -625,12 +668,12 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                     <br>Nous sommes des experts en la matière nous nous imprégnons des dernières technologies et méthodes à mettre en place pour optimiser votre parc informatique.
                                     <br>Nous offrons un moyen sûr pour le bon fonctionnement de votre entreprise.
                                     CIS AFRICA a des obligations de moyens et de résultats, c'est un gage de qualité. Nous avons une vision extérieure et nous aidons à l'évolution de votre entreprise.
-
                                 </p>
-                            </div>
-                            <div role=\"tabpanel\" class=\"tab-pane fade\" id=\"Section9\">
-                                <h3>GED </h3>
-                                <p class=\"p-color\">
+                            </section>
+
+                            <section id=\"tab-9\" class=\"tab-body entry-content\">
+                                <h2>GED</h2>
+                                <p>
                                     Avec la solution GED  CIS vos informations prennent vie et se relient entre elles, elles circulent entre collègues ou au-delà des frontières de l’entreprise, vous renforcez le travail collaboratif entre les différents services tout en maitrisant le flux des données.
                                     <br>La rapidité d’accès offerte par l'archivage électronique des documents accroit votre productivité et renforce votre efficacité.
                                     <br>La Gestion Électronique des Documents utilise des outils et des fonctionnalités pour gérer toutes les étapes du cycle de vie d'un document numérique :
@@ -646,18 +689,13 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                                      
                                     <br><span class=\"font-weight-bold\">QUELS SONT LES BÉNÉFICES DE LA GED ?</span>
                                     <br>La mise en place d'une solution GED présente de nombreux atouts par rapport à une gestion classique des documents. Elle permet de réaliser des économies importantes sur l'impression, la diffusion et l'archivage des documents papier. De plus, l'automatisation de certains processus métier et la recherche documentaire facilitée représentent un gros gain de temps. Les collaborateurs de l'entreprise peuvent se concentrer sur du travail à réelle valeur ajoutée. De plus, la GED se charge de donner la même valeur juridique au fichier numérique qu'à son document papier original. Il devient alors très simple de trouver une information demandée par l'URSSAF ou par les impôts. Enfin, la dématérialisation et l'utilisation d'un outil de GED présentent une dimension environnementale assez évidente, grâce à la réduction du papier.
-
                                 </p>
-                            </div>
+                            </section>
                         </div>
                     </div>
                 </div>
-            </div>
+            </section>
         </div>
-
-
-
-
 
 
 
@@ -720,15 +758,13 @@ class __TwigTemplate_cf1ce80ab372cc8d0a2de2c543c08fe31c07bc37ccff08ca063936ee767
                 </div> <!-- container -->
             </div>
         </div>
-
-
     </div>
-</section>", "/var/www/cis-web-site/themes/cis/pages/expertise.htm", "");
+</section>", "/var/www/cis-web-site/themes/cis/pages/nos-services.htm", "");
     }
     
     public function checkSecurity()
     {
-        static $tags = array("partial" => 268);
+        static $tags = array("partial" => 288);
         static $filters = array("page" => 12);
         static $functions = array();
 
